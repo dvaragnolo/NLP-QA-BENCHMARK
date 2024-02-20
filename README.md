@@ -1,5 +1,5 @@
 # NLP-QA-BENCHMARK
-This page contains the evaluation collection for Question Answering over CIDOC-CRM on Smithsonian American Art Museum (SAAM) KG. In particular 50000 questions are provided based on 10 query templates (of different radius). These questions are retrieved from 
+This page contains the evaluation collection for Question Answering over CIDOC-CRM on Smithsonian American Art Museum (SAAM) KG. In particular 5'000 questions are provided based on 10 query templates (of different radius). These questions are retrieved from 
 N. GOUNAKIS, M. MOUNTANTONAKIS, and Y. TZITZIKAS "Evaluating a Radius-based Pipeline for Question Answering over Cultural
 (CIDOC-CRM based) Knowledge Graphs" (2023).
 
