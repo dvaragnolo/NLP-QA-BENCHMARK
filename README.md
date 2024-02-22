@@ -21,7 +21,7 @@ Case {Artist}
 Filter(REGEX(str(?label), "{Artist}","i")).
 [...]
 ```
-```
+
 
 ## Results
 
