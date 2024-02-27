@@ -1,0 +1,5502 @@
+[
+  {
+    "id": 4001,
+    "question": "Which year died the creator of Victory Overseas?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.25>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4002,
+    "question": "Which year died the creator of Cathedral Tower, Siena?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.59>",
+    "answers": [
+      "1934"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4003,
+    "question": "Which year died the creator of A Delightful Evening?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.23>",
+    "answers": [
+      "1931"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4004,
+    "question": "Which year died the creator of Radiante?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.17>",
+    "answers": [
+      "2005"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4005,
+    "question": "Which year died the creator of Town Wharf?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.64.20>",
+    "answers": [
+      "1979"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4006,
+    "question": "Which year died the creator of Vagabonds?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.186>",
+    "answers": [
+      "1995"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4007,
+    "question": "Which year died the creator of Plodding Homeward?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.26.8>",
+    "answers": [
+      "1918"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4008,
+    "question": "Which year died the creator of South of Lincoln Square?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.7>",
+    "answers": [
+      "1959"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4009,
+    "question": "Which year died the creator of Ancient Seaport?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.5>",
+    "answers": [
+      "1923"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4010,
+    "question": "Which year died the creator of Pioneers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.8.15>",
+    "answers": [
+      "1940"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4011,
+    "question": "Which year died the creator of Sugar Bowl with Lid?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.44.7A-B>",
+    "answers": [
+      "1986"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4012,
+    "question": "Which year died the creator of Shamrock?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.498>",
+    "answers": [
+      "1910"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4013,
+    "question": "Which year died the creator of Zuni Street Scene?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.5.3>",
+    "answers": [
+      "1952"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4014,
+    "question": "Which year died the creator of Tricyclist?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.29>",
+    "answers": [
+      "1978"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4015,
+    "question": "Which year died the creator of The Wye near Ross?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.275>",
+    "answers": [
+      "1939"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4016,
+    "question": "Which year died the creator of Shadow Magic?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.86.1>",
+    "answers": [
+      "1962"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4017,
+    "question": "Which year died the creator of Flowers in a Basket?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.316>",
+    "answers": [
+      "1979"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4018,
+    "question": "Which year died the creator of Rabbi Newman, San Francisco?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.27>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4019,
+    "question": "Which year died the creator of Pont des Arts?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.81>",
+    "answers": [
+      "1918"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4020,
+    "question": "Which year died the creator of Colored Playground?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.116>",
+    "answers": [
+      "1971"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4021,
+    "question": "Which year died the creator of At Home?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.156>",
+    "answers": [
+      "1968"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4022,
+    "question": "Which year died the creator of All Hallow's Eve?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.12>",
+    "answers": [
+      "1913"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4023,
+    "question": "Which year died the creator of Potsdam Meeting?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.655>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4024,
+    "question": "Which year died the creator of Esther?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.9.10>",
+    "answers": [
+      "1988"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4025,
+    "question": "Which year died the creator of Radio Broadcast?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.66>",
+    "answers": [
+      "1988"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4026,
+    "question": "Which year died the creator of The Exhausted Drum of War?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.24>",
+    "answers": [
+      "1913"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4027,
+    "question": "Which year died the creator of San Juan Pottery?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.5.8>",
+    "answers": [
+      "1952"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4028,
+    "question": "Which year died the creator of Wrestlers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.32>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4029,
+    "question": "Which year died the creator of Tower at Enkhuisen, Holland?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.27>",
+    "answers": [
+      "1934"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4030,
+    "question": "Which year died the creator of Bartholomeo Bongo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.294>",
+    "answers": [
+      "1916"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4031,
+    "question": "Which year died the creator of The Corner Butcher?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.9>",
+    "answers": [
+      "1997"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4032,
+    "question": "Which year died the creator of Cement Mixer?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.69.15>",
+    "answers": [
+      "2001"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4033,
+    "question": "Which year died the creator of Old Fiddler?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.102>",
+    "answers": [
+      "1987"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4034,
+    "question": "Which year died the creator of Cow?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.167>",
+    "answers": [
+      "1922"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4035,
+    "question": "Which year died the creator of Death of Clytaemnestra?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.60>",
+    "answers": [
+      "1988"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4036,
+    "question": "Which year died the creator of Anna Washington Derry?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.91.1>",
+    "answers": [
+      "1948"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4037,
+    "question": "Which year died the creator of Red House?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.323>",
+    "answers": [
+      "1978"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4038,
+    "question": "Which year died the creator of On the letter F of Flora?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.155.377>",
+    "answers": [
+      "1972"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4039,
+    "question": "Which year died the creator of Martigues?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.901>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4040,
+    "question": "Which year died the creator of Concord?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.6.12>",
+    "answers": [
+      "1940"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4041,
+    "question": "Which year died the creator of Under Flowers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.104.72>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4042,
+    "question": "Which year died the creator of Castle Oberlahnstein, Rhine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.119>",
+    "answers": [
+      "1939"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4043,
+    "question": "Which year died the creator of Nude, Dog, Clouds?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.11>",
+    "answers": [
+      "1990"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4044,
+    "question": "Which year died the creator of Manhattan Nocturne?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.185.7>",
+    "answers": [
+      "1984"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4045,
+    "question": "Which year died the creator of Door at San Michele?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.63.1>",
+    "answers": [
+      "1943"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4046,
+    "question": "Which year died the creator of Primeval Family?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.6.7>",
+    "answers": [
+      "2001"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4047,
+    "question": "Which year died the creator of Artists on WPA?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.61>",
+    "answers": [
+      "1974"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4048,
+    "question": "Which year died the creator of Hercules Gets Cerberus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.273>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4049,
+    "question": "Which year died the creator of Locomotive CCNJ?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.65>",
+    "answers": [
+      "1954"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4050,
+    "question": "Which year died the creator of The Old Temeraire?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.27>",
+    "answers": [
+      "1851"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4051,
+    "question": "Which year died the creator of Rites of Spring?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.21>",
+    "answers": [
+      "1957"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4052,
+    "question": "Which year died the creator of Lilac Arbor?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.32.7>",
+    "answers": [
+      "2011"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4053,
+    "question": "Which year died the creator of Self-Portrait with Red Scarf?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.69>",
+    "answers": [
+      "1978"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4054,
+    "question": "Which year died the creator of Santa Maria della Salute?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.11>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4055,
+    "question": "Which year died the creator of Harvest Time?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.12.8>",
+    "answers": [
+      "1983"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4056,
+    "question": "Which year died the creator of Oak Tree?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.5>",
+    "answers": [
+      "1916"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4057,
+    "question": "Which year died the creator of Fishermen at Sea?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.215>",
+    "answers": [
+      "1937"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4058,
+    "question": "Which year died the creator of A Pine Tree?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.158>",
+    "answers": [
+      "1832"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4059,
+    "question": "Which year died the creator of Street in Joliet?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.133>",
+    "answers": [
+      "1992"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4060,
+    "question": "Which year died the creator of Mrs. James Greenleaf?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.162>",
+    "answers": [
+      "1916"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4061,
+    "question": "Which year died the creator of Still Life with Flowers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.174>",
+    "answers": [
+      "1945"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4062,
+    "question": "Which year died the creator of Christmas in Paris?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.82>",
+    "answers": [
+      "1955"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4063,
+    "question": "Which year died the creator of Tlizzy-Thlanny?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.383%2C318>",
+    "answers": [
+      "1948"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4064,
+    "question": "Which year died the creator of Lake Providence Grocery?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.120.55>",
+    "answers": [
+      "1990"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4065,
+    "question": "Which year died the creator of Dolls House?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.30.1>",
+    "answers": [
+      "1986"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4066,
+    "question": "Which year died the creator of New York Window?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.7.4>",
+    "answers": [
+      "1971"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4067,
+    "question": "Which year died the creator of Life Mask (Abraham Lincoln)?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.12>",
+    "answers": [
+      "2001"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4068,
+    "question": "Which year died the creator of Wyoming?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.71>",
+    "answers": [
+      "1994"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4069,
+    "question": "Which year died the creator of Gathering of black men?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.120.26>",
+    "answers": [
+      "1990"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4070,
+    "question": "Which year died the creator of Industrial Plant?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.17.2>",
+    "answers": [
+      "1992"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4071,
+    "question": "Which year died the creator of Talpa?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.25>",
+    "answers": [
+      "1980"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4072,
+    "question": "Which year died the creator of Study in Auburn?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.17>",
+    "answers": [
+      "1931"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4073,
+    "question": "Which year died the creator of Rev. Joseph Pilmore?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.48.84>",
+    "answers": [
+      "1827"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4074,
+    "question": "Which year died the creator of Glove and Shoe, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.2.10>",
+    "answers": [
+      "2009"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4075,
+    "question": "Which year died the creator of St. Augustine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.2.7>",
+    "answers": [
+      "1934"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4076,
+    "question": "Which year died the creator of Standing and Reclining Nymphs?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.21>",
+    "answers": [
+      "1941"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4077,
+    "question": "Which year died the creator of Icon of Saint Mark?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.259>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4078,
+    "question": "Which year died the creator of The Joseph Henry Medal?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.39.2>",
+    "answers": [
+      "1879"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4079,
+    "question": "Which year died the creator of Country Kitchen?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.17>",
+    "answers": [
+      "2008"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4080,
+    "question": "Which year died the creator of Sasha?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.56.1>",
+    "answers": [
+      "2008"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4081,
+    "question": "Which year died the creator of Southern Farmland?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.21.41>",
+    "answers": [
+      "1975"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4082,
+    "question": "Which year died the creator of Lower New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.66.82>",
+    "answers": [
+      "1946"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4083,
+    "question": "Which year died the creator of America/Abundance?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.121>",
+    "answers": [
+      "1954"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4084,
+    "question": "Which year died the creator of The Lobster Fisherman?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.328>",
+    "answers": [
+      "1953"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4085,
+    "question": "Which year died the creator of Boatright Ranch?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.37.32>",
+    "answers": [
+      "1973"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4086,
+    "question": "Which year died the creator of A Homeless Victim of War?",
+    "entity": "<http://data.americanart.si.edu/object/id/1915.11.28>",
+    "answers": [
+      "1952"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4087,
+    "question": "Which year died the creator of Bearded Kneeling Male Nude?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.190>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4088,
+    "question": "Which year died the creator of Family Picnic?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.63>",
+    "answers": [
+      "1956"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4089,
+    "question": "Which year died the creator of Rhinebeck, NY?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.21.10>",
+    "answers": [
+      "1975"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4090,
+    "question": "Which year died the creator of Calf Roping?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.144.78>",
+    "answers": [
+      "1973"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4091,
+    "question": "Which year died the creator of Fisherman's Lunch?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.287>",
+    "answers": [
+      "1999"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4092,
+    "question": "Which year died the creator of Louis Siebert?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.73>",
+    "answers": [
+      "1947"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4093,
+    "question": "Which year died the creator of Reclining?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.9.131>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4094,
+    "question": "Which year died the creator of High Cost of Living?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.40>",
+    "answers": [
+      "1913"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4095,
+    "question": "Which year died the creator of Lobelia Kalmii?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.141>",
+    "answers": [
+      "1940"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4096,
+    "question": "Which year died the creator of Brittany Bonnet?",
+    "entity": "<http://data.americanart.si.edu/object/id/1957.13.1>",
+    "answers": [
+      "1931"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4097,
+    "question": "Which year died the creator of From the Pompidou?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.16.46>",
+    "answers": [
+      "1999"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4098,
+    "question": "Which year died the creator of In Church?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.252>",
+    "answers": [
+      "1916"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4099,
+    "question": "Which year died the creator of King Penguin?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.8>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4100,
+    "question": "Which year died the creator of Minnie?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.744>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4101,
+    "question": "Which year died the creator of Freedom of Worship?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.34.2>",
+    "answers": [
+      "1978"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4102,
+    "question": "Which year died the creator of Roadster?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.63.173B>",
+    "answers": [
+      "1932"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4103,
+    "question": "Which year died the creator of La Vierge?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.88.2>",
+    "answers": [
+      "1976"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4104,
+    "question": "Which year died the creator of Fountain in the Boboli Garden?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.272>",
+    "answers": [
+      "1969"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4105,
+    "question": "Which year died the creator of The Tap on the Window?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.33.2>",
+    "answers": [
+      "1904"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4106,
+    "question": "Which year died the creator of Third and Rhode Island?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.21>",
+    "answers": [
+      "1981"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4107,
+    "question": "Which year died the creator of Bell Foundry, Germany?",
+    "entity": "<http://data.americanart.si.edu/object/id/1913.11.2>",
+    "answers": [
+      "1909"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4108,
+    "question": "Which year died the creator of The Sun in Sung Time?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.155.97>",
+    "answers": [
+      "1972"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4109,
+    "question": "Which year died the creator of Catskill Creek?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.50>",
+    "answers": [
+      "1900"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4110,
+    "question": "Which year died the creator of Pont du Gard, France?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.6>",
+    "answers": [
+      "1934"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4111,
+    "question": "Which year died the creator of Cleavage?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.28.1>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4112,
+    "question": "Which year died the creator of Hope and Fear?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.79.5>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4113,
+    "question": "Which year died the creator of Snowballs?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.91>",
+    "answers": [
+      "1938"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4114,
+    "question": "Which year died the creator of Confidences?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.42>",
+    "answers": [
+      "1919"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4115,
+    "question": "Which year died the creator of The Sculptor and the Model?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.199>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4116,
+    "question": "Which year died the creator of Fallen Tree?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.43.21>",
+    "answers": [
+      "1973"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4117,
+    "question": "Which year died the creator of Entre La Puta y la Muerte?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.10.1>",
+    "answers": [
+      "2006"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4118,
+    "question": "Which year died the creator of El Fireboy y El Mingo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.147>",
+    "answers": [
+      "2011"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4119,
+    "question": "Which year died the creator of Trees Against the Night Sky?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.38.15>",
+    "answers": [
+      "1995"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4120,
+    "question": "Which year died the creator of Grandma Moran?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.193>",
+    "answers": [
+      "1930"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4121,
+    "question": "Which year died the creator of Naxos/Castle of Paros?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.281>",
+    "answers": [
+      "1889"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4122,
+    "question": "Which year died the creator of Boy and Girl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.220>",
+    "answers": [
+      "1987"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4123,
+    "question": "Which year died the creator of Ostend?",
+    "entity": "<http://data.americanart.si.edu/object/id/1915.11.16>",
+    "answers": [
+      "1949"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4124,
+    "question": "Which year died the creator of Worth Street, Facing West?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.16.27>",
+    "answers": [
+      "1999"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4125,
+    "question": "Which year died the creator of Mother Leopard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.235>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4126,
+    "question": "Which year died the creator of Cake Seller, Constantinople?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.98>",
+    "answers": [
+      "1889"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4127,
+    "question": "Which year died the creator of Christmas Greeting Card?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.78>",
+    "answers": [
+      "1949"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4128,
+    "question": "Which year died the creator of Fiat Vita?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.19>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4129,
+    "question": "Which year died the creator of Mountain Climber?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.13.5>",
+    "answers": [
+      "1971"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4130,
+    "question": "Which year died the creator of Blueberry Eyes?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.57>",
+    "answers": [
+      "1962"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4131,
+    "question": "Which year died the creator of Tide Rip?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.392>",
+    "answers": [
+      "1940"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4132,
+    "question": "Which year died the creator of Dockyard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.154>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4133,
+    "question": "Which year died the creator of Singing Pines?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.279>",
+    "answers": [
+      "1954"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4134,
+    "question": "Which year died the creator of Les Poilus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1915.11.79>",
+    "answers": [
+      "1918"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4135,
+    "question": "Which year died the creator of Baseball Bat?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.24.2>",
+    "answers": [
+      "1997"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4136,
+    "question": "Which year died the creator of The Pantheon, Paris?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.429>",
+    "answers": [
+      "1932"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4137,
+    "question": "Which year died the creator of Jean de Nievelles?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.646>",
+    "answers": [
+      "1961"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4138,
+    "question": "Which year died the creator of Setting a Beaver Trap?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.31>",
+    "answers": [
+      "1928"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4139,
+    "question": "Which year died the creator of Francis Bacon, London?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.83.1>",
+    "answers": [
+      "2009"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4140,
+    "question": "Which year died the creator of Venetian Moonlight?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.125>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4141,
+    "question": "Which year died the creator of Construction in White?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.50>",
+    "answers": [
+      "1981"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4142,
+    "question": "Which year died the creator of Land's End?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.48>",
+    "answers": [
+      "2000"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4143,
+    "question": "Which year died the creator of Tattoo Artist in Person?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.157>",
+    "answers": [
+      "1992"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4144,
+    "question": "Which year died the creator of Carolina Low Country?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.44.7>",
+    "answers": [
+      "1991"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4145,
+    "question": "Which year died the creator of Woman in Arbor with Monkey?",
+    "entity": "<http://data.americanart.si.edu/object/id/1957.13.21>",
+    "answers": [
+      "1927"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4146,
+    "question": "Which year died the creator of Cloudy Moon?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.21.2>",
+    "answers": [
+      "1884"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4147,
+    "question": "Which year died the creator of Smoke Rings?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.48.21>",
+    "answers": [
+      "1976"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4148,
+    "question": "Which year died the creator of Approaching Night?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.100>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4149,
+    "question": "Which year died the creator of O'Hara Reading?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.76>",
+    "answers": [
+      "2002"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4150,
+    "question": "Which year died the creator of Hilly Landscape?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.56>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4151,
+    "question": "Which year died the creator of Gouache?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.80>",
+    "answers": [
+      "1918"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4152,
+    "question": "Which year died the creator of Along the Cimarron?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.178>",
+    "answers": [
+      "2004"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4153,
+    "question": "Which year died the creator of At the Foot of Mount Teton?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.32>",
+    "answers": [
+      "2005"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4154,
+    "question": "Which year died the creator of The Birdlover?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.32.22>",
+    "answers": [
+      "1983"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4155,
+    "question": "Which year died the creator of Nutcrackers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.93.78>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4156,
+    "question": "Which year died the creator of Rio della Senza, Venice?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.132>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4157,
+    "question": "Which year died the creator of Port du Bec, Vendee?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.178>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4158,
+    "question": "Which year died the creator of Adoration?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.93.1>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4159,
+    "question": "Which year died the creator of Banana Carrier?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.65.5>",
+    "answers": [
+      "1973"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4160,
+    "question": "Which year died the creator of Christ Walking on the Water?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.39>",
+    "answers": [
+      "1937"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4161,
+    "question": "Which year died the creator of Prairie Sunset?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.79.7>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4162,
+    "question": "Which year died the creator of The Black Hat?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.11>",
+    "answers": [
+      "1925"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4163,
+    "question": "Which year died the creator of Small Gull Sleeping?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.28>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4164,
+    "question": "Which year died the creator of World Unity or Oblivion?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.33>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4165,
+    "question": "Which year died the creator of Path?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.114>",
+    "answers": [
+      "1922"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4166,
+    "question": "Which year died the creator of Wash Tubs?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.61>",
+    "answers": [
+      "1946"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4167,
+    "question": "Which year died the creator of Hudson Bridge?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.119.1>",
+    "answers": [
+      "1973"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4168,
+    "question": "Which year died the creator of Thomas Clarkson Wilberfoss?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.36>",
+    "answers": [
+      "1896"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4169,
+    "question": "Which year died the creator of United States Coast Guard Wet?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.18.93>",
+    "answers": [
+      "1990"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4170,
+    "question": "Which year died the creator of Marcel Griaule?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.73.4>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4171,
+    "question": "Which year died the creator of Spanish Senorita?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.192.3>",
+    "answers": [
+      "1931"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4172,
+    "question": "Which year died the creator of Cagnes?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.706>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4173,
+    "question": "Which year died the creator of Pipe Dance, Assiniboine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.453>",
+    "answers": [
+      "1872"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4174,
+    "question": "Which year died the creator of Benjamin Rush Spencer?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.64>",
+    "answers": [
+      "1902"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4175,
+    "question": "Which year died the creator of Legs of the Sea?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.73>",
+    "answers": [
+      "1925"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4176,
+    "question": "Which year died the creator of Pan de Asugar, Brasil?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.13>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4177,
+    "question": "Which year died the creator of James Viscount Bryce?",
+    "entity": "<http://data.americanart.si.edu/object/id/1914.7.2>",
+    "answers": [
+      "1947"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4178,
+    "question": "Which year died the creator of Arranging the Tulips?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.73>",
+    "answers": [
+      "1932"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4179,
+    "question": "Which year died the creator of Nora Holt?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.132>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4180,
+    "question": "Which year died the creator of Beulah Appleton?",
+    "entity": "<http://data.americanart.si.edu/object/id/1942.11.7>",
+    "answers": [
+      "1853"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4181,
+    "question": "Which year died the creator of Bending Nude?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.4.7>",
+    "answers": [
+      "1932"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4182,
+    "question": "Which year died the creator of Ed. Hubbard, American South?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.80.4>",
+    "answers": [
+      "2009"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4183,
+    "question": "Which year died the creator of Member of the Schuyler Family?",
+    "entity": "<http://data.americanart.si.edu/object/id/1950.4.38>",
+    "answers": [
+      "1846"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4184,
+    "question": "Which year died the creator of Mrs. George Watson?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.189>",
+    "answers": [
+      "1815"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4185,
+    "question": "Which year died the creator of Spider Lake, Wisconsin?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.455>",
+    "answers": [
+      "1941"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4186,
+    "question": "Which year died the creator of La Parisienne?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.11.9>",
+    "answers": [
+      "1925"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4187,
+    "question": "Which year died the creator of Tugboat Captain?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.162>",
+    "answers": [
+      "1986"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4188,
+    "question": "Which year died the creator of Paletas?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.44.31>",
+    "answers": [
+      "1991"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4189,
+    "question": "Which year died the creator of Ossie Davis?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.148>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4190,
+    "question": "Which year died the creator of From the Palatine, Rome?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.145>",
+    "answers": [
+      "1939"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4191,
+    "question": "Which year died the creator of Jack-in-the-Pulpits?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.129.13>",
+    "answers": [
+      "1982"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4192,
+    "question": "Which year died the creator of Loading Lemons, Palermo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.59>",
+    "answers": [
+      "1948"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4193,
+    "question": "Which year died the creator of To Reap Man Must Sow?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.16>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4194,
+    "question": "Which year died the creator of New Ground?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.37.16>",
+    "answers": [
+      "1973"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4195,
+    "question": "Which year died the creator of Le Duc de Liancourt?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.87>",
+    "answers": [
+      "1827"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4196,
+    "question": "Which year died the creator of Annecy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.657>",
+    "answers": [
+      "1983"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4197,
+    "question": "Which year died the creator of Evening Glow at Mono Lake?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.17.3>",
+    "answers": [
+      "1975"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4198,
+    "question": "Which year died the creator of The Spectral Attitudes?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.62>",
+    "answers": [
+      "2004"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4199,
+    "question": "Which year died the creator of Hermit Crab?",
+    "entity": "<http://data.americanart.si.edu/object/id/2000.26.1>",
+    "answers": [
+      "2004"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4200,
+    "question": "Which year died the creator of Rehearsal, Yiddish Theatre?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.110.9>",
+    "answers": [
+      "1968"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4201,
+    "question": "Which year died the creator of Paisaja Antillano?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.157.2>",
+    "answers": [
+      "1999"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4202,
+    "question": "Which year died the creator of Young Girl in Purple?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.149>",
+    "answers": [
+      "1994"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4203,
+    "question": "Which year died the creator of Striped Bass?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.157>",
+    "answers": [
+      "1974"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4204,
+    "question": "Which year died the creator of The Restaurant?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.47.56>",
+    "answers": [
+      "2000"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4205,
+    "question": "Which year died the creator of Nubien (Baouab)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.71>",
+    "answers": [
+      "1895"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4206,
+    "question": "Which year died the creator of Natalie with Violin?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.48>",
+    "answers": [
+      "1931"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4207,
+    "question": "Which year died the creator of Georges Thenault?",
+    "entity": "<http://data.americanart.si.edu/object/id/1927.8.2>",
+    "answers": [
+      "1925"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4208,
+    "question": "Which year died the creator of Street Fight?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.213>",
+    "answers": [
+      "1976"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4209,
+    "question": "Which year died the creator of Branch and Nude Study?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.9A%2CB>",
+    "answers": [
+      "1922"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4210,
+    "question": "Which year died the creator of The Puppy-cat and the Baby?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.36>",
+    "answers": [
+      "1919"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4211,
+    "question": "Which year died the creator of L' Etang?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.198>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4212,
+    "question": "Which year died the creator of Footbridge?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.105>",
+    "answers": [
+      "1919"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4213,
+    "question": "Which year died the creator of One-star?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.362%2C116>",
+    "answers": [
+      "1949"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4214,
+    "question": "Which year died the creator of The Wake on the Ferry?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.215>",
+    "answers": [
+      "1951"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4215,
+    "question": "Which year died the creator of Supremacy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.17>",
+    "answers": [
+      "1924"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4216,
+    "question": "Which year died the creator of Nut Street Station?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.10>",
+    "answers": [
+      "2000"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4217,
+    "question": "Which year died the creator of Identification Manual?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.124.250A-C>",
+    "answers": [
+      "2002"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4218,
+    "question": "Which year died the creator of The Lorelei?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.8>",
+    "answers": [
+      "1917"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4219,
+    "question": "Which year died the creator of Trapeze Girl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.70.1>",
+    "answers": [
+      "1971"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4220,
+    "question": "Which year died the creator of Ella at the Piano?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.85.1>",
+    "answers": [
+      "1938"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4221,
+    "question": "Which year died the creator of Harlem Church?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.1114>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4222,
+    "question": "Which year died the creator of The Perfume of Roses?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.15>",
+    "answers": [
+      "1942"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4223,
+    "question": "Which year died the creator of Group Along the Road?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.91>",
+    "answers": [
+      "1958"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4224,
+    "question": "Which year died the creator of Lounge Chair?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.34>",
+    "answers": [
+      "1990"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4225,
+    "question": "Which year died the creator of Woman on a Porch?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.185>",
+    "answers": [
+      "1934"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4226,
+    "question": "Which year died the creator of The Excavators?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.74.12>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4227,
+    "question": "Which year died the creator of Chatham House, Charlotte, NC?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.122.4>",
+    "answers": [
+      "2001"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4228,
+    "question": "Which year died the creator of Rubus articus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.200>",
+    "answers": [
+      "1940"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4229,
+    "question": "Which year died the creator of Midsummer?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.76.2>",
+    "answers": [
+      "1971"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4230,
+    "question": "Which year died the creator of Mr. Kafka?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.22>",
+    "answers": [
+      "2001"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4231,
+    "question": "Which year died the creator of Head of a Black Man?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.69A-B>",
+    "answers": [
+      "1910"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4232,
+    "question": "Which year died the creator of Farmyard, Albi?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.85.25>",
+    "answers": [
+      "1938"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4233,
+    "question": "Which year died the creator of Classical Subject?",
+    "entity": "<http://data.americanart.si.edu/object/id/1915.11.60>",
+    "answers": [
+      "1930"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4234,
+    "question": "Which year died the creator of The Country Church?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.32>",
+    "answers": [
+      "1954"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4235,
+    "question": "Which year died the creator of Captain Charles McKnight?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.137>",
+    "answers": [
+      "1822"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4236,
+    "question": "Which year died the creator of J.C. Calhoun?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.81>",
+    "answers": [
+      "1889"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4237,
+    "question": "Which year died the creator of Lou (Salve Tu Donnine)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.155.144>",
+    "answers": [
+      "1972"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4238,
+    "question": "Which year died the creator of Aerodynamics?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.39.5>",
+    "answers": [
+      "1988"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4239,
+    "question": "Which year died the creator of Head of Osage Indian?",
+    "entity": "<http://data.americanart.si.edu/object/id/1895.10.7>",
+    "answers": [
+      "1907"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4240,
+    "question": "Which year died the creator of Crow Creek?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.179>",
+    "answers": [
+      "1922"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4241,
+    "question": "Which year died the creator of Jardin du Luxembourg?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.7>",
+    "answers": [
+      "1998"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4242,
+    "question": "Which year died the creator of Portrait of Rosalba Peale?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.71>",
+    "answers": [
+      "1860"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4243,
+    "question": "Which year died the creator of The Smile?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.95.25>",
+    "answers": [
+      "1972"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4244,
+    "question": "Which year died the creator of Structure?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.317>",
+    "answers": [
+      "1953"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4245,
+    "question": "Which year died the creator of Tropic Moon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.92>",
+    "answers": [
+      "1947"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4246,
+    "question": "Which year died the creator of Ouray?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.108.40>",
+    "answers": [
+      "1994"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4247,
+    "question": "Which year died the creator of Provincetown Icon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.94>",
+    "answers": [
+      "1961"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4248,
+    "question": "Which year died the creator of Henry Clay Making a Speech?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.368>",
+    "answers": [
+      "2000"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4249,
+    "question": "Which year died the creator of Encompassed in Purple?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.26.12>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4250,
+    "question": "Which year died the creator of Ponte Megio, Venice?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.127>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4251,
+    "question": "Which year died the creator of Undaunted (Torso)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.449.17>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4252,
+    "question": "Which year died the creator of Traders, Gallup, N.M.?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.226>",
+    "answers": [
+      "1975"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4253,
+    "question": "Which year died the creator of Little Peasant Girl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.198>",
+    "answers": [
+      "1950"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4254,
+    "question": "Which year died the creator of Shells, Buoys and Bottle?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.15>",
+    "answers": [
+      "1993"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4255,
+    "question": "Which year died the creator of Trieste?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.57>",
+    "answers": [
+      "1889"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4256,
+    "question": "Which year died the creator of Man Sketching?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.678>",
+    "answers": [
+      "1963"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4257,
+    "question": "Which year died the creator of Temple of Nike Apteros?",
+    "entity": "<http://data.americanart.si.edu/object/id/1927.5.8>",
+    "answers": [
+      "1912"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4258,
+    "question": "Which year died the creator of Ruel Pardee Tolman?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.28>",
+    "answers": [
+      "1984"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4259,
+    "question": "Which year died the creator of St. Francis?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.121.5>",
+    "answers": [
+      "1980"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4260,
+    "question": "Which year died the creator of One Horse Farm?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.65.2>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4261,
+    "question": "Which year died the creator of Country Pool?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.90.6>",
+    "answers": [
+      "1988"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4262,
+    "question": "Which year died the creator of Every Knee Must Bend?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.2>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4263,
+    "question": "Which year died the creator of John Swanwick?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.16.2>",
+    "answers": [
+      "1805"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4264,
+    "question": "Which year died the creator of White Tanks?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.81.22>",
+    "answers": [
+      "1973"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4265,
+    "question": "Which year died the creator of Tenement Fire?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.80.1>",
+    "answers": [
+      "2001"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4266,
+    "question": "Which year died the creator of Romare Bearden?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.163>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4267,
+    "question": "Which year died the creator of On Fire?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.10>",
+    "answers": [
+      "2012"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4268,
+    "question": "Which year died the creator of Gourmet Shop?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.48.1>",
+    "answers": [
+      "2011"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4269,
+    "question": "Which year died the creator of The Things That Are Caesar's?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.46.8>",
+    "answers": [
+      "1974"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4270,
+    "question": "Which year died the creator of Mules?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.93>",
+    "answers": [
+      "1975"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4271,
+    "question": "Which year died the creator of Prince Albert?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.133>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4272,
+    "question": "Which year died the creator of Le Bonnet a Brides?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.18.12>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4273,
+    "question": "Which year died the creator of Prizefighters?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.65.195>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4274,
+    "question": "Which year died the creator of Sheepyard, Moonlight?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.71>",
+    "answers": [
+      "1938"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4275,
+    "question": "Which year died the creator of Mount Healthy, Ohio?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.159>",
+    "answers": [
+      "1872"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4276,
+    "question": "Which year died the creator of Man in Glasses?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.756>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4277,
+    "question": "Which year died the creator of Beatrice?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.7>",
+    "answers": [
+      "1931"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4278,
+    "question": "Which year died the creator of Carnegie Corporation Ashtray?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.59>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4279,
+    "question": "Which year died the creator of Humus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.74>",
+    "answers": [
+      "2000"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4280,
+    "question": "Which year died the creator of Carolina?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.6.12>",
+    "answers": [
+      "2001"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4281,
+    "question": "Which year died the creator of Couple Dancing, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.15.6>",
+    "answers": [
+      "2009"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4282,
+    "question": "Which year died the creator of The Poor Feeding the Rich?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.18.16>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4283,
+    "question": "Which year died the creator of Beach in Normandy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.3>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4284,
+    "question": "Which year died the creator of Heieracium gracile?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.139>",
+    "answers": [
+      "1940"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4285,
+    "question": "Which year died the creator of Pickle Eater of the Nile?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.66.16>",
+    "answers": [
+      "1889"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4286,
+    "question": "Which year died the creator of Young Michelangelo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.53>",
+    "answers": [
+      "1916"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4287,
+    "question": "Which year died the creator of Afterglow?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.58>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4288,
+    "question": "Which year died the creator of Passion Flower?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.115.1>",
+    "answers": [
+      "1994"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4289,
+    "question": "Which year died the creator of The Runaways?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.103.8>",
+    "answers": [
+      "1950"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4290,
+    "question": "Which year died the creator of Nude on Posing Stand?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.213>",
+    "answers": [
+      "1951"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4291,
+    "question": "Which year died the creator of Tarflower (Befaria racemosa)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.356>",
+    "answers": [
+      "1940"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4292,
+    "question": "Which year died the creator of Market in Prague?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.119>",
+    "answers": [
+      "1980"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4293,
+    "question": "Which year died the creator of Little Town by Moonlight?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.105.71>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4294,
+    "question": "Which year died the creator of In Old Mexico?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.375>",
+    "answers": [
+      "1979"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4295,
+    "question": "Which year died the creator of Faith?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.22>",
+    "answers": [
+      "1873"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4296,
+    "question": "Which year died the creator of Graf Zeppelin?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.108.36>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4297,
+    "question": "Which year died the creator of Red Flower?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.96>",
+    "answers": [
+      "1981"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4298,
+    "question": "Which year died the creator of Mr. Cass Gilbert?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.4>",
+    "answers": [
+      "1951"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4299,
+    "question": "Which year died the creator of Mount Chocorua?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.81>",
+    "answers": [
+      "1901"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4300,
+    "question": "Which year died the creator of Field Sketch of Rocky Canyon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1947.13.46>",
+    "answers": [
+      "1926"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4301,
+    "question": "Which year died the creator of Red Tea House, Tajikistan?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.59.24>",
+    "answers": [
+      "1973"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4302,
+    "question": "Which year died the creator of December Trees?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.23>",
+    "answers": [
+      "1988"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4303,
+    "question": "Which year died the creator of A Shoshonee Indian Smoking?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.25.1>",
+    "answers": [
+      "1874"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4304,
+    "question": "Which year died the creator of Horse Study and Rabbits?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.165>",
+    "answers": [
+      "1922"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4305,
+    "question": "Which year died the creator of Straw Flowers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.105>",
+    "answers": [
+      "1959"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4306,
+    "question": "Which year died the creator of Eddyville?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.68>",
+    "answers": [
+      "1971"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4307,
+    "question": "Which year died the creator of On the Hayle?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.85.51>",
+    "answers": [
+      "1938"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4308,
+    "question": "Which year died the creator of Fisher Folk?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.238>",
+    "answers": [
+      "1976"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4309,
+    "question": "Which year died the creator of A Box at Minsky's?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.88>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4310,
+    "question": "Which year died the creator of Charleston, S.C.?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.122.1>",
+    "answers": [
+      "2001"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4311,
+    "question": "Which year died the creator of Abstract Still Life?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.30>",
+    "answers": [
+      "1968"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4312,
+    "question": "Which year died the creator of Lying in Wait?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.15>",
+    "answers": [
+      "1928"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4313,
+    "question": "Which year died the creator of Study for Relief?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.642>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4314,
+    "question": "Which year died the creator of Grey Night Phenomenon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.92.1>",
+    "answers": [
+      "1978"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4315,
+    "question": "Which year died the creator of Norwegian Landscape?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.66>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4316,
+    "question": "Which year died the creator of Another Way to Leave a Room?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.81.2>",
+    "answers": [
+      "1994"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4317,
+    "question": "Which year died the creator of Laura at Fifteen?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.50>",
+    "answers": [
+      "1931"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4318,
+    "question": "Which year died the creator of Provincetown, Mass.?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.184>",
+    "answers": [
+      "1978"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4319,
+    "question": "Which year died the creator of Elihu Root?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.16.1>",
+    "answers": [
+      "1953"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4320,
+    "question": "Which year died the creator of Mouth of the Arno?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.86>",
+    "answers": [
+      "1939"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4321,
+    "question": "Which year died the creator of Buck and Master?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.42>",
+    "answers": [
+      "1980"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4322,
+    "question": "Which year died the creator of Portrait of Frank Ribelin?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.42.3>",
+    "answers": [
+      "2012"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4323,
+    "question": "Which year died the creator of Study for Self-Portrait?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.42.11>",
+    "answers": [
+      "2012"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4324,
+    "question": "Which year died the creator of Sunside Stock & Poultry Farm?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.21.51>",
+    "answers": [
+      "1991"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4325,
+    "question": "Which year died the creator of The Artist's Children?",
+    "entity": "<http://data.americanart.si.edu/object/id/1938.10.4>",
+    "answers": [
+      "1870"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4326,
+    "question": "Which year died the creator of Burro Train?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.123.4>",
+    "answers": [
+      "1969"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4327,
+    "question": "Which year died the creator of Roslyn?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.21>",
+    "answers": [
+      "1965"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4328,
+    "question": "Which year died the creator of The Maenads?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.175>",
+    "answers": [
+      "1976"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4329,
+    "question": "Which year died the creator of Light Green?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.52>",
+    "answers": [
+      "1983"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4330,
+    "question": "Which year died the creator of Jane Stone?",
+    "entity": "<http://data.americanart.si.edu/object/id/1934.11.1>",
+    "answers": [
+      "1843"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4331,
+    "question": "Which year died the creator of Fulton Fish Market?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.43.27>",
+    "answers": [
+      "1973"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4332,
+    "question": "Which year died the creator of Models and Cat Mobile?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.10>",
+    "answers": [
+      "1990"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4333,
+    "question": "Which year died the creator of Nude: Study of a Young Girl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.46>",
+    "answers": [
+      "1937"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4334,
+    "question": "Which year died the creator of The Blockmaker?",
+    "entity": "<http://data.americanart.si.edu/object/id/1912.2.1>",
+    "answers": [
+      "1915"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4335,
+    "question": "Which year died the creator of Standing Nude Child?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.183.19>",
+    "answers": [
+      "1885"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4336,
+    "question": "Which year died the creator of Kentucky Barnyard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.594>",
+    "answers": [
+      "1950"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4337,
+    "question": "Which year died the creator of Hispania?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.120>",
+    "answers": [
+      "1973"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4338,
+    "question": "Which year died the creator of In Winter, Kiowa?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.161>",
+    "answers": [
+      "1928"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4339,
+    "question": "Which year died the creator of Woman Washing Clothes?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.65.7>",
+    "answers": [
+      "1967"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4340,
+    "question": "Which year died the creator of Lady with Blue Hair Ribbon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1955.5.2>",
+    "answers": [
+      "1955"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4341,
+    "question": "Which year died the creator of African Head Carving?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.70>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4342,
+    "question": "Which year died the creator of R. D. Shepherd as Shylock?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.98>",
+    "answers": [
+      "1931"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4343,
+    "question": "Which year died the creator of Jeune Faune?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.39>",
+    "answers": [
+      "1931"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4344,
+    "question": "Which year died the creator of Sophia?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.26.1>",
+    "answers": [
+      "2011"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4345,
+    "question": "Which year died the creator of Freeway?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.113>",
+    "answers": [
+      "1971"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4346,
+    "question": "Which year died the creator of Squatting Polar Bear?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.89>",
+    "answers": [
+      "1954"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4347,
+    "question": "Which year died the creator of Abbott Lawrence?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.11>",
+    "answers": [
+      "1873"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4348,
+    "question": "Which year died the creator of Amazon Region Series?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.57>",
+    "answers": [
+      "1982"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4349,
+    "question": "Which year died the creator of John Elder?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.88>",
+    "answers": [
+      "1873"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4350,
+    "question": "Which year died the creator of Potato Planting?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.18.82>",
+    "answers": [
+      "2006"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4351,
+    "question": "Which year died the creator of Santa Elena Canyon, Big Bend?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.12.7>",
+    "answers": [
+      "2001"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4352,
+    "question": "Which year died the creator of Nancy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.10.7>",
+    "answers": [
+      "1941"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4353,
+    "question": "Which year died the creator of Sac and Fox Indian?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.165%2C700>",
+    "answers": [
+      "1899"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4354,
+    "question": "Which year died the creator of Old Street?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.839>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4355,
+    "question": "Which year died the creator of The Hunt (Punch Bowl)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.92.3A>",
+    "answers": [
+      "2008"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4356,
+    "question": "Which year died the creator of Rocking Pot?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.79>",
+    "answers": [
+      "2002"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4357,
+    "question": "Which year died the creator of Riveters?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.217>",
+    "answers": [
+      "1988"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4358,
+    "question": "Which year died the creator of Wedding Cake Basket?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.30.1A-E>",
+    "answers": [
+      "1999"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4359,
+    "question": "Which year died the creator of In the Park?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.78.1>",
+    "answers": [
+      "1997"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4360,
+    "question": "Which year died the creator of Almost There?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.37.3>",
+    "answers": [
+      "2005"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4361,
+    "question": "Which year died the creator of Charles Oliver O'Donnell?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.113.21>",
+    "answers": [
+      "1874"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4362,
+    "question": "Which year died the creator of Cathedral of the Redwoods?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.9.42>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4363,
+    "question": "Which year died the creator of Old Dominy House?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.219>",
+    "answers": [
+      "1935"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4364,
+    "question": "Which year died the creator of William H. King?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.71>",
+    "answers": [
+      "1873"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4365,
+    "question": "Which year died the creator of Rabbi Stephen Wise?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.3.10>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4366,
+    "question": "Which year died the creator of Windmill, Zwyndrecht?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.136.6>",
+    "answers": [
+      "1938"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4367,
+    "question": "Which year died the creator of Bread Line, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.146>",
+    "answers": [
+      "1989"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4368,
+    "question": "Which year died the creator of The Young Sabot Maker?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.49>",
+    "answers": [
+      "1937"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4369,
+    "question": "Which year died the creator of American Panther and Cubs?",
+    "entity": "<http://data.americanart.si.edu/object/id/1895.10.8>",
+    "answers": [
+      "1907"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4370,
+    "question": "Which year died the creator of Defense de Stationner?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.35>",
+    "answers": [
+      "1998"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4371,
+    "question": "Which year died the creator of Basket of Flowers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.13>",
+    "answers": [
+      "1995"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4372,
+    "question": "Which year died the creator of House in Nantes?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.364.5>",
+    "answers": [
+      "1946"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4373,
+    "question": "Which year died the creator of Christmas Greens?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.84.2>",
+    "answers": [
+      "1919"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4374,
+    "question": "Which year died the creator of The Close of Day?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.20>",
+    "answers": [
+      "1937"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4375,
+    "question": "Which year died the creator of The Committee?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.88.4>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4376,
+    "question": "Which year died the creator of Modigliani Gate Post?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.69.3>",
+    "answers": [
+      "1917"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4377,
+    "question": "Which year died the creator of Coast at Monterey, California?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.9>",
+    "answers": [
+      "1939"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4378,
+    "question": "Which year died the creator of Boxcar, Yellow and Black?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.29.4>",
+    "answers": [
+      "1978"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4379,
+    "question": "Which year died the creator of Strong Left Hand?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.209%2C413>",
+    "answers": [
+      "1953"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4380,
+    "question": "Which year died the creator of Brother Brown?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.1>",
+    "answers": [
+      "1998"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4381,
+    "question": "Which year died the creator of Home Front?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.176>",
+    "answers": [
+      "1992"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4382,
+    "question": "Which year died the creator of Crowd?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.537>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4383,
+    "question": "Which year died the creator of The Wealth of Autumn?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.47>",
+    "answers": [
+      "1888"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4384,
+    "question": "Which year died the creator of Landscape with Houses?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.18.1>",
+    "answers": [
+      "1910"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4385,
+    "question": "Which year died the creator of Pegasus Departing?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.105>",
+    "answers": [
+      "1917"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4386,
+    "question": "Which year died the creator of From a Window?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.73>",
+    "answers": [
+      "1980"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4387,
+    "question": "Which year died the creator of Blind Musician?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.670>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4388,
+    "question": "Which year died the creator of From the Top Balcony?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.31.27>",
+    "answers": [
+      "1991"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4389,
+    "question": "Which year died the creator of Upper Falls, Yellowstone?",
+    "entity": "<http://data.americanart.si.edu/object/id/1947.13.34>",
+    "answers": [
+      "1926"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4390,
+    "question": "Which year died the creator of Sun Flowers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.51.1>",
+    "answers": [
+      "1979"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4391,
+    "question": "Which year died the creator of Chief Black-Coyote?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.362%2C144>",
+    "answers": [
+      "1949"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4392,
+    "question": "Which year died the creator of Brittany Landscape?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.68>",
+    "answers": [
+      "1927"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4393,
+    "question": "Which year died the creator of Head of the Artist?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.37>",
+    "answers": [
+      "1931"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4394,
+    "question": "Which year died the creator of Mrs. James Morris?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.9.7>",
+    "answers": [
+      "1884"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4395,
+    "question": "Which year died the creator of Coon Alley?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.84.73>",
+    "answers": [
+      "1919"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4396,
+    "question": "Which year died the creator of Dematerialization?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.91.1>",
+    "answers": [
+      "1975"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4397,
+    "question": "Which year died the creator of Pink Begonias?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.37>",
+    "answers": [
+      "1943"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4398,
+    "question": "Which year died the creator of Furnished Room?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.245>",
+    "answers": [
+      "1987"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4399,
+    "question": "Which year died the creator of Going Home?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.69.5>",
+    "answers": [
+      "2001"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4400,
+    "question": "Which year died the creator of Vorahnung (Premonition)?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.66>",
+    "answers": [
+      "1981"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4401,
+    "question": "Which year died the creator of Gen. John Gibbon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.18>",
+    "answers": [
+      "1896"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4402,
+    "question": "Which year died the creator of Nude in Wood?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.141>",
+    "answers": [
+      "1982"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4403,
+    "question": "Which year died the creator of Cat on a Chair?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.8.96>",
+    "answers": [
+      "1960"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4404,
+    "question": "Which year died the creator of Die vier Jahreszeiten?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.45>",
+    "answers": [
+      "1642"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4405,
+    "question": "Which year died the creator of After Dinner?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.559>",
+    "answers": [
+      "1994"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4406,
+    "question": "Which year died the creator of No Heart (Nan-che-ning-ga)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.258%2C362>",
+    "answers": [
+      "1862"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4407,
+    "question": "Which year died the creator of Tree in the Wind?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.2>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4408,
+    "question": "Which year died the creator of In Exile?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.191>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4409,
+    "question": "Which year died the creator of The Cathedral Door?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.21.9>",
+    "answers": [
+      "1956"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4410,
+    "question": "Which year died the creator of Concept?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.132.3>",
+    "answers": [
+      "1975"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4411,
+    "question": "Which year died the creator of Child Reading?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.19.11>",
+    "answers": [
+      "1918"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4412,
+    "question": "Which year died the creator of One Day in June?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.62>",
+    "answers": [
+      "1920"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4413,
+    "question": "Which year died the creator of Sunlit Forest (Autumn Forest)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.287.4>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4414,
+    "question": "Which year died the creator of Village Square?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.4>",
+    "answers": [
+      "1988"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4415,
+    "question": "Which year died the creator of Sophi, an Armenian of Brusa?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.137>",
+    "answers": [
+      "1889"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4416,
+    "question": "Which year died the creator of Activity?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.65.2>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4417,
+    "question": "Which year died the creator of Spirit of Christmas?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.88>",
+    "answers": [
+      "1932"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4418,
+    "question": "Which year died the creator of Estes Park?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.291>",
+    "answers": [
+      "1939"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4419,
+    "question": "Which year died the creator of Mending Trawls?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.512>",
+    "answers": [
+      "1968"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4420,
+    "question": "Which year died the creator of Flood Victims?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.90>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4421,
+    "question": "Which year died the creator of Jazz - the New Possession?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.13>",
+    "answers": [
+      "1975"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4422,
+    "question": "Which year died the creator of William Thornton?",
+    "entity": "<http://data.americanart.si.edu/object/id/1960.6.1>",
+    "answers": [
+      "1819"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4423,
+    "question": "Which year died the creator of Upper Level, Aquarium?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.135>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4424,
+    "question": "Which year died the creator of Figures?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.31.15>",
+    "answers": [
+      "1967"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4425,
+    "question": "Which year died the creator of Grandpa's Barn?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.194>",
+    "answers": [
+      "1969"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4426,
+    "question": "Which year died the creator of Storm Over Gloucester?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.64>",
+    "answers": [
+      "1974"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4427,
+    "question": "Which year died the creator of Angel Concert?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.56.3>",
+    "answers": [
+      "2002"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4428,
+    "question": "Which year died the creator of Inez?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.12.13>",
+    "answers": [
+      "2012"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4429,
+    "question": "Which year died the creator of Cherry Blossoms?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.4.17>",
+    "answers": [
+      "1933"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4430,
+    "question": "Which year died the creator of Ward Heelers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.198>",
+    "answers": [
+      "1975"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4431,
+    "question": "Which year died the creator of Young Man in Red Sweater?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.16>",
+    "answers": [
+      "1998"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4432,
+    "question": "Which year died the creator of Joe or The Miner's Son?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.62.1>",
+    "answers": [
+      "2012"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4433,
+    "question": "Which year died the creator of Aphrodite, reverse?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.30B>",
+    "answers": [
+      "1952"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4434,
+    "question": "Which year died the creator of Sun and Desolation?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.11>",
+    "answers": [
+      "1980"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4435,
+    "question": "Which year died the creator of Cockfight, Santo Domingo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.216>",
+    "answers": [
+      "1933"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4436,
+    "question": "Which year died the creator of Water Carrier, Venice?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.83>",
+    "answers": [
+      "1889"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4437,
+    "question": "Which year died the creator of Conradina verticillata?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.314>",
+    "answers": [
+      "1940"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4438,
+    "question": "Which year died the creator of Evangeline?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.64>",
+    "answers": [
+      "1879"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4439,
+    "question": "Which year died the creator of Soap Bubble Set?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.91>",
+    "answers": [
+      "1972"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4440,
+    "question": "Which year died the creator of A Flowered Gown?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.36>",
+    "answers": [
+      "1912"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4441,
+    "question": "Which year died the creator of Passing Song?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.103>",
+    "answers": [
+      "1917"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4442,
+    "question": "Which year died the creator of Woman in a Yellow Vest?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.274>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4443,
+    "question": "Which year died the creator of Family Doctor?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.115.2>",
+    "answers": [
+      "1942"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4444,
+    "question": "Which year died the creator of The Sturgis Children?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.16>",
+    "answers": [
+      "1948"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4445,
+    "question": "Which year died the creator of Noble Numbers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.20>",
+    "answers": [
+      "1982"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4446,
+    "question": "Which year died the creator of Railroad Sleeping?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.2>",
+    "answers": [
+      "1980"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4447,
+    "question": "Which year died the creator of Jet Age?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.72.9>",
+    "answers": [
+      "2005"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4448,
+    "question": "Which year died the creator of Loulie's Hand?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.129>",
+    "answers": [
+      "1873"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4449,
+    "question": "Which year died the creator of William Corbett's School?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.4>",
+    "answers": [
+      "1916"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4450,
+    "question": "Which year died the creator of Deserted Well?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.72>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4451,
+    "question": "Which year died the creator of The Isabelle?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.128.2>",
+    "answers": [
+      "1990"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4452,
+    "question": "Which year died the creator of Louisa Powers' Hand?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.128>",
+    "answers": [
+      "1873"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4453,
+    "question": "Which year died the creator of Sea Wall?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.277>",
+    "answers": [
+      "1974"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4454,
+    "question": "Which year died the creator of Seiners, Chioggia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.483>",
+    "answers": [
+      "1941"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4455,
+    "question": "Which year died the creator of Sculpture of a Bather?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.124.10>",
+    "answers": [
+      "1928"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4456,
+    "question": "Which year died the creator of Shepherdess?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.6.1>",
+    "answers": [
+      "1924"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4457,
+    "question": "Which year died the creator of Russian Hill?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.112>",
+    "answers": [
+      "1979"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4458,
+    "question": "Which year died the creator of Two Heads: Red?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.71>",
+    "answers": [
+      "2010"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4459,
+    "question": "Which year died the creator of Study for Conflict?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.384>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4460,
+    "question": "Which year died the creator of Byrdcliffe Oak Chiffonier?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.33>",
+    "answers": [
+      "1955"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4461,
+    "question": "Which year died the creator of Homes and Garden, Kerteminde?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.724>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4462,
+    "question": "Which year died the creator of Maricopa Indian, Arizona?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.28>",
+    "answers": [
+      "1916"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4463,
+    "question": "Which year died the creator of Golgotha?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.132>",
+    "answers": [
+      "1988"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4464,
+    "question": "Which year died the creator of Ban the A-Bomb?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.16.30>",
+    "answers": [
+      "1999"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4465,
+    "question": "Which year died the creator of A Native Daughter?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.10>",
+    "answers": [
+      "1919"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4466,
+    "question": "Which year died the creator of Pollywog Decoy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.67.11>",
+    "answers": [
+      "1951"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4467,
+    "question": "Which year died the creator of Design for Living?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.40.16>",
+    "answers": [
+      "1978"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4468,
+    "question": "Which year died the creator of Proserpine (fragment)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.102>",
+    "answers": [
+      "1873"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4469,
+    "question": "Which year died the creator of Ninth Ave. Church?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.46>",
+    "answers": [
+      "1955"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4470,
+    "question": "Which year died the creator of Breaking Down the Wild Horse?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.501>",
+    "answers": [
+      "1872"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4471,
+    "question": "Which year died the creator of Portrait of Elizabeth Taylor?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.30.2>",
+    "answers": [
+      "2002"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4472,
+    "question": "Which year died the creator of Kermit?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.920>",
+    "answers": [
+      "1986"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4473,
+    "question": "Which year died the creator of Area Broken by Perpendiculars?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.39.5>",
+    "answers": [
+      "1943"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4474,
+    "question": "Which year died the creator of Rock Tower near Marmelito?",
+    "entity": "<http://data.americanart.si.edu/object/id/1947.13.1>",
+    "answers": [
+      "1926"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4475,
+    "question": "Which year died the creator of The Trench?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.74.36>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4476,
+    "question": "Which year died the creator of Nach dem Bade?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.168>",
+    "answers": [
+      "1886"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4477,
+    "question": "Which year died the creator of Bangor, Pennsylvania?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.15.1>",
+    "answers": [
+      "1975"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4478,
+    "question": "Which year died the creator of Indestructible Object?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.43>",
+    "answers": [
+      "1976"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4479,
+    "question": "Which year died the creator of Un Gentilhomme?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.239>",
+    "answers": [
+      "1906"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4480,
+    "question": "Which year died the creator of Bellerophon and Pegasus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.58>",
+    "answers": [
+      "1966"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4481,
+    "question": "Which year died the creator of Study for the Disciple Peter?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.38>",
+    "answers": [
+      "1937"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4482,
+    "question": "Which year died the creator of Paul N. Radulich?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.51.95>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4483,
+    "question": "Which year died the creator of Aanakin?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.387%2C773>",
+    "answers": [
+      "1967"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4484,
+    "question": "Which year died the creator of Spice Tower?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.30A-B>",
+    "answers": [
+      "2006"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4485,
+    "question": "Which year died the creator of Female Acrobat?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.39.3>",
+    "answers": [
+      "1949"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4486,
+    "question": "Which year died the creator of Joe Louis vs. Arturo Goday?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.118.15>",
+    "answers": [
+      "1988"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4487,
+    "question": "Which year died the creator of Cupric Movement?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.23>",
+    "answers": [
+      "1996"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4488,
+    "question": "Which year died the creator of Winter Skating in New Jersey?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.21>",
+    "answers": [
+      "1882"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4489,
+    "question": "Which year died the creator of Leda and the Necrophilic Swan?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.16.6>",
+    "answers": [
+      "1993"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4490,
+    "question": "Which year died the creator of Over the Pass?",
+    "entity": "<http://data.americanart.si.edu/object/id/1941.6.13>",
+    "answers": [
+      "1990"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4491,
+    "question": "Which year died the creator of Beale Street Blues?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.27>",
+    "answers": [
+      "2004"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4492,
+    "question": "Which year died the creator of The Long Rows?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.3.1>",
+    "answers": [
+      "2006"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4493,
+    "question": "Which year died the creator of The Gilded Age?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.13.5>",
+    "answers": [
+      "2005"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4494,
+    "question": "Which year died the creator of The Immigrants?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.33.5>",
+    "answers": [
+      "1940"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4495,
+    "question": "Which year died the creator of Sitting Nude?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.126>",
+    "answers": [
+      "1985"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4496,
+    "question": "Which year died the creator of Visible Difference?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.56.5>",
+    "answers": [
+      "2009"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4497,
+    "question": "Which year died the creator of Obiter Dictum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.22>",
+    "answers": [
+      "1983"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4498,
+    "question": "Which year died the creator of Up with the Sun?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.1099>",
+    "answers": [
+      "1970"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4499,
+    "question": "Which year died the creator of Irving Marantz?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.445>",
+    "answers": [
+      "1986"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  },
+  {
+    "id": 4500,
+    "question": "Which year died the creator of A Quiet Canal?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.386>",
+    "answers": [
+      "1964"
+    ],
+    "type": "single-entity factoid",
+	"property": "deathYearOfCreator",
+	"radius": 4
+  }
+]

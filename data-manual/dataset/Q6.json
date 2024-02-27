@@ -1,0 +1,5502 @@
+[
+  {
+    "id": 2501,
+    "question": "When the production of Hypnotic: GOOD SWEET WOMAN started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.81>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2502,
+    "question": "When the production of Largo (Sierra Nevada) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.22>",
+    "answers": [
+      "1925-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2503,
+    "question": "When the production of For the Pleasure of Fashion started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.13>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2504,
+    "question": "When the production of A Pine Tree started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.158>",
+    "answers": [
+      "1816-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2505,
+    "question": "When the production of Dayton's Poster started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.108.65>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2506,
+    "question": "When the production of My Body Sees You started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.50.7>",
+    "answers": [
+      "1992-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2507,
+    "question": "When the production of Hot Dog Stand started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.88.5>",
+    "answers": [
+      "1994-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2508,
+    "question": "When the production of Forest (In the Forest) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.60>",
+    "answers": [
+      "1931-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2509,
+    "question": "When the production of There is no Buddha Out There started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.25>",
+    "answers": [
+      "1999-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2510,
+    "question": "When the production of Wealth started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.70>",
+    "answers": [
+      "1997-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2511,
+    "question": "When the production of Mother of Henry O. Tanner started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.213>",
+    "answers": [
+      "1859-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2512,
+    "question": "When the production of Autumn, Staten Island started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.161>",
+    "answers": [
+      "1906-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2513,
+    "question": "When the production of Bouillabaisse, Barcelona started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.80.1>",
+    "answers": [
+      "1948-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2514,
+    "question": "When the production of Three for the Price of a Dog started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.124.23>",
+    "answers": [
+      "1992-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2515,
+    "question": "When the production of La Maison started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.84.7>",
+    "answers": [
+      "1931-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2516,
+    "question": "When the production of Major General Lee started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.152.28>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2517,
+    "question": "When the production of Black and White Tipped Flower started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.52>",
+    "answers": [
+      "1982-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2518,
+    "question": "When the production of Horeb, Egypt started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.202>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2519,
+    "question": "When the production of Baltit, Hunza, Pakistan started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.95.4>",
+    "answers": [
+      "1982-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2520,
+    "question": "When the production of General started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.105.6>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2521,
+    "question": "When the production of Central Park and the Plaza started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1936.12.3>",
+    "answers": [
+      "1855-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2522,
+    "question": "When the production of Louisa Powers' Hand started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.128>",
+    "answers": [
+      "1839-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2523,
+    "question": "When the production of African Head Carving started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.70>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2524,
+    "question": "When the production of Hitchhiker, Iowa started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.384>",
+    "answers": [
+      "1976-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2525,
+    "question": "When the production of Boy in a Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.152.1>",
+    "answers": [
+      "1840-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2526,
+    "question": "When the production of Sacred Heart of Healing started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.7A-C>",
+    "answers": [
+      "2000-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2527,
+    "question": "When the production of Sheepyard, Moonlight started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.71>",
+    "answers": [
+      "1906-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2528,
+    "question": "When the production of Study in Auburn started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.17>",
+    "answers": [
+      "1904-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2529,
+    "question": "When the production of Snowballs started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.91>",
+    "answers": [
+      "1891-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2530,
+    "question": "When the production of The Court Room Scene started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.79>",
+    "answers": [
+      "1904-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2531,
+    "question": "When the production of Dawnscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.25>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2532,
+    "question": "When the production of Dogwood Blossoms started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.57>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2533,
+    "question": "When the production of Cloud Study started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.59>",
+    "answers": [
+      "1925-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2534,
+    "question": "When the production of Boy Sitting on Cot started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.318>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2535,
+    "question": "When the production of Plainsman's Dream started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.50.14>",
+    "answers": [
+      "1898-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2536,
+    "question": "When the production of Elsie Clough Street started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.47>",
+    "answers": [
+      "1898-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2537,
+    "question": "When the production of Cement Mixer started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.69.15>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2538,
+    "question": "When the production of City Hall started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.48.79>",
+    "answers": [
+      "1826-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2539,
+    "question": "When the production of Fat and Stylish started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.81>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2540,
+    "question": "When the production of Yellow Moon started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.81.27>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2541,
+    "question": "When the production of Beulah Appleton started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1942.11.7>",
+    "answers": [
+      "1840-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2542,
+    "question": "When the production of At Home started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.156>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2543,
+    "question": "When the production of Humus started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.74>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2544,
+    "question": "When the production of Riverside Church, New York started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.387>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2545,
+    "question": "When the production of A New England Scene started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.180>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2546,
+    "question": "When the production of Macas, Paraguay started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.7.4>",
+    "answers": [
+      "1885-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2547,
+    "question": "When the production of Town Wharf started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.64.20>",
+    "answers": [
+      "1964-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2548,
+    "question": "When the production of Woman Phone Booth started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.15.3>",
+    "answers": [
+      "1981-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2549,
+    "question": "When the production of Greek Beaker started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.89.6>",
+    "answers": [
+      "1992-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2550,
+    "question": "When the production of View of Artist's Home started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.8.23>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2551,
+    "question": "When the production of Buick Housecar started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.693>",
+    "answers": [
+      "1971-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2552,
+    "question": "When the production of Winterberries started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.433>",
+    "answers": [
+      "1863-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2553,
+    "question": "When the production of Sophia started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.26.1>",
+    "answers": [
+      "2002-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2554,
+    "question": "When the production of Dag Hammarskjold College started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.168.32>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2555,
+    "question": "When the production of The Long Rows started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.3.1>",
+    "answers": [
+      "1966-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2556,
+    "question": "When the production of Rabbi Newman, San Francisco started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.27>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2557,
+    "question": "When the production of El Fireboy y El Mingo started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.147>",
+    "answers": [
+      "1988-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2558,
+    "question": "When the production of Devil's Lake started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.105.63>",
+    "answers": [
+      "1919-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2559,
+    "question": "When the production of Fountain Maquette started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.42.8>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2560,
+    "question": "When the production of Nubien (Baouab) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.71>",
+    "answers": [
+      "1813-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2561,
+    "question": "When the production of The Forces of Evil started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.46.11>",
+    "answers": [
+      "1914-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2562,
+    "question": "When the production of The Puppy-cat and the Baby started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.36>",
+    "answers": [
+      "1904-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2563,
+    "question": "When the production of Setting a Beaver Trap started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.31>",
+    "answers": [
+      "1887-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2564,
+    "question": "When the production of The Hitchhiker started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.70.7>",
+    "answers": [
+      "1940-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2565,
+    "question": "When the production of Victime started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.34>",
+    "answers": [
+      "1943-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2566,
+    "question": "When the production of Child Reading started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.19.11>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2567,
+    "question": "When the production of Lotus started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.8.2>",
+    "answers": [
+      "2006-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2568,
+    "question": "When the production of Chestnut Tree, West Virginia started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.57>",
+    "answers": [
+      "2002-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2569,
+    "question": "When the production of Pleasure and Power started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.29>",
+    "answers": [
+      "1986-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2570,
+    "question": "When the production of German Lady started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.274>",
+    "answers": [
+      "1912-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2571,
+    "question": "When the production of Portrait of Elizabeth Taylor started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.30.2>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2572,
+    "question": "When the production of Mount Chocorua started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.81>",
+    "answers": [
+      "1856-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2573,
+    "question": "When the production of Innocent Age started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.51.3>",
+    "answers": [
+      "2006-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2574,
+    "question": "When the production of Models and Cat Mobile started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.10>",
+    "answers": [
+      "1961-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2575,
+    "question": "When the production of Open Action started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.66.9>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2576,
+    "question": "When the production of Homes and Garden, Kerteminde started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.724>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2577,
+    "question": "When the production of Hexatryst started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.49.4>",
+    "answers": [
+      "1979-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2578,
+    "question": "When the production of Cloudy Moon started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.21.2>",
+    "answers": [
+      "1883-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2579,
+    "question": "When the production of Fishermen at Sea started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.215>",
+    "answers": [
+      "1913-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2580,
+    "question": "When the production of Confidences started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.42>",
+    "answers": [
+      "1906-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2581,
+    "question": "When the production of Monekana started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.3>",
+    "answers": [
+      "2001-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2582,
+    "question": "When the production of White Tanks started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.81.22>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2583,
+    "question": "When the production of Ragpicker's Shop, Florence started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.489>",
+    "answers": [
+      "1916-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2584,
+    "question": "When the production of Die Kaiserpalasre in Rom started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.61>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2585,
+    "question": "When the production of Sky Totem started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.6.67>",
+    "answers": [
+      "1956-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2586,
+    "question": "When the production of Prince Abu Zabi y Su Jardin started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.84>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2587,
+    "question": "When the production of Wyatt Eaton started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.16>",
+    "answers": [
+      "1883-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2588,
+    "question": "When the production of Shifting States: Iraq started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.52>",
+    "answers": [
+      "2011-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2589,
+    "question": "When the production of Road through the Labyrinth started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.35>",
+    "answers": [
+      "1979-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2590,
+    "question": "When the production of Canary Yellow started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.26.5>",
+    "answers": [
+      "1990-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2591,
+    "question": "When the production of Selena started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.126.6>",
+    "answers": [
+      "1996-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2592,
+    "question": "When the production of The Indian Ghost Dancer started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.11.28>",
+    "answers": [
+      "1888-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2593,
+    "question": "When the production of A Delightful Evening started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.23>",
+    "answers": [
+      "1906-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2594,
+    "question": "When the production of Dr. Edward R. Baldwin started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1953.11.1>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2595,
+    "question": "When the production of Andre Joseph Villard started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1961.9.1>",
+    "answers": [
+      "1810-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2596,
+    "question": "When the production of The Unbelievable City started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.124.1>",
+    "answers": [
+      "1877-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2597,
+    "question": "When the production of Nude in Wood started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.141>",
+    "answers": [
+      "1959-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2598,
+    "question": "When the production of Old Fort, New Fortresses started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.92>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2599,
+    "question": "When the production of Celadon Catfish Dish with Lid started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.36.6A-B>",
+    "answers": [
+      "1987-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2600,
+    "question": "When the production of Dionysius started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.45>",
+    "answers": [
+      "1800-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2601,
+    "question": "When the production of Newman's House started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.19.4>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2602,
+    "question": "When the production of Undaunted (Torso) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.449.17>",
+    "answers": [
+      "1963-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2603,
+    "question": "When the production of This is the Enemy started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.84.25>",
+    "answers": [
+      "1942-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2604,
+    "question": "When the production of The Church of Daphni, Greece started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.204>",
+    "answers": [
+      "1880-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2605,
+    "question": "When the production of Sir Guy Carelton started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1950.4.20>",
+    "answers": [
+      "1770-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2606,
+    "question": "When the production of Bottle Form started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.8.7>",
+    "answers": [
+      "1988-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2607,
+    "question": "When the production of Sphinx, Thames, London started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.458>",
+    "answers": [
+      "1863-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2608,
+    "question": "When the production of Alexandra Beller, New York started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.2.2>",
+    "answers": [
+      "1999-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2609,
+    "question": "When the production of St. Germain des Pres started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.19.8>",
+    "answers": [
+      "1909-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2610,
+    "question": "When the production of Santa Maria della Salute started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.11>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2611,
+    "question": "When the production of Workers-Slotters Machine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.362>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2612,
+    "question": "When the production of Bear and Fish started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.42.11>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2613,
+    "question": "When the production of Vertical Roll started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.19>",
+    "answers": [
+      "1972-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2614,
+    "question": "When the production of Texas State Championship Game started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.1674>",
+    "answers": [
+      "1978-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2615,
+    "question": "When the production of ISOLATION, Mingering Mike started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.65R-V>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2616,
+    "question": "When the production of Sun Ra started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.55>",
+    "answers": [
+      "1968-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2617,
+    "question": "When the production of Fulton Fish Market started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.43.27>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2618,
+    "question": "When the production of Origin in Colors started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.47.53>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2619,
+    "question": "When the production of Anne Hume Shippen started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.87.1>",
+    "answers": [
+      "1796-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2620,
+    "question": "When the production of Grackle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.2.20>",
+    "answers": [
+      "2004-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2621,
+    "question": "When the production of Filly and Colt started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.43>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2622,
+    "question": "When the production of The Pack started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.69>",
+    "answers": [
+      "1947-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2623,
+    "question": "When the production of Turkey started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.77.6>",
+    "answers": [
+      "1962-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2624,
+    "question": "When the production of Cubist Still Life started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.124.5>",
+    "answers": [
+      "1918-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2625,
+    "question": "When the production of Stable at Cuenca started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.1>",
+    "answers": [
+      "1903-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2626,
+    "question": "When the production of Safad, in Galilee started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.91.3>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2627,
+    "question": "When the production of Cadet Chapel, West Point started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.123.1>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2628,
+    "question": "When the production of Harold and His Mother started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.64>",
+    "answers": [
+      "1910-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2629,
+    "question": "When the production of Drake Mallard started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.167.1>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2630,
+    "question": "When the production of Rocky Mesa started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.133.15>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2631,
+    "question": "When the production of Andrew John started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.403%2C430>",
+    "answers": [
+      "1880-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2632,
+    "question": "When the production of Christmas Greens started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.84.2>",
+    "answers": [
+      "1887-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2633,
+    "question": "When the production of Pop's Tavern started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.7.2>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2634,
+    "question": "When the production of Dox Trash started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.291>",
+    "answers": [
+      "1911-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2635,
+    "question": "When the production of Masochist (from Aberrations) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.115.7>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2636,
+    "question": "When the production of In the Barber Shop started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.79>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2637,
+    "question": "When the production of Leda and the Necrophilic Swan started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.16.6>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2638,
+    "question": "When the production of Side Door started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.12>",
+    "answers": [
+      "1984-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2639,
+    "question": "When the production of No Heart (Nan-che-ning-ga) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.258%2C362>",
+    "answers": [
+      "1837-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2640,
+    "question": "When the production of Into the Magic started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.57>",
+    "answers": [
+      "2007-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2641,
+    "question": "When the production of Terminal Figure of Ceres started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.69.9>",
+    "answers": [
+      "1911-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2642,
+    "question": "When the production of Carolina started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.6.12>",
+    "answers": [
+      "1971-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2643,
+    "question": "When the production of Study for Gargoyle in Flames started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.153.19>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2644,
+    "question": "When the production of Renwick Gate started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.11A-D>",
+    "answers": [
+      "2011-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2645,
+    "question": "When the production of Man, Woman, Dog and Stag started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.47>",
+    "answers": [
+      "1846-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2646,
+    "question": "When the production of Vermont Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.4.4>",
+    "answers": [
+      "1880-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2647,
+    "question": "When the production of Trees Against the Night Sky started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.38.15>",
+    "answers": [
+      "1993-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2648,
+    "question": "When the production of Man Sketching started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.678>",
+    "answers": [
+      "1875-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2649,
+    "question": "When the production of Victorian Ruins started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.64>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2650,
+    "question": "When the production of Still Life with Flowers started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.174>",
+    "answers": [
+      "1881-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2651,
+    "question": "When the production of Scarecrow started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.31>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2652,
+    "question": "When the production of Moss Pink (Phlox subulate) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.256>",
+    "answers": [
+      "1919-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2653,
+    "question": "When the production of Frisky Day started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.90>",
+    "answers": [
+      "1939-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2654,
+    "question": "When the production of Hopi Woman Making Pottery started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.383%2C332>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2655,
+    "question": "When the production of Anna Washington Derry started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.91.1>",
+    "answers": [
+      "1927-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2656,
+    "question": "When the production of Vagabonds started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.186>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2657,
+    "question": "When the production of Going to School started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.31.19>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2658,
+    "question": "When the production of Le Piano started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.18.8>",
+    "answers": [
+      "1910-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2659,
+    "question": "When the production of Legs of the Sea started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.73>",
+    "answers": [
+      "1921-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2660,
+    "question": "When the production of A Study of Trees started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.113.3>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2661,
+    "question": "When the production of Gesture started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.24>",
+    "answers": [
+      "1976-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2662,
+    "question": "When the production of Upper Level, Aquarium started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.135>",
+    "answers": [
+      "1899-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2663,
+    "question": "When the production of Zoot Suit started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.51.1>",
+    "answers": [
+      "2002-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2664,
+    "question": "When the production of The Brothers started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.146.19>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2665,
+    "question": "When the production of Moske i Kairouan, Afrika started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.12>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2666,
+    "question": "When the production of The Station started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.58>",
+    "answers": [
+      "1928-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2667,
+    "question": "When the production of Ak Sar Ben started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.18.58>",
+    "answers": [
+      "1965-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2668,
+    "question": "When the production of Sacrifice of Isaac started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.291.6>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2669,
+    "question": "When the production of Canada, U.S.A., Mexico started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.65>",
+    "answers": [
+      "1980-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2670,
+    "question": "When the production of Model for Hodgkins Medal started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.20>",
+    "answers": [
+      "1893-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2671,
+    "question": "When the production of Bandits Cave started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.209>",
+    "answers": [
+      "1920-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2672,
+    "question": "When the production of Expanding Universe started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.449.4>",
+    "answers": [
+      "1963-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2673,
+    "question": "When the production of Rosenwald Museum, Chicago started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.454>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2674,
+    "question": "When the production of Wyoming started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.71>",
+    "answers": [
+      "1947-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2675,
+    "question": "When the production of Charles White started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.620>",
+    "answers": [
+      "1879-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2676,
+    "question": "When the production of Two Magnolias started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.157>",
+    "answers": [
+      "1997-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2677,
+    "question": "When the production of Church on a Hill started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.54>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2678,
+    "question": "When the production of Jet Age started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.72.9>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2679,
+    "question": "When the production of Ball Play (La Crosse) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.48.69>",
+    "answers": [
+      "1796-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2680,
+    "question": "When the production of Four Female Nudes started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.63.89>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2681,
+    "question": "When the production of Scapa Evening started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.19>",
+    "answers": [
+      "1973-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2682,
+    "question": "When the production of Male Nude on a Stool started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.217>",
+    "answers": [
+      "1939-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2683,
+    "question": "When the production of Captain Noah Rich started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.27.76>",
+    "answers": [
+      "1812-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2684,
+    "question": "When the production of Time Totem started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.89.2>",
+    "answers": [
+      "1993-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2685,
+    "question": "When the production of Nude on a Red Sofa started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.148.1>",
+    "answers": [
+      "1962-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2686,
+    "question": "When the production of Sentinels started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.167>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2687,
+    "question": "When the production of Corner of House--Malta started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.248>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2688,
+    "question": "When the production of Roadmaking started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.222>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2689,
+    "question": "When the production of Dancing Angel started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.27>",
+    "answers": [
+      "1974-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2690,
+    "question": "When the production of Two Cedars started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.7>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2691,
+    "question": "When the production of Margaret Ethel Wall started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.110.33>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2692,
+    "question": "When the production of A Homeless Victim of War started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1915.11.28>",
+    "answers": [
+      "1914-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2693,
+    "question": "When the production of The Good Luck Branch started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.49>",
+    "answers": [
+      "1907-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2694,
+    "question": "When the production of Mr. Laughlin started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.5.11>",
+    "answers": [
+      "1806-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2695,
+    "question": "When the production of From the Sea started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.90.6>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2696,
+    "question": "When the production of The End of the Continent started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.703>",
+    "answers": [
+      "1971-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2697,
+    "question": "When the production of Left Bank Barbershop, Paris started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.21>",
+    "answers": [
+      "1949-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2698,
+    "question": "When the production of Rajasthan started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.262>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2699,
+    "question": "When the production of Artists on WPA started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.61>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2700,
+    "question": "When the production of Vaatedal, Jolster, Norway started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.892>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2701,
+    "question": "When the production of Joan Miro started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.55.10>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2702,
+    "question": "When the production of Rosebud started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.769>",
+    "answers": [
+      "1872-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2703,
+    "question": "When the production of Mosquito Lamp started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.61>",
+    "answers": [
+      "2012-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2704,
+    "question": "When the production of Within the Window started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.120>",
+    "answers": [
+      "1951-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2705,
+    "question": "When the production of Freda started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.27>",
+    "answers": [
+      "1890-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2706,
+    "question": "When the production of The Caress started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1911.2.1>",
+    "answers": [
+      "1902-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2707,
+    "question": "When the production of Hats Vesuvius started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.50.2>",
+    "answers": [
+      "1973-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2708,
+    "question": "When the production of Planks Pool started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.52>",
+    "answers": [
+      "1980-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2709,
+    "question": "When the production of Cast thy Anchor in Heaven started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.53.2>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2710,
+    "question": "When the production of Gas Mask, Lower East Side started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.14.9>",
+    "answers": [
+      "1956-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2711,
+    "question": "When the production of In the Summer Sea started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.295>",
+    "answers": [
+      "1897-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2712,
+    "question": "When the production of Cordella started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.58.2>",
+    "answers": [
+      "1975-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2713,
+    "question": "When the production of Queen Elizabeth started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.4.4>",
+    "answers": [
+      "1800-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2714,
+    "question": "When the production of Can Fire in the Park started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.23>",
+    "answers": [
+      "1946-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2715,
+    "question": "When the production of Billy Goat started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.124.63>",
+    "answers": [
+      "1990-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2716,
+    "question": "When the production of Our Roses started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.43>",
+    "answers": [
+      "1956-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2717,
+    "question": "When the production of Micaceous Pot started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.124.179>",
+    "answers": [
+      "1995-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2718,
+    "question": "When the production of Cross Reference, storyboards started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.6.5A-E>",
+    "answers": [
+      "1976-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2719,
+    "question": "When the production of Boy with Stuffed Rabbit started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.48.11>",
+    "answers": [
+      "1920-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2720,
+    "question": "When the production of Barn at North Fork started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.55.1>",
+    "answers": [
+      "2010-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2721,
+    "question": "When the production of Footprint started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.32>",
+    "answers": [
+      "1961-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2722,
+    "question": "When the production of Salton Sea (Triangle) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.54.2>",
+    "answers": [
+      "1985-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2723,
+    "question": "When the production of Santa Elena Canyon, Big Bend started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.12.7>",
+    "answers": [
+      "1994-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2724,
+    "question": "When the production of Black Dice started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.31.1A-I>",
+    "answers": [
+      "1982-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2725,
+    "question": "When the production of Mules started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.93>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2726,
+    "question": "When the production of Study for Conflict started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.384>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2727,
+    "question": "When the production of Stories from the Bible started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.53A-NN>",
+    "answers": [
+      "1984-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2728,
+    "question": "When the production of Numerals started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.18.18>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2729,
+    "question": "When the production of Elysian Fields started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.36.8>",
+    "answers": [
+      "1973-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2730,
+    "question": "When the production of Louise Hellstrom started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.70>",
+    "answers": [
+      "1927-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2731,
+    "question": "When the production of Ceramic Bowl started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.69>",
+    "answers": [
+      "1999-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2732,
+    "question": "When the production of Sun and Desolation started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.11>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2733,
+    "question": "When the production of Fremont Street, Las Vegas started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.1607>",
+    "answers": [
+      "1973-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2734,
+    "question": "When the production of Checkers (ECW) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.57>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2735,
+    "question": "When the production of Atheneum Clapboard started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.50>",
+    "answers": [
+      "1980-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2736,
+    "question": "When the production of Tepidarium started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.7.15>",
+    "answers": [
+      "1990-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2737,
+    "question": "When the production of Remains of Lock, Millville started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.80.6>",
+    "answers": [
+      "2000-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2738,
+    "question": "When the production of Farm Interior started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.116>",
+    "answers": [
+      "1924-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2739,
+    "question": "When the production of In Winter, Kiowa started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.161>",
+    "answers": [
+      "1898-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2740,
+    "question": "When the production of Rehearsal, Yiddish Theatre started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.110.9>",
+    "answers": [
+      "1943-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2741,
+    "question": "When the production of Interior with Three Pears started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.56>",
+    "answers": [
+      "1983-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2742,
+    "question": "When the production of The Waiting Room started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.47.43>",
+    "answers": [
+      "1959-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2743,
+    "question": "When the production of Animal Music for the Spheres started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.67>",
+    "answers": [
+      "1996-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2744,
+    "question": "When the production of Pisa from North started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.124>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2745,
+    "question": "When the production of Desert Pass started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.32>",
+    "answers": [
+      "1976-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2746,
+    "question": "When the production of Female Nude before Mirror started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.63.189>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2747,
+    "question": "When the production of Amsterdam Avenue, New York started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.13>",
+    "answers": [
+      "1946-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2748,
+    "question": "When the production of Nude and Iris started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.16>",
+    "answers": [
+      "1919-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2749,
+    "question": "When the production of Prisoner's Plea started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.38>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2750,
+    "question": "When the production of Pete Exline, Spokane started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.97.3>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2751,
+    "question": "When the production of Viola palustris started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.65>",
+    "answers": [
+      "1917-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2752,
+    "question": "When the production of A Quiet Canal started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.386>",
+    "answers": [
+      "1905-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2753,
+    "question": "When the production of Arenaria formosa started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.205>",
+    "answers": [
+      "1904-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2754,
+    "question": "When the production of Public Building started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.98.44>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2755,
+    "question": "When the production of Pink Folded Paper started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.44>",
+    "answers": [
+      "1947-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2756,
+    "question": "When the production of A Shoshonee Indian Smoking started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.25.1>",
+    "answers": [
+      "1860-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2757,
+    "question": "When the production of Russian Hill started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.112>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2758,
+    "question": "When the production of Paper Bag Making Machine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.13>",
+    "answers": [
+      "1881-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2759,
+    "question": "When the production of Melancholia started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.52>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2760,
+    "question": "When the production of Landscape and Figures started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.77>",
+    "answers": [
+      "1960-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2761,
+    "question": "When the production of Rocking Pot started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.79>",
+    "answers": [
+      "1956-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2762,
+    "question": "When the production of Black Lotus started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.16>",
+    "answers": [
+      "1996-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2763,
+    "question": "When the production of Smoke Rings started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.48.21>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2764,
+    "question": "When the production of Bird with Red Snake started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.144.38>",
+    "answers": [
+      "1920-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2765,
+    "question": "When the production of Sketch of Tasha Tudor started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.89.3>",
+    "answers": [
+      "1892-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2766,
+    "question": "When the production of Sister Ella started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.97.2>",
+    "answers": [
+      "1865-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2767,
+    "question": "When the production of The Cathedral Door started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.21.9>",
+    "answers": [
+      "1910-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2768,
+    "question": "When the production of Black and Grey Toaster started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.36>",
+    "answers": [
+      "2011-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2769,
+    "question": "When the production of Decorative Top started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.9>",
+    "answers": [
+      "1999-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2770,
+    "question": "When the production of Armored Crab started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.33>",
+    "answers": [
+      "1998-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2771,
+    "question": "When the production of Wharf Scene, Gloucester started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1922.9.1>",
+    "answers": [
+      "1868-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2772,
+    "question": "When the production of Dulce started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.31A-I>",
+    "answers": [
+      "2011-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2773,
+    "question": "When the production of Great White Heron started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.20.5>",
+    "answers": [
+      "1860-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2774,
+    "question": "When the production of A Tree Study started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1930.12.55>",
+    "answers": [
+      "1879-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2775,
+    "question": "When the production of Freeway started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.113>",
+    "answers": [
+      "1964-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2776,
+    "question": "When the production of Shaving My Head started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.57>",
+    "answers": [
+      "1994-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2777,
+    "question": "When the production of O'Hara Reading started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.76>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2778,
+    "question": "When the production of Orange Grove Avenue, Pasadena started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.65>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2779,
+    "question": "When the production of Wedding Cake Basket started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.30.1A-E>",
+    "answers": [
+      "1986-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2780,
+    "question": "When the production of Woman on a Porch started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.185>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2781,
+    "question": "When the production of In the Park started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.78.1>",
+    "answers": [
+      "1931-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2782,
+    "question": "When the production of The Strange One, Times Square started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.14.13>",
+    "answers": [
+      "1956-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2783,
+    "question": "When the production of Betsy Goodridge started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.9.3>",
+    "answers": [
+      "1840-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2784,
+    "question": "When the production of Washing Machine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.17>",
+    "answers": [
+      "1866-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2785,
+    "question": "When the production of Trieste started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.57>",
+    "answers": [
+      "1814-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2786,
+    "question": "When the production of Ostend started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1915.11.16>",
+    "answers": [
+      "1896-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2787,
+    "question": "When the production of Americana started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.1>",
+    "answers": [
+      "1964-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2788,
+    "question": "When the production of One-star started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.362%2C116>",
+    "answers": [
+      "1903-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2789,
+    "question": "When the production of Indian Boy and Pony started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.144.12>",
+    "answers": [
+      "1917-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2790,
+    "question": "When the production of Early Spring in Bidwell Park started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.21.7>",
+    "answers": [
+      "1914-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2791,
+    "question": "When the production of Domed Building with Flags started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.421>",
+    "answers": [
+      "1945-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2792,
+    "question": "When the production of Cathedral of the Redwoods started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.9.42>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2793,
+    "question": "When the production of Hats On started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.122.3A-B>",
+    "answers": [
+      "1988-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2794,
+    "question": "When the production of Boudoir, Chateau de Chaalis started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.284>",
+    "answers": [
+      "1914-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2795,
+    "question": "When the production of Ebenezer Martin started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1949.2.1>",
+    "answers": [
+      "1838-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2796,
+    "question": "When the production of Snow Clearance started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.59.6>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2797,
+    "question": "When the production of Rejects from the Bat Factory started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.56A-F>",
+    "answers": [
+      "1996-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2798,
+    "question": "When the production of Pont des Arts started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.81>",
+    "answers": [
+      "1908-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2799,
+    "question": "When the production of Winter Skating in New Jersey started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.21>",
+    "answers": [
+      "1847-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2800,
+    "question": "When the production of Karnak started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.74D>",
+    "answers": [
+      "1852-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2801,
+    "question": "When the production of Love (study for) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.66>",
+    "answers": [
+      "1957-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2802,
+    "question": "When the production of The Craftsman Series: Shovels started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.77A-C>",
+    "answers": [
+      "2011-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2803,
+    "question": "When the production of Old Woman Seated started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.1>",
+    "answers": [
+      "1870-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2804,
+    "question": "When the production of One-punch Knockout started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.194.3>",
+    "answers": [
+      "1948-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2805,
+    "question": "When the production of Slate Quarry started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.15.16>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2806,
+    "question": "When the production of Great Hero, a chief started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.386%2C321>",
+    "answers": [
+      "1845-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2807,
+    "question": "When the production of The Sun in Sung Time started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.155.97>",
+    "answers": [
+      "1903-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2808,
+    "question": "When the production of Malibu Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.87.14>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2809,
+    "question": "When the production of Circus Performer started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.31>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2810,
+    "question": "When the production of Victory Wreath started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.185.1>",
+    "answers": [
+      "-400-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2811,
+    "question": "When the production of Greetings started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.15>",
+    "answers": [
+      "1905-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2812,
+    "question": "When the production of Samurai started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.37.2>",
+    "answers": [
+      "1990-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2813,
+    "question": "When the production of Head of the Artist started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.37>",
+    "answers": [
+      "1857-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2814,
+    "question": "When the production of Cronus started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.70>",
+    "answers": [
+      "1974-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2815,
+    "question": "When the production of Baby in Pink with an Iron started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.27.86>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2816,
+    "question": "When the production of Landline Grey started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.52.2>",
+    "answers": [
+      "2014-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2817,
+    "question": "When the production of Study for Relief started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.642>",
+    "answers": [
+      "1889-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2818,
+    "question": "When the production of Still Life with Fan and Roses started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.149>",
+    "answers": [
+      "1874-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2819,
+    "question": "When the production of Little Town by Moonlight started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.105.71>",
+    "answers": [
+      "1920-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2820,
+    "question": "When the production of Faith started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.22>",
+    "answers": [
+      "1867-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2821,
+    "question": "When the production of Blacksmith Shop Interior started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.21.4>",
+    "answers": [
+      "1884-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2822,
+    "question": "When the production of Ponte started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.31>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2823,
+    "question": "When the production of Portrait of Nathaniel Searle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.125>",
+    "answers": [
+      "1815-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2824,
+    "question": "When the production of Studio Bed started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.105>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2825,
+    "question": "When the production of John Quincy Adams Ward started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1938.10.1>",
+    "answers": [
+      "1901-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2826,
+    "question": "When the production of Women Gathering Yucca Plants started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.64.9>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2827,
+    "question": "When the production of Lucy Findley started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.385%2C663>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2828,
+    "question": "When the production of Portrait of Waldo Pierce started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.804>",
+    "answers": [
+      "1941-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2829,
+    "question": "When the production of Return of the Fleet started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.225>",
+    "answers": [
+      "1918-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2830,
+    "question": "When the production of Women Bathing started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.71.3>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2831,
+    "question": "When the production of Left Bank Arch started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.22>",
+    "answers": [
+      "1948-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2832,
+    "question": "When the production of From the Palatine, Rome started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.145>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2833,
+    "question": "When the production of Classical Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.185>",
+    "answers": [
+      "1822-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2834,
+    "question": "When the production of From the Pompidou started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.16.46>",
+    "answers": [
+      "1981-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2835,
+    "question": "When the production of Papago Indians started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.39>",
+    "answers": [
+      "1902-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2836,
+    "question": "When the production of Winter in Jackson Park started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.243>",
+    "answers": [
+      "1883-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2837,
+    "question": "When the production of Lilac started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.26.9>",
+    "answers": [
+      "1980-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2838,
+    "question": "When the production of Off York Island, Maine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.327>",
+    "answers": [
+      "1922-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2839,
+    "question": "When the production of John Swanwick started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.16.2>",
+    "answers": [
+      "1795-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2840,
+    "question": "When the production of Aerodynamics started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.39.5>",
+    "answers": [
+      "1947-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2841,
+    "question": "When the production of Children's Tapes started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.13>",
+    "answers": [
+      "1974-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2842,
+    "question": "When the production of A Song started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.56>",
+    "answers": [
+      "1895-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2843,
+    "question": "When the production of Weighing In started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.193>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2844,
+    "question": "When the production of Chief Don Talayesva started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.13.2>",
+    "answers": [
+      "1941-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2845,
+    "question": "When the production of Nude: Study of a Young Girl started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.46>",
+    "answers": [
+      "1859-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2846,
+    "question": "When the production of The Sculptor started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.96>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2847,
+    "question": "When the production of Cold Day on Cherry Street started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.19.9>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2848,
+    "question": "When the production of Tower at Enkhuisen, Holland started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.27>",
+    "answers": [
+      "1897-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2849,
+    "question": "When the production of Decoration Medal started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.93>",
+    "answers": [
+      "1885-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2850,
+    "question": "When the production of Ponte Megio, Venice started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.127>",
+    "answers": [
+      "1931-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2851,
+    "question": "When the production of Tremont House (Chicago) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.48.48>",
+    "answers": [
+      "1800-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2852,
+    "question": "When the production of Utah, Utah Lake started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.70>",
+    "answers": [
+      "1898-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2853,
+    "question": "When the production of Gunpowder Box started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.557>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2854,
+    "question": "When the production of Passion Flower started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.115.1>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2855,
+    "question": "When the production of Peggy started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.87>",
+    "answers": [
+      "1910-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2856,
+    "question": "When the production of Pink Begonias started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.37>",
+    "answers": [
+      "1928-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2857,
+    "question": "When the production of Going Home started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.69.5>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2858,
+    "question": "When the production of Inside Out started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.99>",
+    "answers": [
+      "1966-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2859,
+    "question": "When the production of Aymara Girl started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.164%2C658>",
+    "answers": [
+      "1890-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2860,
+    "question": "When the production of The Valley started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.103>",
+    "answers": [
+      "1928-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2861,
+    "question": "When the production of Head of Osage Indian started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1895.10.7>",
+    "answers": [
+      "1871-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2862,
+    "question": "When the production of Hunger under a Bridge started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.97>",
+    "answers": [
+      "1912-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2863,
+    "question": "When the production of Southern Farmland started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.21.41>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2864,
+    "question": "When the production of Ninth Ave. Church started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.46>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2865,
+    "question": "When the production of Seated Woman, Profile started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.10>",
+    "answers": [
+      "1960-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2866,
+    "question": "When the production of The Runaways started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.103.8>",
+    "answers": [
+      "1936-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2867,
+    "question": "When the production of Belt with Jade Carving started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.47.19>",
+    "answers": [
+      "1922-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2868,
+    "question": "When the production of Rock Garden I started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.116.14>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2869,
+    "question": "When the production of Sixth Stone I started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.73>",
+    "answers": [
+      "1964-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2870,
+    "question": "When the production of Rodeo started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.99.65>",
+    "answers": [
+      "1940-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2871,
+    "question": "When the production of Dawn Boy started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.78>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2872,
+    "question": "When the production of Beach in Normandy started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.3>",
+    "answers": [
+      "1923-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2873,
+    "question": "When the production of Cagnes started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.706>",
+    "answers": [
+      "1928-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2874,
+    "question": "When the production of Jardin du Luxembourg started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.7>",
+    "answers": [
+      "1948-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2875,
+    "question": "When the production of Boxed Totem started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.315A-B>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2876,
+    "question": "When the production of Captain John Grant started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.31>",
+    "answers": [
+      "1844-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2877,
+    "question": "When the production of Cotopaxi started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.12>",
+    "answers": [
+      "1855-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2878,
+    "question": "When the production of Girl with Bird started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.49>",
+    "answers": [
+      "1969-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2879,
+    "question": "When the production of Light Green started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.52>",
+    "answers": [
+      "1957-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2880,
+    "question": "When the production of West Neck Beach (Two Figures) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.16.44>",
+    "answers": [
+      "1985-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2881,
+    "question": "When the production of Twilight after the Rain started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1913.3.3>",
+    "answers": [
+      "1906-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2882,
+    "question": "When the production of The Gilded Age started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.13.5>",
+    "answers": [
+      "1992-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2883,
+    "question": "When the production of A. Laurason started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.5.4>",
+    "answers": [
+      "1805-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2884,
+    "question": "When the production of Door, Arles, France started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.63>",
+    "answers": [
+      "1972-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2885,
+    "question": "When the production of Marcel Griaule started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.73.4>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2886,
+    "question": "When the production of Hookah started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.289>",
+    "answers": [
+      "1700-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2887,
+    "question": "When the production of Self-Portrait with Hat started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.99.2>",
+    "answers": [
+      "1928-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2888,
+    "question": "When the production of Sawyers started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.187>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2889,
+    "question": "When the production of Profile and Hat started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.159.1>",
+    "answers": [
+      "1942-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2890,
+    "question": "When the production of Zurich started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.66>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2891,
+    "question": "When the production of Radio Broadcast started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.66>",
+    "answers": [
+      "1933-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2892,
+    "question": "When the production of Veterans started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.12>",
+    "answers": [
+      "1916-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2893,
+    "question": "When the production of Man Astraddle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.7.1>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2894,
+    "question": "When the production of Country Pool started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.90.6>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2895,
+    "question": "When the production of A Southerly Wind started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.122.72>",
+    "answers": [
+      "1880-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2896,
+    "question": "When the production of Group of Deer started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.14.2>",
+    "answers": [
+      "1941-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2897,
+    "question": "When the production of Floating Back Rocker started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2000.54>",
+    "answers": [
+      "2000-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2898,
+    "question": "When the production of At the Foot of Mount Teton started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.32>",
+    "answers": [
+      "1957-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2899,
+    "question": "When the production of Round the Mulberry Bush started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.329>",
+    "answers": [
+      "1895-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2900,
+    "question": "When the production of Standing Artist started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.17>",
+    "answers": [
+      "1845-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2901,
+    "question": "When the production of Bearded Kneeling Male Nude started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.190>",
+    "answers": [
+      "1939-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2902,
+    "question": "When the production of The Lorelei started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.8>",
+    "answers": [
+      "1891-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2903,
+    "question": "When the production of Mountain Lake started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.911>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2904,
+    "question": "When the production of Teawood Stand started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1918.5.39>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2905,
+    "question": "When the production of Fisherman's Lunch started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.287>",
+    "answers": [
+      "1940-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2906,
+    "question": "When the production of Smithsonian Castle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.168>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2907,
+    "question": "When the production of Flower Man started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.67.1>",
+    "answers": [
+      "1969-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2908,
+    "question": "When the production of Blue Glow started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.45.1>",
+    "answers": [
+      "1964-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2909,
+    "question": "When the production of Brittany Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.68>",
+    "answers": [
+      "1877-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2910,
+    "question": "When the production of Paul N. Radulich started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.51.95>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2911,
+    "question": "When the production of Circus Workers started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.111.1>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2912,
+    "question": "When the production of Portrait of Isabel Bishop started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.60>",
+    "answers": [
+      "1924-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2913,
+    "question": "When the production of Romance Sentimentale started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.132.3>",
+    "answers": [
+      "1940-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2914,
+    "question": "When the production of Boat Builders started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.126>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2915,
+    "question": "When the production of Family and Friends started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.4>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2916,
+    "question": "When the production of Woman in Striped Dress started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.128.11>",
+    "answers": [
+      "1949-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2917,
+    "question": "When the production of Heieracium gracile started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.139>",
+    "answers": [
+      "1903-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2918,
+    "question": "When the production of The Wye near Ross started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.275>",
+    "answers": [
+      "1899-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2919,
+    "question": "When the production of Nuptial Festival started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.10>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2920,
+    "question": "When the production of Standing and Reclining Nymphs started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.21>",
+    "answers": [
+      "1908-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2921,
+    "question": "When the production of Gathering of black men started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.120.26>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2922,
+    "question": "When the production of Portal Gates started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.117.1A-B>",
+    "answers": [
+      "1974-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2923,
+    "question": "When the production of The Erlking started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.25.14>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2924,
+    "question": "When the production of Brook Trout Decoy started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.43>",
+    "answers": [
+      "1875-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2925,
+    "question": "When the production of Erased Lynchings started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.12.2A-O>",
+    "answers": [
+      "2006-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2926,
+    "question": "When the production of Afterglow started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.58>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2927,
+    "question": "When the production of Laura Shelling Butter Beans started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.58.7>",
+    "answers": [
+      "1900-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2928,
+    "question": "When the production of Royal Oak started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.4.14>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2929,
+    "question": "When the production of Nest of Fifteen started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.18A-O>",
+    "answers": [
+      "2007-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2930,
+    "question": "When the production of Post Setter started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.74.10>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2931,
+    "question": "When the production of Fortitude started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.17>",
+    "answers": [
+      "1955-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2932,
+    "question": "When the production of Ointment Jar started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.157.41>",
+    "answers": [
+      "-600-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2933,
+    "question": "When the production of Ban the A-Bomb started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.16.30>",
+    "answers": [
+      "1951-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2934,
+    "question": "When the production of Sculpture of a Bather started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.124.10>",
+    "answers": [
+      "1916-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2935,
+    "question": "When the production of Small Girl started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.77>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2936,
+    "question": "When the production of Small Town, Main Street started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.375>",
+    "answers": [
+      "1896-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2937,
+    "question": "When the production of Foggy Morning, Brittany started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.66.64>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2938,
+    "question": "When the production of Wheat Bottle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.35>",
+    "answers": [
+      "2006-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2939,
+    "question": "When the production of Concept started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.132.3>",
+    "answers": [
+      "1951-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2940,
+    "question": "When the production of Martigues started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.901>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2941,
+    "question": "When the production of The Isabelle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.128.2>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2942,
+    "question": "When the production of Crystal City started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.48.1>",
+    "answers": [
+      "2009-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2943,
+    "question": "When the production of Rain in the Mountains started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.168>",
+    "answers": [
+      "1921-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2944,
+    "question": "When the production of Devil Face Jug started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.5>",
+    "answers": [
+      "2008-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2945,
+    "question": "When the production of Wall of Light Blue started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.79.78>",
+    "answers": [
+      "2000-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2946,
+    "question": "When the production of Encompassed in Purple started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.26.12>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2947,
+    "question": "When the production of Sketch of Reclining Cats started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.16.4>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2948,
+    "question": "When the production of Windmill, Zwyndrecht started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.136.6>",
+    "answers": [
+      "1878-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2949,
+    "question": "When the production of Lake Providence Grocery started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.120.55>",
+    "answers": [
+      "1938-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2950,
+    "question": "When the production of Cour du Dragon, Paris started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.400>",
+    "answers": [
+      "1869-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2951,
+    "question": "When the production of Carnegie Corporation Ashtray started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.59>",
+    "answers": [
+      "1927-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2952,
+    "question": "When the production of Eglise Saint Joseph started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.4>",
+    "answers": [
+      "1954-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2953,
+    "question": "When the production of Jesus Christ Our Savior started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.84.11>",
+    "answers": [
+      "1981-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2954,
+    "question": "When the production of Railroad Sleeping started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.2>",
+    "answers": [
+      "1925-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2955,
+    "question": "When the production of Paul's Housevan started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.689>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2956,
+    "question": "When the production of Landscape with Houses started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.18.1>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2957,
+    "question": "When the production of Lady with Blue Hair Ribbon started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1955.5.2>",
+    "answers": [
+      "1935-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2958,
+    "question": "When the production of Sunday Dieterman started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.17.6>",
+    "answers": [
+      "1970-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2959,
+    "question": "When the production of Spirit of Christmas started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.88>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2960,
+    "question": "When the production of Pig Market, Mexico started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.212>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2961,
+    "question": "When the production of Elizabeth Tuckerman Salisbury started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.298>",
+    "answers": [
+      "1915-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2962,
+    "question": "When the production of Game Fish started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.61>",
+    "answers": [
+      "1988-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2963,
+    "question": "When the production of Niagara in Summer, from Below started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.4>",
+    "answers": [
+      "1888-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2964,
+    "question": "When the production of Cupric Movement started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.23>",
+    "answers": [
+      "1961-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2965,
+    "question": "When the production of James Viscount Bryce started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1914.7.2>",
+    "answers": [
+      "1913-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2966,
+    "question": "When the production of Kate Deering Ridgely started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1954.13.3>",
+    "answers": [
+      "1901-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2967,
+    "question": "When the production of Red Cylinder started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.26.2>",
+    "answers": [
+      "2004-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2968,
+    "question": "When the production of Portrait of a Child started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.9.5>",
+    "answers": [
+      "1800-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2969,
+    "question": "When the production of Diviners started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.87>",
+    "answers": [
+      "1990-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2970,
+    "question": "When the production of Battleship Texas started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.56.4>",
+    "answers": [
+      "1980-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2971,
+    "question": "When the production of The Edge of the Forest started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.10>",
+    "answers": [
+      "1929-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2972,
+    "question": "When the production of Guignol started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.91>",
+    "answers": [
+      "1960-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2973,
+    "question": "When the production of Standing Orpheus with Pegasus started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.78>",
+    "answers": [
+      "1932-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2974,
+    "question": "When the production of Open Construction-A started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.15.13>",
+    "answers": [
+      "1977-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2975,
+    "question": "When the production of Industrial Plant started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.17.2>",
+    "answers": [
+      "1937-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2976,
+    "question": "When the production of Banjo Chair started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.73>",
+    "answers": [
+      "1875-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2977,
+    "question": "When the production of Pipe Dance, Assiniboine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.453>",
+    "answers": [
+      "1835-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2978,
+    "question": "When the production of Miniature Chinese Kettle started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1918.5.87>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2979,
+    "question": "When the production of Hedges started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.183>",
+    "answers": [
+      "1969-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2980,
+    "question": "When the production of Tenement Fire started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.80.1>",
+    "answers": [
+      "1934-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2981,
+    "question": "When the production of The Abandoned House started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.25.16>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2982,
+    "question": "When the production of Hilly Landscape started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.56>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2983,
+    "question": "When the production of Death of Clytaemnestra started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.60>",
+    "answers": [
+      "1949-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2984,
+    "question": "When the production of The Joseph Henry Medal started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.39.2>",
+    "answers": [
+      "1987-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2985,
+    "question": "When the production of Orion in December started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.47.53>",
+    "answers": [
+      "1959-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2986,
+    "question": "When the production of Seated Animal Figure started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.264.24>",
+    "answers": [
+      "0618-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2987,
+    "question": "When the production of Land's End started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.48>",
+    "answers": [
+      "1939-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2988,
+    "question": "When the production of Tobacco Cutting Machine started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.20>",
+    "answers": [
+      "1878-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2989,
+    "question": "When the production of Basket of Flowers started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.13>",
+    "answers": [
+      "1978-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2990,
+    "question": "When the production of Elihu Root started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.16.1>",
+    "answers": [
+      "1926-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2991,
+    "question": "When the production of French Money started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.97>",
+    "answers": [
+      "1965-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2992,
+    "question": "When the production of Decoy Gang War Victim started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.44.1>",
+    "answers": [
+      "1974-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2993,
+    "question": "When the production of Off Shore started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.102>",
+    "answers": [
+      "1930-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2994,
+    "question": "When the production of Sitting Nude started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.126>",
+    "answers": [
+      "0-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2995,
+    "question": "When the production of BLACKBALLED started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.98>",
+    "answers": [
+      "1967-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2996,
+    "question": "When the production of Accident started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.124.33>",
+    "answers": [
+      "1882-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2997,
+    "question": "When the production of Long Lesson I started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.39>",
+    "answers": [
+      "1978-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2998,
+    "question": "When the production of Parlor Cabinet started?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.13>",
+    "answers": [
+      "1866-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 2999,
+    "question": "When the production of Girl Ironing started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.126>",
+    "answers": [
+      "1904-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  },
+  {
+    "id": 3000,
+    "question": "When the production of Peter (A Young English Girl) started?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.70>",
+    "answers": [
+      "1923-01-01"
+    ],
+    "type": "single-entity factoid",
+	"property": "beginning",
+	"radius": 3
+  }
+]

@@ -1,0 +1,5502 @@
+[
+  {
+    "id": 501,
+    "question": "Which is the art type of Lodgings for the Night?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.66.10>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 502,
+    "question": "Which is the art type of Color Needles?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.104.6>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 503,
+    "question": "Which is the art type of Man in a Blue Suit?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.328>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 504,
+    "question": "Which is the art type of Escaped Bull?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.64.15>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 505,
+    "question": "Which is the art type of Child on Sofa?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.124>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 506,
+    "question": "Which is the art type of Grandma's Girl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.181>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 507,
+    "question": "Which is the art type of Rocky Mesa?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.133.15>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 508,
+    "question": "Which is the art type of A Scouting Party?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.85.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 509,
+    "question": "Which is the art type of Fenced Yard, Wellsville, Ohio?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.54>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 510,
+    "question": "Which is the art type of Goat and Cottage?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.3.7>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 511,
+    "question": "Which is the art type of The Flower?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.356>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 512,
+    "question": "Which is the art type of Canada, U.S.A., Mexico?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.65>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 513,
+    "question": "Which is the art type of Graduation, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.15.8>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 514,
+    "question": "Which is the art type of Light Blue Nursery?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.324>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 515,
+    "question": "Which is the art type of Boy in a Landscape?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.152.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 516,
+    "question": "Which is the art type of After the Bath?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.83.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 517,
+    "question": "Which is the art type of Month of Nights?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.6.10>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 518,
+    "question": "Which is the art type of Irises?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.806>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 519,
+    "question": "Which is the art type of Salt Water Ponds?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.122.61>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 520,
+    "question": "Which is the art type of Road through the Labyrinth?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.35>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 521,
+    "question": "Which is the art type of Indian Boy and Pony?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.144.12>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 522,
+    "question": "Which is the art type of Bunraku?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.12.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 523,
+    "question": "Which is the art type of Trampas Penitentes?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.27>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 524,
+    "question": "Which is the art type of Confused Paradi(c)e?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.59A-B>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 525,
+    "question": "Which is the art type of A Reading?",
+    "entity": "<http://data.americanart.si.edu/object/id/1948.10.5>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 526,
+    "question": "Which is the art type of Footbridge?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.105>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 527,
+    "question": "Which is the art type of Tide Rip?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.392>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 528,
+    "question": "Which is the art type of Beulah Appleton?",
+    "entity": "<http://data.americanart.si.edu/object/id/1942.11.7>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 529,
+    "question": "Which is the art type of Royal Oak?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.4.14>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 530,
+    "question": "Which is the art type of Cement Mixer?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.69.15>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 531,
+    "question": "Which is the art type of O'Hara Reading?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.76>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 532,
+    "question": "Which is the art type of Algerita Family?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.48A-C>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 533,
+    "question": "Which is the art type of Undaunted (Torso)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.449.17>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 534,
+    "question": "Which is the art type of THE FREEDOM STOMPERS?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.2.1R-V>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 535,
+    "question": "Which is the art type of A Note in Pattern?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.532>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 536,
+    "question": "Which is the art type of Modern Steel Carving?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.298>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 537,
+    "question": "Which is the art type of Magnolia Grandiflora?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.40.9>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 538,
+    "question": "Which is the art type of Arizona Landscape?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.128.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 539,
+    "question": "Which is the art type of Sunflower?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.554>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 540,
+    "question": "Which is the art type of Castle Oberlahnstein, Rhine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.119>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 541,
+    "question": "Which is the art type of Lucy Findley?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.385%2C663>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 542,
+    "question": "Which is the art type of Seven Chimneys?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.14.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 543,
+    "question": "Which is the art type of The Good Luck Branch?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.49>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 544,
+    "question": "Which is the art type of Mountain Lake?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.911>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 545,
+    "question": "Which is the art type of Buy a Poppy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.59.27>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 546,
+    "question": "Which is the art type of Family Doctor?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.115.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 547,
+    "question": "Which is the art type of Sheepyard, Moonlight?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.71>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 548,
+    "question": "Which is the art type of Death of Clytaemnestra?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.60>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 549,
+    "question": "Which is the art type of Snowy Vistas?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.32.6>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 550,
+    "question": "Which is the art type of Robert Oliphant?",
+    "entity": "<http://data.americanart.si.edu/object/id/1942.2.2>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 551,
+    "question": "Which is the art type of Study for Relief?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.642>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 552,
+    "question": "Which is the art type of Rubus articus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.200>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 553,
+    "question": "Which is the art type of Andrew John?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.403%2C430>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 554,
+    "question": "Which is the art type of Cherry Blossoms?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.4.17>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 555,
+    "question": "Which is the art type of Still Life with Dogwood?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.146.11>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 556,
+    "question": "Which is the art type of Stanislaus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.372.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 557,
+    "question": "Which is the art type of Rendezvous?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.37.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 558,
+    "question": "Which is the art type of Wall of Light Blue?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.79.78>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 559,
+    "question": "Which is the art type of Dockyard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.154>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 560,
+    "question": "Which is the art type of Standing Articulated Figure?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.278>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 561,
+    "question": "Which is the art type of Heating Stove?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.2A-B>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 562,
+    "question": "Which is the art type of Capitolio?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.19.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 563,
+    "question": "Which is the art type of Alexandra Beller, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.2.2>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 564,
+    "question": "Which is the art type of Twilight after the Rain?",
+    "entity": "<http://data.americanart.si.edu/object/id/1913.3.3>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 565,
+    "question": "Which is the art type of Sprinter?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.201>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 566,
+    "question": "Which is the art type of Children's Tapes?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.13>",
+    "answers": [
+      "Media Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 567,
+    "question": "Which is the art type of Rhinebeck, NY?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.21.10>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 568,
+    "question": "Which is the art type of Ponte Megio, Venice?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.127>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 569,
+    "question": "Which is the art type of Filling Station?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.66.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 570,
+    "question": "Which is the art type of The Wealth of Autumn?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.47>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 571,
+    "question": "Which is the art type of Lauhala?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.202>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 572,
+    "question": "Which is the art type of From the Balcony?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.73>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 573,
+    "question": "Which is the art type of Thomas Hopkinson?",
+    "entity": "<http://data.americanart.si.edu/object/id/1926.6.2>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 574,
+    "question": "Which is the art type of Thomas Davis?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.32.2>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 575,
+    "question": "Which is the art type of General George Rogers Clark?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.158>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 576,
+    "question": "Which is the art type of A Garden Path?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.26>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 577,
+    "question": "Which is the art type of Teatro Jurutungo?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.60.5>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 578,
+    "question": "Which is the art type of Cadet Chapel, West Point?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.123.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 579,
+    "question": "Which is the art type of Theatre?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.191>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 580,
+    "question": "Which is the art type of The Church of Daphni, Greece?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.204>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 581,
+    "question": "Which is the art type of Ragpicker's Shop, Florence?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.489>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 582,
+    "question": "Which is the art type of Winter Bluebirds?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.44.2A-B>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 583,
+    "question": "Which is the art type of William Thaw?",
+    "entity": "<http://data.americanart.si.edu/object/id/1927.8.14>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 584,
+    "question": "Which is the art type of Shepherdess?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.6.1>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 585,
+    "question": "Which is the art type of Golf?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.30.1>",
+    "answers": [
+      "Media Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 586,
+    "question": "Which is the art type of Theodoric's Tomb, Ravenna?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.82>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 587,
+    "question": "Which is the art type of Christmas in Paris?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.82>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 588,
+    "question": "Which is the art type of Bread Line, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.146>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 589,
+    "question": "Which is the art type of Largo (Sierra Nevada)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.22>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 590,
+    "question": "Which is the art type of Paletas?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.44.31>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 591,
+    "question": "Which is the art type of Old Florence?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.20.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 592,
+    "question": "Which is the art type of Startled Mallard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.170>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 593,
+    "question": "Which is the art type of Mounette?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.136>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 594,
+    "question": "Which is the art type of Smithsonian Castle?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.168>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 595,
+    "question": "Which is the art type of Floating Back Rocker?",
+    "entity": "<http://data.americanart.si.edu/object/id/2000.54>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 596,
+    "question": "Which is the art type of Arranging the Tulips?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.73>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 597,
+    "question": "Which is the art type of Sawyers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.187>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 598,
+    "question": "Which is the art type of Open Construction-A?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.15.13>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 599,
+    "question": "Which is the art type of Boar Hunt?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.76>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 600,
+    "question": "Which is the art type of Entrance to Bazaar?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.332>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 601,
+    "question": "Which is the art type of Revolutionary Days?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.118>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 602,
+    "question": "Which is the art type of A Hunger Fantasy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.6.40>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 603,
+    "question": "Which is the art type of Cour du Dragon, Paris?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.400>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 604,
+    "question": "Which is the art type of The Corner Butcher?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.9>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 605,
+    "question": "Which is the art type of The Presses?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.110.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 606,
+    "question": "Which is the art type of William Thornton?",
+    "entity": "<http://data.americanart.si.edu/object/id/1960.6.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 607,
+    "question": "Which is the art type of Captain Charles McKnight?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.137>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 608,
+    "question": "Which is the art type of Women Gathering Yucca Plants?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.64.9>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 609,
+    "question": "Which is the art type of Buffalo, Gulf of Nicomedia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.55>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 610,
+    "question": "Which is the art type of African Head Carving?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.70>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 611,
+    "question": "Which is the art type of St. Severin, Paris?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.52>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 612,
+    "question": "Which is the art type of Maricopa Indian, Arizona?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.28>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 613,
+    "question": "Which is the art type of Yucca (Yucca baileyi)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.734>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 614,
+    "question": "Which is the art type of Monekana?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.3>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 615,
+    "question": "Which is the art type of Sunday Dieterman?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.17.6>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 616,
+    "question": "Which is the art type of Amsterdam Avenue, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.13>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 617,
+    "question": "Which is the art type of Boats on the Sea?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.146>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 618,
+    "question": "Which is the art type of In Flight?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.69>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 619,
+    "question": "Which is the art type of Benjamin A. Javits?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.44>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 620,
+    "question": "Which is the art type of Fragment of a Cloud?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.47.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 621,
+    "question": "Which is the art type of Container Cover?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.255.8>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 622,
+    "question": "Which is the art type of Church on a Hill?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.54>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 623,
+    "question": "Which is the art type of The Slave Ship?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.42>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 624,
+    "question": "Which is the art type of Veronica's Veil?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.291.44>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 625,
+    "question": "Which is the art type of Remains of Lock, Millville?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.80.6>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 626,
+    "question": "Which is the art type of The Postern, Moret?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.55.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 627,
+    "question": "Which is the art type of Railroad Sleeping?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 628,
+    "question": "Which is the art type of Bandits Cave?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.209>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 629,
+    "question": "Which is the art type of The Poultryman?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.211>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 630,
+    "question": "Which is the art type of Monkey and Lizard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.54.16>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 631,
+    "question": "Which is the art type of Louis Siebert?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.73>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 632,
+    "question": "Which is the art type of French Fan (pastoral scene)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1959.16.16>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 633,
+    "question": "Which is the art type of Vagabonds?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.186>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 634,
+    "question": "Which is the art type of Landscape and Figures?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.77>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 635,
+    "question": "Which is the art type of The Three Chickens?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.39.6>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 636,
+    "question": "Which is the art type of Cat on a Chair?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.8.96>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 637,
+    "question": "Which is the art type of The Black Flag?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.60>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 638,
+    "question": "Which is the art type of Burden Landscape?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.60>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 639,
+    "question": "Which is the art type of Autumn Still Life?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.46>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 640,
+    "question": "Which is the art type of Mrs. Charles Boynton Darling?",
+    "entity": "<http://data.americanart.si.edu/object/id/1937.6.2>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 641,
+    "question": "Which is the art type of Church and Lake?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.3>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 642,
+    "question": "Which is the art type of Ancient Warrior?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.3.52>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 643,
+    "question": "Which is the art type of Sophi, an Armenian of Brusa?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.137>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 644,
+    "question": "Which is the art type of Boudoir, Chateau de Chaalis?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.284>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 645,
+    "question": "Which is the art type of Scarecrow?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.31>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 646,
+    "question": "Which is the art type of Oued el Harden?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.10.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 647,
+    "question": "Which is the art type of Sunside Stock & Poultry Farm?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.21.51>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 648,
+    "question": "Which is the art type of High Cost of Living?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.40>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 649,
+    "question": "Which is the art type of Christmas Greeting Card?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.78>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 650,
+    "question": "Which is the art type of King Penguin?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.16.8>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 651,
+    "question": "Which is the art type of The Lake of Bolsena, Italy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.159>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 652,
+    "question": "Which is the art type of Bel Echo Gruyere?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.64.42A-B>",
+    "answers": [
+      "Collage"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 653,
+    "question": "Which is the art type of Skating?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.31.30>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 654,
+    "question": "Which is the art type of Teyolia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.88.4>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 655,
+    "question": "Which is the art type of Ashes in the Wind?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.99B>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 656,
+    "question": "Which is the art type of Indianapolis?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.1610>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 657,
+    "question": "Which is the art type of Along the Riva?",
+    "entity": "<http://data.americanart.si.edu/object/id/1948.13.9>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 658,
+    "question": "Which is the art type of Mosquito Lamp?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.61>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 659,
+    "question": "Which is the art type of Buckeye?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.31.1>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 660,
+    "question": "Which is the art type of Circus Workers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.111.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 661,
+    "question": "Which is the art type of The Station?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.58>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 662,
+    "question": "Which is the art type of William Wetmore Bookplate?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.66>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 663,
+    "question": "Which is the art type of Fisher Children?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.11.30>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 664,
+    "question": "Which is the art type of Colonel Sanders?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.51.3>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 665,
+    "question": "Which is the art type of North-Easter?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.245>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 666,
+    "question": "Which is the art type of Subway Bootblack?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.98.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 667,
+    "question": "Which is the art type of Butcher Jim, Ute?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.36.1>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 668,
+    "question": "Which is the art type of Arenaria formosa?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.205>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 669,
+    "question": "Which is the art type of In the Box (Horizontal)?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.16>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 670,
+    "question": "Which is the art type of The Valley?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.103>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 671,
+    "question": "Which is the art type of Jazz - the New Possession?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.13>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 672,
+    "question": "Which is the art type of Wild Flowers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.146>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 673,
+    "question": "Which is the art type of Every Knee Must Bend?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.2>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 674,
+    "question": "Which is the art type of The Lobster Fisherman?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.328>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 675,
+    "question": "Which is the art type of Laon Cathedral, France?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.49>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 676,
+    "question": "Which is the art type of The Phantom?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.62>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 677,
+    "question": "Which is the art type of Snowballs?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.91>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 678,
+    "question": "Which is the art type of Song of the Torturer?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.30>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 679,
+    "question": "Which is the art type of Blackburn?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.8>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 680,
+    "question": "Which is the art type of Medic Medic?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.29>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 681,
+    "question": "Which is the art type of Off to the Fields?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.64.12>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 682,
+    "question": "Which is the art type of Corner of Fortress?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.76.42>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 683,
+    "question": "Which is the art type of Winterberries?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.433>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 684,
+    "question": "Which is the art type of Aphrodite, reverse?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.30B>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 685,
+    "question": "Which is the art type of Off York Island, Maine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.327>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 686,
+    "question": "Which is the art type of Rockbound Coast, Cape Ann?",
+    "entity": "<http://data.americanart.si.edu/object/id/1910.9.14>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 687,
+    "question": "Which is the art type of El Veinte de Mayo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.47.3>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 688,
+    "question": "Which is the art type of Anne Hume Shippen?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.87.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 689,
+    "question": "Which is the art type of Desert Pass?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.32>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 690,
+    "question": "Which is the art type of Dream Woman?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.21>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 691,
+    "question": "Which is the art type of Pigeon Paperweights?",
+    "entity": "<http://data.americanart.si.edu/object/id/1918.5.105>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 692,
+    "question": "Which is the art type of Charleston, S.C.?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.122.1>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 693,
+    "question": "Which is the art type of A Flowered Gown?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.36>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 694,
+    "question": "Which is the art type of Rolled-Edge Bowl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.9>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 695,
+    "question": "Which is the art type of Bike Race?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.66.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 696,
+    "question": "Which is the art type of Vaatedal, Jolster, Norway?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.892>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 697,
+    "question": "Which is the art type of Louise Hellstrom?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.70>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 698,
+    "question": "Which is the art type of St. Francis?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.121.5>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 699,
+    "question": "Which is the art type of Our Roses?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.43>",
+    "answers": [
+      "Collage"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 700,
+    "question": "Which is the art type of Ideas?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.79.1>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 701,
+    "question": "Which is the art type of Faced Faces?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.76.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 702,
+    "question": "Which is the art type of Chief Black-Coyote?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.362%2C144>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 703,
+    "question": "Which is the art type of Santa Elena Canyon, Big Bend?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.12.7>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 704,
+    "question": "Which is the art type of The Rough Camp?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.668>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 705,
+    "question": "Which is the art type of Shibuichi Bands Fish Set?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.39A-B>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 706,
+    "question": "Which is the art type of Jar with Four Handles?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.174.29>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 707,
+    "question": "Which is the art type of Commanche Warrior?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.362%2C105>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 708,
+    "question": "Which is the art type of Bill and Boob McNutt?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.67>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 709,
+    "question": "Which is the art type of Eureka?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.8.2>",
+    "answers": [
+      "Media Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 710,
+    "question": "Which is the art type of Nude, Head Thrown Back?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.59>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 711,
+    "question": "Which is the art type of Crystal City?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.48.1>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 712,
+    "question": "Which is the art type of Hudson Bridge?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.119.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 713,
+    "question": "Which is the art type of New Ground?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.37.16>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 714,
+    "question": "Which is the art type of Barn at North Fork?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.55.1>",
+    "answers": [
+      "Media Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 715,
+    "question": "Which is the art type of Christ Walking on the Water?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.39>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 716,
+    "question": "Which is the art type of Bartholomeo Bongo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.294>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 717,
+    "question": "Which is the art type of Mount Chocorua?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.81>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 718,
+    "question": "Which is the art type of Evening on the Maas?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.150>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 719,
+    "question": "Which is the art type of Zurich?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.66>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 720,
+    "question": "Which is the art type of Buick Housecar?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.693>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 721,
+    "question": "Which is the art type of Dox Trash?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.291>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 722,
+    "question": "Which is the art type of Black and White Tipped Flower?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.52>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 723,
+    "question": "Which is the art type of Country Kitchen?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.17>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 724,
+    "question": "Which is the art type of The Kitchen?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.52.5>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 725,
+    "question": "Which is the art type of The Edge of the Forest?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.10>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 726,
+    "question": "Which is the art type of The Race?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.12>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 727,
+    "question": "Which is the art type of Lions in a London Square?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.8.8>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 728,
+    "question": "Which is the art type of The Young Sabot Maker?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.49>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 729,
+    "question": "Which is the art type of The Court Room Scene?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.79>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 730,
+    "question": "Which is the art type of Pont du Gard, France?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.6>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 731,
+    "question": "Which is the art type of Glove and Shoe, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.2.10>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 732,
+    "question": "Which is the art type of Pig Market, Mexico?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.212>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 733,
+    "question": "Which is the art type of French Money?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.97>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 734,
+    "question": "Which is the art type of Confidences?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.42>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 735,
+    "question": "Which is the art type of R.M. Copeland?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.9.4>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 736,
+    "question": "Which is the art type of Self-Portrait with Hat?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.99.2>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 737,
+    "question": "Which is the art type of Nora Holt?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.132>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 738,
+    "question": "Which is the art type of Money?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.49.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 739,
+    "question": "Which is the art type of Pegasus Departing?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.105>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 740,
+    "question": "Which is the art type of Ed. Hubbard, American South?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.80.4>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 741,
+    "question": "Which is the art type of Hedges?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.183>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 742,
+    "question": "Which is the art type of Prairie Chicken?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.78>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 743,
+    "question": "Which is the art type of James Viscount Bryce?",
+    "entity": "<http://data.americanart.si.edu/object/id/1914.7.2>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 744,
+    "question": "Which is the art type of R. D. Shepherd as Shylock?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.98>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 745,
+    "question": "Which is the art type of The Strange One, Times Square?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.14.13>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 746,
+    "question": "Which is the art type of Shacks?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.380>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 747,
+    "question": "Which is the art type of Heieracium gracile?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.139>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 748,
+    "question": "Which is the art type of Natural Bridge?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.53.5>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 749,
+    "question": "Which is the art type of Mariner's Fancy, Celebra?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.298>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 750,
+    "question": "Which is the art type of Karnak, Vue Prise du Sud?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.68>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 751,
+    "question": "Which is the art type of Lying in Wait?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.15>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 752,
+    "question": "Which is the art type of A Tree Study?",
+    "entity": "<http://data.americanart.si.edu/object/id/1930.12.55>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 753,
+    "question": "Which is the art type of A New England Scene?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.180>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 754,
+    "question": "Which is the art type of Rusty and Corrosion?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.44.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 755,
+    "question": "Which is the art type of William Corbett's School?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 756,
+    "question": "Which is the art type of From the Sea?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.90.6>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 757,
+    "question": "Which is the art type of Onas on the March?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.387%2C775>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 758,
+    "question": "Which is the art type of Dolls House?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.30.1>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 759,
+    "question": "Which is the art type of Collecting with Rudi?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.201.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 760,
+    "question": "Which is the art type of Rock Garden I?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.116.14>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 761,
+    "question": "Which is the art type of The Hunt (Punch Bowl)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.92.3A>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 762,
+    "question": "Which is the art type of Baseball Bat?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.24.2>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 763,
+    "question": "Which is the art type of Black Lotus?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.16>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 764,
+    "question": "Which is the art type of Amor Omnia Vincit?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.22>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 765,
+    "question": "Which is the art type of Portrait of Miss Hoe?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.84.16>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 766,
+    "question": "Which is the art type of In Sleep?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.6.22>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 767,
+    "question": "Which is the art type of Woman in Calico?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.1014>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 768,
+    "question": "Which is the art type of First Gold Box?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.6A-B>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 769,
+    "question": "Which is the art type of Stable at Cuenca?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 770,
+    "question": "Which is the art type of Faith?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.22>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 771,
+    "question": "Which is the art type of Fisherman's Lunch?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.287>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 772,
+    "question": "Which is the art type of Figures?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.31.15>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 773,
+    "question": "Which is the art type of Father and Son?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.33>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 774,
+    "question": "Which is the art type of Bruce's House?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.123>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 775,
+    "question": "Which is the art type of The Desert?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.5>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 776,
+    "question": "Which is the art type of Windmill, Zwyndrecht?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.136.6>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 777,
+    "question": "Which is the art type of Dawnscape?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.25>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 778,
+    "question": "Which is the art type of German Lady?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.274>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 779,
+    "question": "Which is the art type of Renwick Gate?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.11A-D>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 780,
+    "question": "Which is the art type of Lake Providence Grocery?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.120.55>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 781,
+    "question": "Which is the art type of Mrs. James Morris?",
+    "entity": "<http://data.americanart.si.edu/object/id/1963.9.7>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 782,
+    "question": "Which is the art type of Stepping into Shoes?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.54.3>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 783,
+    "question": "Which is the art type of Straw Flowers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.105>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 784,
+    "question": "Which is the art type of Merry Xmas, W and M Zorach?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.202>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 785,
+    "question": "Which is the art type of George Partridge Richardson?",
+    "entity": "<http://data.americanart.si.edu/object/id/1950.4.25>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 786,
+    "question": "Which is the art type of Student Leaders, Crystal City?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.51.5>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 787,
+    "question": "Which is the art type of Down to the Sea Again?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.109>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 788,
+    "question": "Which is the art type of Rectangular Plate?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.32.2>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 789,
+    "question": "Which is the art type of Miniature Ship?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.492>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 790,
+    "question": "Which is the art type of Manhattan Nocturne?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.185.7>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 791,
+    "question": "Which is the art type of Young Man in Red Sweater?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.16>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 792,
+    "question": "Which is the art type of Innocent Age?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.51.3>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 793,
+    "question": "Which is the art type of The Barkentine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.74.46>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 794,
+    "question": "Which is the art type of Landline Grey?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.52.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 795,
+    "question": "Which is the art type of Ikarus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.143>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 796,
+    "question": "Which is the art type of The Committee?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.88.4>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 797,
+    "question": "Which is the art type of Robert Broome?",
+    "entity": "<http://data.americanart.si.edu/object/id/1948.2.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 798,
+    "question": "Which is the art type of Tongue River Cliffs (In Camp)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1947.13.4>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 799,
+    "question": "Which is the art type of [Boy and Dog]?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.44.22>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 800,
+    "question": "Which is the art type of Micaceous Pot?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.124.179>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 801,
+    "question": "Which is the art type of Dayton's Poster?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.108.65>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 802,
+    "question": "Which is the art type of Cradle?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.79.9>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 803,
+    "question": "Which is the art type of Freeway?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.113>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 804,
+    "question": "Which is the art type of A Friend's Gift?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.554.3>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 805,
+    "question": "Which is the art type of Kate Deering Ridgely?",
+    "entity": "<http://data.americanart.si.edu/object/id/1954.13.3>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 806,
+    "question": "Which is the art type of Frozen Harbor?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.511>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 807,
+    "question": "Which is the art type of Bullet and Apple?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.99.67.12>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 808,
+    "question": "Which is the art type of Upland Pasture?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.73>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 809,
+    "question": "Which is the art type of Young Girl in Purple?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.149>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 810,
+    "question": "Which is the art type of Rabbi Stephen Wise?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.3.10>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 811,
+    "question": "Which is the art type of Tepidarium?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.7.15>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 812,
+    "question": "Which is the art type of A Night Out with Friends?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.13.2>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 813,
+    "question": "Which is the art type of Still Life with Fan and Roses?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.149>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 814,
+    "question": "Which is the art type of Supremacy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.17>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 815,
+    "question": "Which is the art type of Cat in bamboo, Hiroshima?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.32.1>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 816,
+    "question": "Which is the art type of Grandpa's Barn?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.194>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 817,
+    "question": "Which is the art type of Ancient Seaport?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.5>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 818,
+    "question": "Which is the art type of Over the Harbor, Centerport?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.25>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 819,
+    "question": "Which is the art type of Smoking the Shield?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.477>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 820,
+    "question": "Which is the art type of Battle Hymn of the Republic?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.3>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 821,
+    "question": "Which is the art type of Charles Frederick Vogel?",
+    "entity": "<http://data.americanart.si.edu/object/id/1938.3.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 822,
+    "question": "Which is the art type of Southern Monument on Column?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.55.4>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 823,
+    "question": "Which is the art type of Forest Interior with Stream?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.155>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 824,
+    "question": "Which is the art type of The Waltz?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.6.1>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 825,
+    "question": "Which is the art type of Two Bottles?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.57.11>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 826,
+    "question": "Which is the art type of Zuni Man?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.383%2C339>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 827,
+    "question": "Which is the art type of Wyatt Eaton?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.16>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 828,
+    "question": "Which is the art type of Crush?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.49.2>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 829,
+    "question": "Which is the art type of Die vier Jahreszeiten?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.45>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 830,
+    "question": "Which is the art type of Decoy Gang War Victim?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.44.1>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 831,
+    "question": "Which is the art type of Shop Sign: Shoe, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.80.12>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 832,
+    "question": "Which is the art type of Flood Victims?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.90>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 833,
+    "question": "Which is the art type of Model for Hodgkins Medal?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.20>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 834,
+    "question": "Which is the art type of They Like to Dance?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.48>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 835,
+    "question": "Which is the art type of Little Peasant Girl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.198>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 836,
+    "question": "Which is the art type of Temple at Thebes, Egypt?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.313>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 837,
+    "question": "Which is the art type of White Cylinder?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.26.1>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 838,
+    "question": "Which is the art type of Jeune Faune?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.39>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 839,
+    "question": "Which is the art type of Passing Song?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.103>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 840,
+    "question": "Which is the art type of Nude, Dog, Clouds?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.11>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 841,
+    "question": "Which is the art type of The Purple Dress?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.70>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 842,
+    "question": "Which is the art type of Malibu Landscape?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.87.14>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 843,
+    "question": "Which is the art type of Adoration?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.93.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 844,
+    "question": "Which is the art type of Decay?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.163.2>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 845,
+    "question": "Which is the art type of Spanish Senorita?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.192.3>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 846,
+    "question": "Which is the art type of Heidi?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.22>",
+    "answers": [
+      "Media Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 847,
+    "question": "Which is the art type of SPIN (orange)?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.11.3A-B>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 848,
+    "question": "Which is the art type of Post Setter?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.74.10>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 849,
+    "question": "Which is the art type of Sulphur Mt., Yellowstone?",
+    "entity": "<http://data.americanart.si.edu/object/id/1947.13.11>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 850,
+    "question": "Which is the art type of Ponte?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.31>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 851,
+    "question": "Which is the art type of Living Inside?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.8.4>",
+    "answers": [
+      "Media Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 852,
+    "question": "Which is the art type of Kermit?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.920>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 853,
+    "question": "Which is the art type of Taos Plaza?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.57>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 854,
+    "question": "Which is the art type of King's Folly?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.121>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 855,
+    "question": "Which is the art type of We Shall Overcome?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.8>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 856,
+    "question": "Which is the art type of Viola palustris?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.65>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 857,
+    "question": "Which is the art type of Lavada May?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.17.3>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 858,
+    "question": "Which is the art type of The Court of Silence?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.25.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 859,
+    "question": "Which is the art type of Pablo Picasso?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.55.9>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 860,
+    "question": "Which is the art type of Ostend?",
+    "entity": "<http://data.americanart.si.edu/object/id/1915.11.16>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 861,
+    "question": "Which is the art type of Side Door?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.12>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 862,
+    "question": "Which is the art type of Easter Dress?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.13.1>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 863,
+    "question": "Which is the art type of Liturgical Cross?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.163A-E>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 864,
+    "question": "Which is the art type of Rosenwald Museum, Chicago?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.454>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 865,
+    "question": "Which is the art type of The Alcantara, Toledo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1961.11.5>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 866,
+    "question": "Which is the art type of Melancholia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.52>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 867,
+    "question": "Which is the art type of Field Falls?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.81.15>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 868,
+    "question": "Which is the art type of Studio Bed?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.105>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 869,
+    "question": "Which is the art type of Beach in Normandy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.3>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 870,
+    "question": "Which is the art type of Teddo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.88.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 871,
+    "question": "Which is the art type of Sixth Stone I?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.73>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 872,
+    "question": "Which is the art type of Reclining?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.9.131>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 873,
+    "question": "Which is the art type of Cast thy Anchor in Heaven?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.53.2>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 874,
+    "question": "Which is the art type of Boy and Girl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.220>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 875,
+    "question": "Which is the art type of Footprint?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.32>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 876,
+    "question": "Which is the art type of Brown Derby?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.83>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 877,
+    "question": "Which is the art type of Portrait of Mnonja?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.16>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 878,
+    "question": "Which is the art type of At Home?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.156>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 879,
+    "question": "Which is the art type of Three Czechs?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.104>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 880,
+    "question": "Which is the art type of Circuit Rider?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.50.10>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 881,
+    "question": "Which is the art type of Girl in a Pink Dress?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.27.60>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 882,
+    "question": "Which is the art type of Blue Crabs?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.67>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 883,
+    "question": "Which is the art type of Dresser Drawer?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.54.1>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 884,
+    "question": "Which is the art type of O-mata-ah-luta (Red Plume)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.128%2C430>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 885,
+    "question": "Which is the art type of Ornamental Hands: Figure One?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.34A-B>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 886,
+    "question": "Which is the art type of Nutcrackers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.93.78>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 887,
+    "question": "Which is the art type of The Perfume of Roses?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.15>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 888,
+    "question": "Which is the art type of Safad, in Galilee?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.91.3>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 889,
+    "question": "Which is the art type of Singing and Printing I?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.22.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 890,
+    "question": "Which is the art type of St. Stephen's Church, Vienna?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.38>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 891,
+    "question": "Which is the art type of Arizona Night?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.16>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 892,
+    "question": "Which is the art type of La Maison?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.84.7>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 893,
+    "question": "Which is the art type of Winter Brook?",
+    "entity": "<http://data.americanart.si.edu/object/id/1941.6.6>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 894,
+    "question": "Which is the art type of Sacrifice of Isaac?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.291.6>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 895,
+    "question": "Which is the art type of Planks Pool?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.52>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 896,
+    "question": "Which is the art type of Niagara in Summer, from Below?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.4>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 897,
+    "question": "Which is the art type of Blueberry Eyes?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.57>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 898,
+    "question": "Which is the art type of St. Augustine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.2.7>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 899,
+    "question": "Which is the art type of Wild Horserider?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.25.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 900,
+    "question": "Which is the art type of Farmyard, Albi?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.85.25>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 901,
+    "question": "Which is the art type of Freedom of Worship?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.34.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 902,
+    "question": "Which is the art type of Caestus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.29>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 903,
+    "question": "Which is the art type of The Chatelaine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.13>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 904,
+    "question": "Which is the art type of Charles De Coster?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.60>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 905,
+    "question": "Which is the art type of The Sun in Sung Time?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.155.97>",
+    "answers": [
+      "Collage"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 906,
+    "question": "Which is the art type of Fence Fabricating Machine?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.9>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 907,
+    "question": "Which is the art type of Portrait of Isabel Bishop?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.60>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 908,
+    "question": "Which is the art type of Elevated Turn?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.3.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 909,
+    "question": "Which is the art type of Sugar Bowl with Lid?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.44.7A-B>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 910,
+    "question": "Which is the art type of Painting Frame?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.140>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 911,
+    "question": "Which is the art type of City Hall?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.48.79>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 912,
+    "question": "Which is the art type of Brown Moons?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.21>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 913,
+    "question": "Which is the art type of From the Palatine, Rome?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.145>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 914,
+    "question": "Which is the art type of Cyclist?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.170.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 915,
+    "question": "Which is the art type of Pillar?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.297>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 916,
+    "question": "Which is the art type of Peggy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.87>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 917,
+    "question": "Which is the art type of Centerpiece Compote?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.89.27>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 918,
+    "question": "Which is the art type of Peaceful Valley?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.129.5>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 919,
+    "question": "Which is the art type of Cleavage?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.28.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 920,
+    "question": "Which is the art type of The Indian Ghost Dancer?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.11.28>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 921,
+    "question": "Which is the art type of Fruit in a Bowl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.81>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 922,
+    "question": "Which is the art type of Purbeck Quarry Men?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.503>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 923,
+    "question": "Which is the art type of Shells, Buoys and Bottle?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.15>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 924,
+    "question": "Which is the art type of Cagnes-sur-Mer, A.M., France?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.710>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 925,
+    "question": "Which is the art type of Peony Bouquet?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.45>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 926,
+    "question": "Which is the art type of Blind Musician?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.670>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 927,
+    "question": "Which is the art type of Dwight Tryon's Studio?",
+    "entity": "<http://data.americanart.si.edu/object/id/1959.14>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 928,
+    "question": "Which is the art type of Caral, Supe Valley, Peru?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.10.1>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 929,
+    "question": "Which is the art type of Reclining Nude, Female?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.63.8>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 930,
+    "question": "Which is the art type of For the Pleasure of Fashion?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.13>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 931,
+    "question": "Which is the art type of The Struggle?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.15>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 932,
+    "question": "Which is the art type of Evening Fairy Tale?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.26>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 933,
+    "question": "Which is the art type of Bull?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.159.39>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 934,
+    "question": "Which is the art type of Old Street?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.839>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 935,
+    "question": "Which is the art type of A Johnny Came Lately?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.155.153>",
+    "answers": [
+      "Collage"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 936,
+    "question": "Which is the art type of Self-Portrait with Red Scarf?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.69>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 937,
+    "question": "Which is the art type of Extension Ladder?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.14>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 938,
+    "question": "Which is the art type of Josh White?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.150>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 939,
+    "question": "Which is the art type of Legato?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.72>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 940,
+    "question": "Which is the art type of Area Broken by Perpendiculars?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.39.5>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 941,
+    "question": "Which is the art type of Female Nude, Back View?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.63.282>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 942,
+    "question": "Which is the art type of Farm Interior?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.116>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 943,
+    "question": "Which is the art type of Supplies for Suburbia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.175>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 944,
+    "question": "Which is the art type of Backs Fronts Windows?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.79.42>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 945,
+    "question": "Which is the art type of Gathering of black men?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.120.26>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 946,
+    "question": "Which is the art type of Night Magic (Blue Jester)?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.12>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 947,
+    "question": "Which is the art type of Lady with Blue Hair Ribbon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1955.5.2>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 948,
+    "question": "Which is the art type of Four Guedras, Morocco?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.83.23>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 949,
+    "question": "Which is the art type of LYAM 3D?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.23>",
+    "answers": [
+      "Media Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 950,
+    "question": "Which is the art type of Potsdam Meeting?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.655>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 951,
+    "question": "Which is the art type of Centaur and Warrior?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.135.23>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 952,
+    "question": "Which is the art type of Maquette for Nalia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.61>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 953,
+    "question": "Which is the art type of Will o' the Wisp?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.3>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 954,
+    "question": "Which is the art type of Couple Dancing, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.15.6>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 955,
+    "question": "Which is the art type of The Edge of the Land?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.4.5>",
+    "answers": [
+      "Photography"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 956,
+    "question": "Which is the art type of The Old Warehouse, Sitka?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.326%2C802>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 957,
+    "question": "Which is the art type of American Panther and Cubs?",
+    "entity": "<http://data.americanart.si.edu/object/id/1895.10.8>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 958,
+    "question": "Which is the art type of Wall of Light Red Grey?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.39.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 959,
+    "question": "Which is the art type of Siegfried Kills Fafner?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.159>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 960,
+    "question": "Which is the art type of Le Relais l'Empereur?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.31>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 961,
+    "question": "Which is the art type of Triple Double?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.102>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 962,
+    "question": "Which is the art type of Old Mesilla Plaza?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.13>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 963,
+    "question": "Which is the art type of Into the Magic?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.57>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 964,
+    "question": "Which is the art type of At Market?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.50.11>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 965,
+    "question": "Which is the art type of The Lorelei?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.8>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 966,
+    "question": "Which is the art type of Prince Albert?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.133>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 967,
+    "question": "Which is the art type of Aerodynamics?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.39.5>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 968,
+    "question": "Which is the art type of Pediocaetes Columbianus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.33.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 969,
+    "question": "Which is the art type of Mrs. James Greenleaf?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.162>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 970,
+    "question": "Which is the art type of Corner of House--Malta?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.248>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 971,
+    "question": "Which is the art type of Mrs. George Watson?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.189>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 972,
+    "question": "Which is the art type of Benjamin Rush Spencer?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.64>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 973,
+    "question": "Which is the art type of Mountain Climber?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.13.5>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 974,
+    "question": "Which is the art type of Going to School?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.31.19>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 975,
+    "question": "Which is the art type of Jane Stone?",
+    "entity": "<http://data.americanart.si.edu/object/id/1934.11.1>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 976,
+    "question": "Which is the art type of Burro Train?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.123.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 977,
+    "question": "Which is the art type of Hexatryst?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.49.4>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 978,
+    "question": "Which is the art type of Seiners, Chioggia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.483>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 979,
+    "question": "Which is the art type of L' Auberge a Rome?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.17>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 980,
+    "question": "Which is the art type of Dancing Male Figure?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.127.4>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 981,
+    "question": "Which is the art type of Maquette for Ripples?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.49.13>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 982,
+    "question": "Which is the art type of Execution?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.60>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 983,
+    "question": "Which is the art type of Drake Mallard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.167.1>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 984,
+    "question": "Which is the art type of Love (study for)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.66>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 985,
+    "question": "Which is the art type of Samurai?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.37.2>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 986,
+    "question": "Which is the art type of Port du Bec, Vendee?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.178>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 987,
+    "question": "Which is the art type of Landscape H?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.47>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 988,
+    "question": "Which is the art type of To Reap Man Must Sow?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.16>",
+    "answers": [
+      "Sculpture"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 989,
+    "question": "Which is the art type of Coast at Monterey, California?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.9>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 990,
+    "question": "Which is the art type of Brittany Bonnet?",
+    "entity": "<http://data.americanart.si.edu/object/id/1957.13.1>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 991,
+    "question": "Which is the art type of A Tribute to Julius Forstmann?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.591>",
+    "answers": [
+      "Drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 992,
+    "question": "Which is the art type of Parkville, Main Street?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.124>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 993,
+    "question": "Which is the art type of Round Bottom?",
+    "entity": "<http://data.americanart.si.edu/object/id/2000.41.1>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 994,
+    "question": "Which is the art type of Ointment Jar?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.157.41>",
+    "answers": [
+      "Decorative Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 995,
+    "question": "Which is the art type of Natalie with Violin?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.48>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 996,
+    "question": "Which is the art type of New York Window?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.7.4>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 997,
+    "question": "Which is the art type of Encompassed in Purple?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.26.12>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 998,
+    "question": "Which is the art type of Abstract Still Life?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.30>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 999,
+    "question": "Which is the art type of Joe or The Miner's Son?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.62.1>",
+    "answers": [
+      "Graphic Arts"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  },
+  {
+    "id": 1000,
+    "question": "Which is the art type of Seashore?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.146.53>",
+    "answers": [
+      "Painting"
+    ],
+    "type": "single-entity factoid",
+	"property": "hasType",
+	"radius": 1
+  }
+]

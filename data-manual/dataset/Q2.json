@@ -1,0 +1,5502 @@
+[
+  {
+    "id": 4501,
+    "question": "What was the material used in the Vaatedal, Jolster, Norway?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.892>",
+    "answers": [
+      "oil on burlap"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4502,
+    "question": "What was the material used in the Troy?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.45.1>",
+    "answers": [
+      "glazed stoneware with gold luster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4503,
+    "question": "What was the material used in the Turks and Arabs?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.58>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4504,
+    "question": "What was the material used in the What Price Watermellon??",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.114.4>",
+    "answers": [
+      "pencil, ink and crayon on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4505,
+    "question": "What was the material used in the L' Auberge a Rome?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.17>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4506,
+    "question": "What was the material used in the BLACKBALLED?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.98>",
+    "answers": [
+      "paint on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4507,
+    "question": "What was the material used in the Nocturnal (Horizon Line)?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.38A-C>",
+    "answers": [
+      "solid graphite on panel"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4508,
+    "question": "What was the material used in the John Elder?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.88>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4509,
+    "question": "What was the material used in the Gesture?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.24>",
+    "answers": [
+      "watercolor and collage on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4510,
+    "question": "What was the material used in the Month of Nights?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.6.10>",
+    "answers": [
+      "intaglio"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4511,
+    "question": "What was the material used in the Sentinels?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.167>",
+    "answers": [
+      "color screenprint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4512,
+    "question": "What was the material used in the Proserpine (fragment)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.102>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4513,
+    "question": "What was the material used in the Fruit in a Bowl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.81>",
+    "answers": [
+      "hand-made print executed on an office copier"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4514,
+    "question": "What was the material used in the Student Leaders, Crystal City?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.51.5>",
+    "answers": [
+      "inkjet print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4515,
+    "question": "What was the material used in the Ship Steering Apparatus?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.21>",
+    "answers": [
+      "mixed media"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4516,
+    "question": "What was the material used in the Shifting States: Iraq?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.52>",
+    "answers": [
+      "acrylic, prisma color pencil, oil stick, and shellac on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4517,
+    "question": "What was the material used in the Cherry Blossoms?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.4.17>",
+    "answers": [
+      "watercolor"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4518,
+    "question": "What was the material used in the For the Children?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.37.4>",
+    "answers": [
+      "color woodcut and stencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4519,
+    "question": "What was the material used in the Plaza?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.291.7>",
+    "answers": [
+      "color lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4520,
+    "question": "What was the material used in the Gertrude Fairfield?",
+    "entity": "<http://data.americanart.si.edu/object/id/XX10>",
+    "answers": [
+      "plaster/polychromed"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4521,
+    "question": "What was the material used in the Pont des Arts?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.81>",
+    "answers": [
+      "oil on wood"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4522,
+    "question": "What was the material used in the Guild Cup?",
+    "entity": "<http://data.americanart.si.edu/object/id/1916.6.14>",
+    "answers": [
+      "Pewter"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4523,
+    "question": "What was the material used in the Come to the Moon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.46>",
+    "answers": [
+      "oil on canvas mounted on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4524,
+    "question": "What was the material used in the The Craftsman Series: Shovels?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.77A-C>",
+    "answers": [
+      "pennies, brass, silver, and copper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4525,
+    "question": "What was the material used in the Impressions?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.20>",
+    "answers": [
+      "marble"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4526,
+    "question": "What was the material used in the Arranging the Tulips?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.73>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4527,
+    "question": "What was the material used in the Dematerialization?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.91.1>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4528,
+    "question": "What was the material used in the Before Adam and Eve?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.63>",
+    "answers": [
+      "ink and ink wash on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4529,
+    "question": "What was the material used in the Small Talk?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.837>",
+    "answers": [
+      "hand-colored gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4530,
+    "question": "What was the material used in the The Voices of the Dunes?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.415>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4531,
+    "question": "What was the material used in the The Caress?",
+    "entity": "<http://data.americanart.si.edu/object/id/1911.2.1>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4532,
+    "question": "What was the material used in the Street Crowds, Tunisia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.862>",
+    "answers": [
+      "watercolor and pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4533,
+    "question": "What was the material used in the Faced Faces?",
+    "entity": "<http://data.americanart.si.edu/object/id/1989.76.4>",
+    "answers": [
+      "color lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4534,
+    "question": "What was the material used in the Towards the Light?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.74.9>",
+    "answers": [
+      "engraving, aquatint and softground etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4535,
+    "question": "What was the material used in the Foggy Morning, Brittany?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.66.64>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4536,
+    "question": "What was the material used in the Elsie Clough Street?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.47>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4537,
+    "question": "What was the material used in the Gentleman in Masonic Collar?",
+    "entity": "<http://data.americanart.si.edu/object/id/2000.47.16>",
+    "answers": [
+      "salted paper print with applied color"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4538,
+    "question": "What was the material used in the In the Park?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.78.1>",
+    "answers": [
+      "contÃÂ© crayon on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4539,
+    "question": "What was the material used in the Undaunted (Torso)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.449.17>",
+    "answers": [
+      "cast plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4540,
+    "question": "What was the material used in the Black and Grey Toaster?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.36>",
+    "answers": [
+      "vinyl, copper wire and thread"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4541,
+    "question": "What was the material used in the Crane Chair?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.62A-B>",
+    "answers": [
+      "maple veneer on Baltic birch plywood with bungee cord, acrylic paint, wood dyes, and finish"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4542,
+    "question": "What was the material used in the Tea Bowl?",
+    "entity": "<http://data.americanart.si.edu/object/id/2000.64.2>",
+    "answers": [
+      "glazed porcelain"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4543,
+    "question": "What was the material used in the Parking Lot?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.14.4>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4544,
+    "question": "What was the material used in the Blackburn?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.8>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4545,
+    "question": "What was the material used in the St. Luke's Place, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.40>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4546,
+    "question": "What was the material used in the Fly Fishing Medal?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.46>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4547,
+    "question": "What was the material used in the Amish Family?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.27.9>",
+    "answers": [
+      "terra cotta on wood base"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4548,
+    "question": "What was the material used in the The Black Flag?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.60>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4549,
+    "question": "What was the material used in the Construction in White?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.50>",
+    "answers": [
+      "wood, masonite, plastic, acrylic and plexiglass"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4550,
+    "question": "What was the material used in the My Heavens!?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.16>",
+    "answers": [
+      "color lithograph with silver mylar and collage on Amate paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4551,
+    "question": "What was the material used in the Texas State Championship Game?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.1674>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4552,
+    "question": "What was the material used in the White Daisies Rhapsody?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.135>",
+    "answers": [
+      "acrylic on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4553,
+    "question": "What was the material used in the La Natividad?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.91.6>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4554,
+    "question": "What was the material used in the Farm Couple at Work?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.618>",
+    "answers": [
+      "oil on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4555,
+    "question": "What was the material used in the After Titian?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.6.78>",
+    "answers": [
+      "tempera on fiberboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4556,
+    "question": "What was the material used in the Subway Bootblack?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.98.4>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4557,
+    "question": "What was the material used in the Margaret Ethel Wall?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.110.33>",
+    "answers": [
+      "brass/electrotype"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4558,
+    "question": "What was the material used in the Round Bottom?",
+    "entity": "<http://data.americanart.si.edu/object/id/2000.41.1>",
+    "answers": [
+      "sterling silver and 18k gold"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4559,
+    "question": "What was the material used in the Aries, from the Zodiac Series?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.38.1>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4560,
+    "question": "What was the material used in the Rejects from the Bat Factory?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.56A-F>",
+    "answers": [
+      "mahogany, curly maple, cherry, zebrawood, cocobolo, and lacewood"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4561,
+    "question": "What was the material used in the Loulie's Hand?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.129>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4562,
+    "question": "What was the material used in the Castle of Corfu?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.346>",
+    "answers": [
+      "pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4563,
+    "question": "What was the material used in the Ninth Ave. Church?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.46>",
+    "answers": [
+      "lithograph on paper mounted on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4564,
+    "question": "What was the material used in the Rosanna?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.70>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4565,
+    "question": "What was the material used in the Portrait of Marguerite Zorach?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.88>",
+    "answers": [
+      "pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4566,
+    "question": "What was the material used in the Animal Studies?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.174>",
+    "answers": [
+      "conte crayon"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4567,
+    "question": "What was the material used in the Jack-in-the-Pulpits?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.129.13>",
+    "answers": [
+      "wood engraving"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4568,
+    "question": "What was the material used in the Old Woman in Turban?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.135.40>",
+    "answers": [
+      "drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4569,
+    "question": "What was the material used in the Sun and Desolation?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.11>",
+    "answers": [
+      "woodcut on paper\n\n"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4570,
+    "question": "What was the material used in the Fenced Yard, Wellsville, Ohio?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.54>",
+    "answers": [
+      "selenium-toned silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4571,
+    "question": "What was the material used in the Girders and Lights?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.11.4>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4572,
+    "question": "What was the material used in the Young Man in Red Sweater?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.16>",
+    "answers": [
+      "watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4573,
+    "question": "What was the material used in the Tepidarium?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.7.15>",
+    "answers": [
+      "oil pastel on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4574,
+    "question": "What was the material used in the Tide Rip?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.392>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4575,
+    "question": "What was the material used in the High Cliff, Coast of Maine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.29>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4576,
+    "question": "What was the material used in the Newspaper Boy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.85>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4577,
+    "question": "What was the material used in the Leda and the Necrophilic Swan?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.16.6>",
+    "answers": [
+      "color etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4578,
+    "question": "What was the material used in the Cement Mixer?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.69.15>",
+    "answers": [
+      "color lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4579,
+    "question": "What was the material used in the Medic Medic?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.29>",
+    "answers": [
+      "oil, photo, paperboard, glass and painted window"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4580,
+    "question": "What was the material used in the Startled Mallard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.170>",
+    "answers": [
+      "color etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4581,
+    "question": "What was the material used in the Prairie Chicken?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.78>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4582,
+    "question": "What was the material used in the Tarflower (Befaria racemosa)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.356>",
+    "answers": [
+      "watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4583,
+    "question": "What was the material used in the Summer Horizon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.128.9>",
+    "answers": [
+      "color lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4584,
+    "question": "What was the material used in the Sir Guy Carelton?",
+    "entity": "<http://data.americanart.si.edu/object/id/1950.4.20>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4585,
+    "question": "What was the material used in the Post Setter?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.74.10>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4586,
+    "question": "What was the material used in the Still Life with Pineapple?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.14.6>",
+    "answers": [
+      "monotype on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4587,
+    "question": "What was the material used in the Nutcrackers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.93.78>",
+    "answers": [
+      "plaster/cast"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4588,
+    "question": "What was the material used in the Triple Double?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.102>",
+    "answers": [
+      "acrylic on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4589,
+    "question": "What was the material used in the Entre La Puta y la Muerte?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.10.1>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4590,
+    "question": "What was the material used in the Modern Steel Carving?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.298>",
+    "answers": [
+      "steel"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4591,
+    "question": "What was the material used in the Elihu Root?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.16.1>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4592,
+    "question": "What was the material used in the Christmas Greens?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.84.2>",
+    "answers": [
+      "etching and drypoint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4593,
+    "question": "What was the material used in the View Toward South?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.81.5>",
+    "answers": [
+      "chine colle softground aquatint"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4594,
+    "question": "What was the material used in the A Hunger Fantasy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.6.40>",
+    "answers": [
+      "watercolor and ink on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4595,
+    "question": "What was the material used in the Sea Wall?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.277>",
+    "answers": [
+      "color woodcut"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4596,
+    "question": "What was the material used in the Pollywog Decoy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.67.11>",
+    "answers": [
+      "carved and painted wood, brass sheet, painted ferrous tack eyes, ferrous eye hook, and painted lead weight"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4597,
+    "question": "What was the material used in the Split Encounter?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.89>",
+    "answers": [
+      "stoneware and porcelain"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4598,
+    "question": "What was the material used in the Foke-luste-hajo, a Seminole?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.44.6>",
+    "answers": [
+      "hand-colored lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4599,
+    "question": "What was the material used in the Pioneer Family (model for)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.121>",
+    "answers": [
+      "plaster/cast and patinated"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4600,
+    "question": "What was the material used in the Erratic and Snow?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.11.5>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4601,
+    "question": "What was the material used in the Let's Make a Record?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.136.5A-B>",
+    "answers": [
+      "tempera, acrylic and pencil on paperboard (album cover)\n\nvinyl (record)"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4602,
+    "question": "What was the material used in the World Unity or Oblivion?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.33>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4603,
+    "question": "What was the material used in the Manhattan Nocturne?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.185.7>",
+    "answers": [
+      "etching and drypoint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4604,
+    "question": "What was the material used in the Cascade of Souls to Earth?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.32>",
+    "answers": [
+      "pen and ink on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4605,
+    "question": "What was the material used in the La Gouvernante Fidele?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.54.46>",
+    "answers": [
+      "engraving"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4606,
+    "question": "What was the material used in the Two Forty-Seven P. M.?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.10>",
+    "answers": [
+      "acrylic on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4607,
+    "question": "What was the material used in the In Church?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.252>",
+    "answers": [
+      "wood engraving on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4608,
+    "question": "What was the material used in the Ladies of the Evening?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.31.6>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4609,
+    "question": "What was the material used in the Man, Woman, Dog and Stag?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.47>",
+    "answers": [
+      "engraving on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4610,
+    "question": "What was the material used in the Dome?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.34.1>",
+    "answers": [
+      "stoneware"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4611,
+    "question": "What was the material used in the Mr. Kafka?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.22>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4612,
+    "question": "What was the material used in the Remains of Lock, Millville?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.80.6>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4613,
+    "question": "What was the material used in the Velvet Petals?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.40.8>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4614,
+    "question": "What was the material used in the Wyatt Eaton?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.16>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4615,
+    "question": "What was the material used in the The Lily Pool?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.59>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4616,
+    "question": "What was the material used in the A. Laurason?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.5.4>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4617,
+    "question": "What was the material used in the Cosmic Colonies?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.12.2>",
+    "answers": [
+      "slumped and fused glass"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4618,
+    "question": "What was the material used in the Fremont Street, Las Vegas?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.1607>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4619,
+    "question": "What was the material used in the Study for Self-Portrait?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.42.11>",
+    "answers": [
+      "charcoal on vellum with traces of colored pencil"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4620,
+    "question": "What was the material used in the Lake Providence Grocery?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.120.55>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4621,
+    "question": "What was the material used in the Paper Bag Making Machine?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.13>",
+    "answers": [
+      "mixed media"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4622,
+    "question": "What was the material used in the Sunflower?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.554>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4623,
+    "question": "What was the material used in the Lounge Chair?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.34>",
+    "answers": [
+      "walnut"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4624,
+    "question": "What was the material used in the Smoke Rings?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.48.21>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4625,
+    "question": "What was the material used in the The Bent Tree?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.204>",
+    "answers": [
+      "photomechanical wood engraving on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4626,
+    "question": "What was the material used in the Irish Gentleman?",
+    "entity": "<http://data.americanart.si.edu/object/id/1956.11.25>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4627,
+    "question": "What was the material used in the Coon Alley?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.84.73>",
+    "answers": [
+      "drypoint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4628,
+    "question": "What was the material used in the Tongue River Cliffs (In Camp)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1947.13.4>",
+    "answers": [
+      "pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4629,
+    "question": "What was the material used in the Between Poses?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.8>",
+    "answers": [
+      "pastel on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4630,
+    "question": "What was the material used in the Off York Island, Maine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.327>",
+    "answers": [
+      "watercolor"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4631,
+    "question": "What was the material used in the Drawing Houses?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.15.5>",
+    "answers": [
+      "16 mm film, color, silent; 12:00 minutes"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4632,
+    "question": "What was the material used in the Harlem Nightclub Dancers?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.116.20>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4633,
+    "question": "What was the material used in the Feast Day: San Juan Pueblo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.3>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4634,
+    "question": "What was the material used in the Nude and Iris?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.16>",
+    "answers": [
+      "pencil"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4635,
+    "question": "What was the material used in the Gunpowder Box?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.557>",
+    "answers": [
+      "wood and ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4636,
+    "question": "What was the material used in the Eureka?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.8.2>",
+    "answers": [
+      "16 mm Plus-X print, black and white, silent; 30:00 minutes"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4637,
+    "question": "What was the material used in the Osage Scalp Dance?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.248%2C930>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4638,
+    "question": "What was the material used in the Southern Monument on Column?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.55.4>",
+    "answers": [
+      "wood, paint, metal, and encaustic"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4639,
+    "question": "What was the material used in the Spanish Senorita?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.192.3>",
+    "answers": [
+      "oil and pastel on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4640,
+    "question": "What was the material used in the LYAM 3D?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.23>",
+    "answers": [
+      "digital animation, color, silent; 04:00 minutes"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4641,
+    "question": "What was the material used in the Provincetown, Mass.?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.184>",
+    "answers": [
+      "drypoint"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4642,
+    "question": "What was the material used in the Dalles Dam, Evening?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.6.4>",
+    "answers": [
+      "acrylic on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4643,
+    "question": "What was the material used in the Man Sketching?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.678>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4644,
+    "question": "What was the material used in the Tetuan?",
+    "entity": "<http://data.americanart.si.edu/object/id/2001.79.34>",
+    "answers": [
+      "etching, aquatint, spit bite and sugarlift on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4645,
+    "question": "What was the material used in the Up with the Sun?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.1099>",
+    "answers": [
+      "tempera, pen and ink and pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4646,
+    "question": "What was the material used in the Afterglow?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.58>",
+    "answers": [
+      "oil on fiberboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4647,
+    "question": "What was the material used in the Will o' the Wisp?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.3>",
+    "answers": [
+      "marble"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4648,
+    "question": "What was the material used in the Les Moulins Stucky, Venice?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.167>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4649,
+    "question": "What was the material used in the Lauhala?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.202>",
+    "answers": [
+      "drypoint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4650,
+    "question": "What was the material used in the First Gold Box?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.6A-B>",
+    "answers": [
+      "14k gold"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4651,
+    "question": "What was the material used in the Medicine Wheel, Wyoming?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.18>",
+    "answers": [
+      "color photograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4652,
+    "question": "What was the material used in the Night Waves?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.125>",
+    "answers": [
+      "acrylic, cardbooard, plastic and mixed media on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4653,
+    "question": "What was the material used in the Woman of Canaan?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.25.17>",
+    "answers": [
+      "stencil cut"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4654,
+    "question": "What was the material used in the Tension?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.146.20>",
+    "answers": [
+      "oil on linen"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4655,
+    "question": "What was the material used in the George Cochran Lambdin?",
+    "entity": "<http://data.americanart.si.edu/object/id/1978.162.1>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4656,
+    "question": "What was the material used in the Light Blue Nursery?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.324>",
+    "answers": [
+      "acrylic on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4657,
+    "question": "What was the material used in the Cockfight, Santo Domingo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.216>",
+    "answers": [
+      "hand-colored lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4658,
+    "question": "What was the material used in the Flood Victims?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.90>",
+    "answers": [
+      "wood engraving on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4659,
+    "question": "What was the material used in the Faith?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.22>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4660,
+    "question": "What was the material used in the Cour du Dragon, Paris?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.400>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4661,
+    "question": "What was the material used in the Beale Street Blues?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.27>",
+    "answers": [
+      "wood engraving"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4662,
+    "question": "What was the material used in the Sasha?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.56.1>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4663,
+    "question": "What was the material used in the Along the Brandywine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.133.2>",
+    "answers": [
+      "oil on linen"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4664,
+    "question": "What was the material used in the In the Meadows at Windsor?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.168>",
+    "answers": [
+      "pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4665,
+    "question": "What was the material used in the Horse Study and Rabbits?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.165>",
+    "answers": [
+      "pencil"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4666,
+    "question": "What was the material used in the Concetta Scaravaglione?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.448>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4667,
+    "question": "What was the material used in the Street in Joliet?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.133>",
+    "answers": [
+      "gouache on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4668,
+    "question": "What was the material used in the California Farm?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.276>",
+    "answers": [
+      "watercolor and pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4669,
+    "question": "What was the material used in the Defiance?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.124>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4670,
+    "question": "What was the material used in the Standing Orpheus with Pegasus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.78>",
+    "answers": [
+      "gilded bronze on marble base"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4671,
+    "question": "What was the material used in the Kate Deering Ridgely?",
+    "entity": "<http://data.americanart.si.edu/object/id/1954.13.3>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4672,
+    "question": "What was the material used in the Chief Black-Coyote?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.362%2C144>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4673,
+    "question": "What was the material used in the Vertical Roll?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.19>",
+    "answers": [
+      "19:38 minutes, black & white, sound"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4674,
+    "question": "What was the material used in the The Hitchhiker?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.70.7>",
+    "answers": [
+      "color lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4675,
+    "question": "What was the material used in the Andre Joseph Villard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1961.9.1>",
+    "answers": [
+      "silverpoint and watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4676,
+    "question": "What was the material used in the Sketch of a Dog Sleeping?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.16.2>",
+    "answers": [
+      "crayon on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4677,
+    "question": "What was the material used in the Ishtar?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.140>",
+    "answers": [
+      "plaster/cast"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4678,
+    "question": "What was the material used in the Bruce's House?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.123>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4679,
+    "question": "What was the material used in the Seated Woman, Profile?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.10>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4680,
+    "question": "What was the material used in the Fuli, China?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.19.1>",
+    "answers": [
+      "platinum-palladium print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4681,
+    "question": "What was the material used in the Autumn Vase?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.20>",
+    "answers": [
+      "sugar maple burl"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4682,
+    "question": "What was the material used in the Princeton University?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.48.38>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4683,
+    "question": "What was the material used in the Vermont in November?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.63.2>",
+    "answers": [
+      "etching and drypoint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4684,
+    "question": "What was the material used in the Standing Articulated Figure?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.278>",
+    "answers": [
+      "carved and painted sequoia and black ash, painted metal, wire, and metal hardware"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4685,
+    "question": "What was the material used in the Samurai?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.37.2>",
+    "answers": [
+      "two-color etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4686,
+    "question": "What was the material used in the Bookkeeper?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.197>",
+    "answers": [
+      "charcoal, crayon and chalk on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4687,
+    "question": "What was the material used in the Slate Quarry?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.15.16>",
+    "answers": [
+      "etching and pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4688,
+    "question": "What was the material used in the El Fireboy y El Mingo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.147>",
+    "answers": [
+      "color lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4689,
+    "question": "What was the material used in the Parkville, Main Street?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.124>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4690,
+    "question": "What was the material used in the Dejaneon and Nassus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.23.7>",
+    "answers": [
+      "mixed intaglio on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4691,
+    "question": "What was the material used in the Tricycle (Memphis)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.87.12>",
+    "answers": [
+      "dye transfer print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4692,
+    "question": "What was the material used in the Mora Howard?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.17.4>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4693,
+    "question": "What was the material used in the Blue L Jungle?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.40>",
+    "answers": [
+      "color intaglio on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4694,
+    "question": "What was the material used in the Jonathan Jones Wheeler?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.35>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4695,
+    "question": "What was the material used in the Hopi Weaver?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.383%2C327>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4696,
+    "question": "What was the material used in the Jet Age?",
+    "entity": "<http://data.americanart.si.edu/object/id/1993.72.9>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4697,
+    "question": "What was the material used in the A Delightful Evening?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.23>",
+    "answers": [
+      "pastel on fiberboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4698,
+    "question": "What was the material used in the Nude Studies, Bell?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.446.72A%2CB>",
+    "answers": [
+      "pencil"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4699,
+    "question": "What was the material used in the The Lorelei?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.8>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4700,
+    "question": "What was the material used in the A Night Out with Friends?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.13.2>",
+    "answers": [
+      "inkjet print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4701,
+    "question": "What was the material used in the French Money?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.84.97>",
+    "answers": [
+      "screenprint and collage on plexiglass"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4702,
+    "question": "What was the material used in the Estes Park?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.291>",
+    "answers": [
+      "pencil and colored pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4703,
+    "question": "What was the material used in the Gilia linanthus parviflorus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.111>",
+    "answers": [
+      "watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4704,
+    "question": "What was the material used in the Emperor of Norfolk?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.122.21>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4705,
+    "question": "What was the material used in the Red House?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.323>",
+    "answers": [
+      "watercolor"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4706,
+    "question": "What was the material used in the Yucca (Yucca baileyi)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.734>",
+    "answers": [
+      "watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4707,
+    "question": "What was the material used in the AUDIO ANDRE TUXEDO STYLED?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.50.1R-V>",
+    "answers": [
+      "mixed media on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4708,
+    "question": "What was the material used in the Papago Indians?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.39>",
+    "answers": [
+      "chromolithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4709,
+    "question": "What was the material used in the Almost There?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.37.3>",
+    "answers": [
+      "color aquatint and etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4710,
+    "question": "What was the material used in the Old Florence?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.20.1>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4711,
+    "question": "What was the material used in the Cast of Characters?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.79.2>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4712,
+    "question": "What was the material used in the Borghese Gardens?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.48.24>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4713,
+    "question": "What was the material used in the Love Poem?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.70>",
+    "answers": [
+      "color woodcut with handwork"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4714,
+    "question": "What was the material used in the In These Troubled Times?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.72.2>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4715,
+    "question": "What was the material used in the Banjo Chair?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.73>",
+    "answers": [
+      "turned, inlaid, painted, stained, and varnished wood"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4716,
+    "question": "What was the material used in the Elizabeth Robinson Manship?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.47.95>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4717,
+    "question": "What was the material used in the Milwaukee (Wisconsin)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.48.30>",
+    "answers": [
+      "engraving"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4718,
+    "question": "What was the material used in the St. Germain des Pres?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.19.8>",
+    "answers": [
+      "oil on wood"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4719,
+    "question": "What was the material used in the Moss Pink (Phlox subulate)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.256>",
+    "answers": [
+      "watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4720,
+    "question": "What was the material used in the Floating Rim Bowl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.100.29>",
+    "answers": [
+      "myrtle burl"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4721,
+    "question": "What was the material used in the German Lady?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.274>",
+    "answers": [
+      "wood engraving on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4722,
+    "question": "What was the material used in the Romare Bearden?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.163>",
+    "answers": [
+      "photogravure"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4723,
+    "question": "What was the material used in the Levee Farms?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.30.4>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4724,
+    "question": "What was the material used in the The Black Cloud?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.2>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4725,
+    "question": "What was the material used in the The Sauce-Pan Shop?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.56>",
+    "answers": [
+      "color woodcut on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4726,
+    "question": "What was the material used in the Watching?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.11.4>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4727,
+    "question": "What was the material used in the Mrs. Lloyd?",
+    "entity": "<http://data.americanart.si.edu/object/id/1956.11.58>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4728,
+    "question": "What was the material used in the Laokoon (Contrasting Rhythms)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.29.1>",
+    "answers": [
+      "etching, engraving and roulette on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4729,
+    "question": "What was the material used in the Blue-winged Warbler?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.2.23>",
+    "answers": [
+      "chromogenic print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4730,
+    "question": "What was the material used in the Stanislaus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.372.4>",
+    "answers": [
+      "screenprint"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4731,
+    "question": "What was the material used in the Grey Night Phenomenon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.92.1>",
+    "answers": [
+      "acrylic on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4732,
+    "question": "What was the material used in the Decision: CHANNELS OF A DREAM?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.35.2>",
+    "answers": [
+      "mixed media on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4733,
+    "question": "What was the material used in the Valley of the Swiftcurrent?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.566>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4734,
+    "question": "What was the material used in the Roadmaking?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.222>",
+    "answers": [
+      "charcoal and crayon on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4735,
+    "question": "What was the material used in the Portrait of Waldo Pierce?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.804>",
+    "answers": [
+      "pencil on paper mounted on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4736,
+    "question": "What was the material used in the Rosebud?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.769>",
+    "answers": [
+      "watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4737,
+    "question": "What was the material used in the The Cornfield?",
+    "entity": "<http://data.americanart.si.edu/object/id/1909.7.55>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4738,
+    "question": "What was the material used in the Tree in the Wind?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.2>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4739,
+    "question": "What was the material used in the Accident?",
+    "entity": "<http://data.americanart.si.edu/object/id/1997.124.33>",
+    "answers": [
+      "oil on posterboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4740,
+    "question": "What was the material used in the Cowboy Smoking?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.124.20>",
+    "answers": [
+      "pen and ink on paper mounted on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4741,
+    "question": "What was the material used in the Roger?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.39>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4742,
+    "question": "What was the material used in the Deadwood, South Dakota?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.36.85>",
+    "answers": [
+      "watercolor and pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4743,
+    "question": "What was the material used in the Colonel Sanders?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.51.3>",
+    "answers": [
+      "crayon and pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4744,
+    "question": "What was the material used in the Glove and Shoe, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.2.10>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4745,
+    "question": "What was the material used in the World Trade Center?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.88.2>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4746,
+    "question": "What was the material used in the Dye drop?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.89.12>",
+    "answers": [
+      "dye transfer print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4747,
+    "question": "What was the material used in the Little Peasant Girl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.198>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4748,
+    "question": "What was the material used in the String Trio?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.2>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4749,
+    "question": "What was the material used in the Cross Reference, storyboards?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.6.5A-E>",
+    "answers": [
+      "charcoal and colored pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4750,
+    "question": "What was the material used in the Nude in Wood?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.141>",
+    "answers": [
+      "walnut on wood base"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4751,
+    "question": "What was the material used in the Amor Omnia Vincit?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.22>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4752,
+    "question": "What was the material used in the The Mink Trapper?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.18.18>",
+    "answers": [
+      "monotype on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4753,
+    "question": "What was the material used in the Kermit?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.920>",
+    "answers": [
+      "silver dye bleach print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4754,
+    "question": "What was the material used in the Within the Window?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.120>",
+    "answers": [
+      "oil on fabric: linen mounted on fiberboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4755,
+    "question": "What was the material used in the Sage and Cactus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.85>",
+    "answers": [
+      "woodcut on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4756,
+    "question": "What was the material used in the Fence Fabricating Machine?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.9>",
+    "answers": [
+      "mixed media"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4757,
+    "question": "What was the material used in the Follow Me?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.32.1>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4758,
+    "question": "What was the material used in the Circus Performer?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.31>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4759,
+    "question": "What was the material used in the Bearded Kneeling Male Nude?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.190>",
+    "answers": [
+      "tempera on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4760,
+    "question": "What was the material used in the Pipe Dance, Assiniboine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.453>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4761,
+    "question": "What was the material used in the New World Odder?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.68.23>",
+    "answers": [
+      "monotype"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4762,
+    "question": "What was the material used in the Hi-Boy Donut Shop?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.107.4>",
+    "answers": [
+      "silver dye bleach print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4763,
+    "question": "What was the material used in the Obiter Dictum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.22>",
+    "answers": [
+      "watercolor and collage on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4764,
+    "question": "What was the material used in the Robert Broome?",
+    "entity": "<http://data.americanart.si.edu/object/id/1948.2.1>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4765,
+    "question": "What was the material used in the Polo Players?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.42.5>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4766,
+    "question": "What was the material used in the On the Soda Butte Creek?",
+    "entity": "<http://data.americanart.si.edu/object/id/1947.13.8>",
+    "answers": [
+      "pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4767,
+    "question": "What was the material used in the Victime?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.137.34>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4768,
+    "question": "What was the material used in the Taking Off?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.28.8>",
+    "answers": [
+      "color woodcut on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4769,
+    "question": "What was the material used in the Narcissa?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.8.509>",
+    "answers": [
+      "cast silver"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4770,
+    "question": "What was the material used in the Paul N. Radulich?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.51.95>",
+    "answers": [
+      "bronze/cast electrotype"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4771,
+    "question": "What was the material used in the Gram in Black, New Hampshire?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.6.6>",
+    "answers": [
+      "chromogenic print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4772,
+    "question": "What was the material used in the Moods?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.516>",
+    "answers": [
+      "drypoint and aquatint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4773,
+    "question": "What was the material used in the Temple of Nike Apteros?",
+    "entity": "<http://data.americanart.si.edu/object/id/1927.5.8>",
+    "answers": [
+      "watercolor"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4774,
+    "question": "What was the material used in the Two Cedars?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.7>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4775,
+    "question": "What was the material used in the The Waltz?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.6.1>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4776,
+    "question": "What was the material used in the Twilight after the Rain?",
+    "entity": "<http://data.americanart.si.edu/object/id/1913.3.3>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4777,
+    "question": "What was the material used in the Women Gathering Yucca Plants?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.64.9>",
+    "answers": [
+      "watercolor and ink on illustration board mounted on masonite"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4778,
+    "question": "What was the material used in the Design for Carving?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.48>",
+    "answers": [
+      "reproduction"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4779,
+    "question": "What was the material used in the Member of the Schuyler Family?",
+    "entity": "<http://data.americanart.si.edu/object/id/1950.4.38>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4780,
+    "question": "What was the material used in the Weighing In?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.193>",
+    "answers": [
+      "charcoal and crayon on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4781,
+    "question": "What was the material used in the Anagama?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.26.8>",
+    "answers": [
+      "glazed stoneware"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4782,
+    "question": "What was the material used in the Spider Lake, Wisconsin?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.455>",
+    "answers": [
+      "drypoint"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4783,
+    "question": "What was the material used in the Die vier Jahreszeiten?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.14.45>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4784,
+    "question": "What was the material used in the Tur?",
+    "entity": "<http://data.americanart.si.edu/object/id/2008.4A-C>",
+    "answers": [
+      "watercolor and gouache on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4785,
+    "question": "What was the material used in the Gen. John Gibbon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.88.18>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4786,
+    "question": "What was the material used in the Parlor Cabinet?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.13>",
+    "answers": [
+      "rosewood and mixed media"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4787,
+    "question": "What was the material used in the Heat Exhaustion, Ramsey Unit?",
+    "entity": "<http://data.americanart.si.edu/object/id/1988.52.4>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4788,
+    "question": "What was the material used in the Burlesque Show?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.329>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4789,
+    "question": "What was the material used in the Squatter?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.122.10>",
+    "answers": [
+      "hog casings and acrylic paint"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4790,
+    "question": "What was the material used in the Man with Wheelbarrow?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.44.3>",
+    "answers": [
+      "granite"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4791,
+    "question": "What was the material used in the Woman in Striped Dress?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.128.11>",
+    "answers": [
+      "color aquatint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4792,
+    "question": "What was the material used in the Jane Stone?",
+    "entity": "<http://data.americanart.si.edu/object/id/1934.11.1>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4793,
+    "question": "What was the material used in the Christ at Emmaus?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.292.9>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4794,
+    "question": "What was the material used in the Sister Ella?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.97.2>",
+    "answers": [
+      "charcoal on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4795,
+    "question": "What was the material used in the Terminal Figure of Ceres?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.69.9>",
+    "answers": [
+      "oil on wood"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4796,
+    "question": "What was the material used in the Harbor Scene, Norway?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.574R-V>",
+    "answers": [
+      "watercolor and pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4797,
+    "question": "What was the material used in the Fjord Sketch, Norway?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.953>",
+    "answers": [
+      "pen and ink on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4798,
+    "question": "What was the material used in the Train Peddler?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.230>",
+    "answers": [
+      "charcoal and crayon on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4799,
+    "question": "What was the material used in the Male Nude on a Stool?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.217>",
+    "answers": [
+      "tempera  and charcoal on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4800,
+    "question": "What was the material used in the Aymara Girl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.164%2C658>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4801,
+    "question": "What was the material used in the Celadon Catfish Dish with Lid?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.36.6A-B>",
+    "answers": [
+      "porcelain and celadon glaze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4802,
+    "question": "What was the material used in the From a Window?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.73>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4803,
+    "question": "What was the material used in the Shearing Sheep?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.564>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4804,
+    "question": "What was the material used in the Brick Kiln?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.70>",
+    "answers": [
+      "gouache on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4805,
+    "question": "What was the material used in the Cronus?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.70>",
+    "answers": [
+      "lithograph with hand-coloring"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4806,
+    "question": "What was the material used in the Natalie at Seven?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.73>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4807,
+    "question": "What was the material used in the Grey?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.75>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4808,
+    "question": "What was the material used in the Long Light?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.11.6>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4809,
+    "question": "What was the material used in the The American Monument?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.9.1.1>",
+    "answers": [
+      "Special edition book limited to 150 copies, Eakins Press, New York, edition 133/150, 213 gravure illustrations"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4810,
+    "question": "What was the material used in the The Certosa, Florence?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.85.36>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4811,
+    "question": "What was the material used in the Workers-Slotters Machine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.362>",
+    "answers": [
+      "charcoal on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4812,
+    "question": "What was the material used in the Ochre and Black?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.65.2>",
+    "answers": [
+      "gouache on paper mounted on card"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4813,
+    "question": "What was the material used in the Every Knee Must Bend?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.154.2>",
+    "answers": [
+      "plaster/cast and patinated"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4814,
+    "question": "What was the material used in the Hitchhiker, Iowa?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.63.384>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4815,
+    "question": "What was the material used in the Captain Noah Rich?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.27.76>",
+    "answers": [
+      "watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4816,
+    "question": "What was the material used in the Furnished Room?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.245>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4817,
+    "question": "What was the material used in the Mold of a Woman's Hand?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.155.172>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4818,
+    "question": "What was the material used in the Greetings?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.24.15>",
+    "answers": [
+      "pen and ink on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4819,
+    "question": "What was the material used in the Portrait of Helen?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.271>",
+    "answers": [
+      "wood engraving on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4820,
+    "question": "What was the material used in the Footprint?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.32>",
+    "answers": [
+      "color lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4821,
+    "question": "What was the material used in the Massimo Plates?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.12A-D>",
+    "answers": [
+      "high-density recycled cork and low-VOC paint"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4822,
+    "question": "What was the material used in the Boar Hunt?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.76>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4823,
+    "question": "What was the material used in the Crystal City?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.48.1>",
+    "answers": [
+      "mixed media installation, including glass, crystal, silver, plastic, and ceramic objects"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4824,
+    "question": "What was the material used in the Fiat Vita?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.19>",
+    "answers": [
+      "patinated silver"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4825,
+    "question": "What was the material used in the Revolutionary Days?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.122.118>",
+    "answers": [
+      "woodcut on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4826,
+    "question": "What was the material used in the Friendly Corner, Albi?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.221>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4827,
+    "question": "What was the material used in the Coast at Monterey, California?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.9>",
+    "answers": [
+      "tinted etching and drypoint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4828,
+    "question": "What was the material used in the Nightbloom?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.66.1>",
+    "answers": [
+      "color woodcut"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4829,
+    "question": "What was the material used in the Firelight?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.163>",
+    "answers": [
+      "pastel on paper mounted on fiberboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4830,
+    "question": "What was the material used in the Rosenwald Museum, Chicago?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.454>",
+    "answers": [
+      "drypoint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4831,
+    "question": "What was the material used in the Robert Oliphant?",
+    "entity": "<http://data.americanart.si.edu/object/id/1942.2.2>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4832,
+    "question": "What was the material used in the South of Lincoln Square?",
+    "entity": "<http://data.americanart.si.edu/object/id/1964.1.7>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4833,
+    "question": "What was the material used in the Out the Side Window?",
+    "entity": "<http://data.americanart.si.edu/object/id/2002.81.7>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4834,
+    "question": "What was the material used in the The Shaded Walk?",
+    "entity": "<http://data.americanart.si.edu/object/id/1930.12.65>",
+    "answers": [
+      "watercolor"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4835,
+    "question": "What was the material used in the Cliffside Church?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.190>",
+    "answers": [
+      "woodcut on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4836,
+    "question": "What was the material used in the DC Waterfront, Maine Avenue?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.29>",
+    "answers": [
+      "oil on board"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4837,
+    "question": "What was the material used in the Castle Rock, Marblehead?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.118>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4838,
+    "question": "What was the material used in the Belt with Jade Carving?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.47.19>",
+    "answers": [
+      "jade and leather"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4839,
+    "question": "What was the material used in the Prizefighters?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.65.195>",
+    "answers": [
+      "pen and ink, ink wash, and pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4840,
+    "question": "What was the material used in the Study for the Disciple Peter?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.38>",
+    "answers": [
+      "conte crayon and charcoal on paper mounted on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4841,
+    "question": "What was the material used in the Good Friday Morning?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.138>",
+    "answers": [
+      "photomechanical wood engraving on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4842,
+    "question": "What was the material used in the December Trees?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.83.23>",
+    "answers": [
+      "lithograph on paper mounted on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4843,
+    "question": "What was the material used in the Carillon Tower, Chicago Fair?",
+    "entity": "<http://data.americanart.si.edu/object/id/1935.13.603>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4844,
+    "question": "What was the material used in the Harold and His Mother?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.64>",
+    "answers": [
+      "platinum print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4845,
+    "question": "What was the material used in the Money?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.49.1>",
+    "answers": [
+      "acrylic and oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4846,
+    "question": "What was the material used in the Two Bottles?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.57.11>",
+    "answers": [
+      "still life of cast pÃÂ¢te-de verre bottle forms in white-grey"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4847,
+    "question": "What was the material used in the African Head Carving?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.70>",
+    "answers": [
+      "ink on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4848,
+    "question": "What was the material used in the Sewing Machine?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.5>",
+    "answers": [
+      "mixed media"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4849,
+    "question": "What was the material used in the Piro Girl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.164%2C655>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4850,
+    "question": "What was the material used in the Trampas Penitentes?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.69.27>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4851,
+    "question": "What was the material used in the Nam June Paik Archive?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.NJP>",
+    "answers": [
+      "Research Material: Correspondence, ephemera and performance documentation; writings on art, history and technology; video and audio tapes; production notes for video and television projects; sketches, notebooks, models and plans for video installations; early model televisions, video projectors, radios, record players and cameras; musical instruments, vintage photographs, posters, catalogs and works in progress; toys, games, folk sculptures and other studio effects"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4852,
+    "question": "What was the material used in the Staircase Glacier?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.6>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4853,
+    "question": "What was the material used in the Boatright Ranch?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.37.32>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4854,
+    "question": "What was the material used in the Reclining?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.9.131>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4855,
+    "question": "What was the material used in the Castle Oberlahnstein, Rhine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.119>",
+    "answers": [
+      "pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4856,
+    "question": "What was the material used in the Footbridge?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.105>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4857,
+    "question": "What was the material used in the Cockatoo: Keepsake Parakeet?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.69>",
+    "answers": [
+      "box construction"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4858,
+    "question": "What was the material used in the Dresser Drawer?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.54.1>",
+    "answers": [
+      "hair, paper, walnut, gold, crystal, and brass"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4859,
+    "question": "What was the material used in the Autumn Still Life?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.46>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4860,
+    "question": "What was the material used in the In the Summer Sea?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.295>",
+    "answers": [
+      "casein on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4861,
+    "question": "What was the material used in the Rodeo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.99.65>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4862,
+    "question": "What was the material used in the Squatting Polar Bear?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.167.89>",
+    "answers": [
+      "bronze on marble base"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4863,
+    "question": "What was the material used in the Girl with Tambourine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.65.240>",
+    "answers": [
+      "carved and painted wood, metal chain, and glass beads"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4864,
+    "question": "What was the material used in the Small Town, Main Street?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.28.375>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4865,
+    "question": "What was the material used in the Candle in a Vortex of Water?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.9.2>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4866,
+    "question": "What was the material used in the America/Abundance?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.121>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4867,
+    "question": "What was the material used in the At the Battery, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.5>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4868,
+    "question": "What was the material used in the Tents?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.18.10>",
+    "answers": [
+      "oil on wood"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4869,
+    "question": "What was the material used in the Laura at Fifteen?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.50>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4870,
+    "question": "What was the material used in the The Purple Dress?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.70>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4871,
+    "question": "What was the material used in the Family Picnic?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.447.63>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4872,
+    "question": "What was the material used in the Musketeer?",
+    "entity": "<http://data.americanart.si.edu/object/id/1952.13.73>",
+    "answers": [
+      "watercolor on paper mounted on fiberboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4873,
+    "question": "What was the material used in the Atheneum Clapboard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.50>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4874,
+    "question": "What was the material used in the Corner of House--Malta?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.248>",
+    "answers": [
+      "pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4875,
+    "question": "What was the material used in the Esther?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.9.10>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4876,
+    "question": "What was the material used in the Sitting Nude?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.126>",
+    "answers": [
+      "drypoint and aquatint"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4877,
+    "question": "What was the material used in the Experience Meeting, Massydony?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.90.183>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4878,
+    "question": "What was the material used in the Soap Bubble Set?",
+    "entity": "<http://data.americanart.si.edu/object/id/1999.91>",
+    "answers": [
+      "wood box construction with glass and mixed media"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4879,
+    "question": "What was the material used in the Fox and Goose?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.50.9>",
+    "answers": [
+      "cast aluminum"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4880,
+    "question": "What was the material used in the Romance Sentimentale?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.132.3>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4881,
+    "question": "What was the material used in the Wonderland?",
+    "entity": "<http://data.americanart.si.edu/object/id/1996.88>",
+    "answers": [
+      "acrylic, fabric and plastic beads on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4882,
+    "question": "What was the material used in the Extension Ladder?",
+    "entity": "<http://data.americanart.si.edu/object/id/2011.37.14>",
+    "answers": [
+      "mixed media"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4883,
+    "question": "What was the material used in the Maquette for Chorale?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.185.2>",
+    "answers": [
+      "cut, bent, welded and painted steel"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4884,
+    "question": "What was the material used in the The Hunt (Punch Bowl)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.92.3A>",
+    "answers": [
+      "cast, bisque-fired, underglazed, and crackle clear-glazed porcelain"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4885,
+    "question": "What was the material used in the Lobelia Kalmii?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.141>",
+    "answers": [
+      "watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4886,
+    "question": "What was the material used in the Subway?",
+    "entity": "<http://data.americanart.si.edu/object/id/1965.18.43>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4887,
+    "question": "What was the material used in the Cleavage?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.28.1>",
+    "answers": [
+      "etching and aquatint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4888,
+    "question": "What was the material used in the Still Life with Menu?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.36>",
+    "answers": [
+      "watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4889,
+    "question": "What was the material used in the Rolled-Edge Bowl?",
+    "entity": "<http://data.americanart.si.edu/object/id/1990.9>",
+    "answers": [
+      "tulipwood"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4890,
+    "question": "What was the material used in the Rain on the Square?",
+    "entity": "<http://data.americanart.si.edu/object/id/2012.13.1>",
+    "answers": [
+      "color etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4891,
+    "question": "What was the material used in the One Horse Farm?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.65.2>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4892,
+    "question": "What was the material used in the Bee Mine?",
+    "entity": "<http://data.americanart.si.edu/object/id/1987.21>",
+    "answers": [
+      "toned gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4893,
+    "question": "What was the material used in the William Thaw?",
+    "entity": "<http://data.americanart.si.edu/object/id/1927.8.14>",
+    "answers": [
+      "chalk on paper mounted on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4894,
+    "question": "What was the material used in the Queen Elizabeth?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.4.4>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4895,
+    "question": "What was the material used in the Melancholia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.439.52>",
+    "answers": [
+      "woodcut"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4896,
+    "question": "What was the material used in the Dockyard?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.154>",
+    "answers": [
+      "tempera and pen and ink and pencil on paper mounted on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4897,
+    "question": "What was the material used in the Mountain Pool?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.173>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4898,
+    "question": "What was the material used in the Indian Hunting Buffalo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.362%2C158>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4899,
+    "question": "What was the material used in the George Partridge Richardson?",
+    "entity": "<http://data.americanart.si.edu/object/id/1950.4.25>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4900,
+    "question": "What was the material used in the Bull?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.159.39>",
+    "answers": [
+      "mixed media: oil, wood, aluminum on canvas and oil on wood"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4901,
+    "question": "What was the material used in the Grizzly Madonna?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.74.40>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4902,
+    "question": "What was the material used in the Portal Gates?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.117.1A-B>",
+    "answers": [
+      "forged steel, brass, copper, and bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4903,
+    "question": "What was the material used in the Encompassed in Purple?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.26.12>",
+    "answers": [
+      "color woodcut"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4904,
+    "question": "What was the material used in the Niagara in Summer, from Below?",
+    "entity": "<http://data.americanart.si.edu/object/id/1994.91.4>",
+    "answers": [
+      "combination print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4905,
+    "question": "What was the material used in the Mounette?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.136>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4906,
+    "question": "What was the material used in the Street Fight?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.213>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4907,
+    "question": "What was the material used in the Pegasus Departing?",
+    "entity": "<http://data.americanart.si.edu/object/id/1929.6.105>",
+    "answers": [
+      "oil on canvas mounted on fiberboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4908,
+    "question": "What was the material used in the Mount Orizaba?",
+    "entity": "<http://data.americanart.si.edu/object/id/1992.13.74>",
+    "answers": [
+      "color woodcut on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4909,
+    "question": "What was the material used in the Brown Moons?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.21>",
+    "answers": [
+      "color lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4910,
+    "question": "What was the material used in the Nest of Fifteen?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.18A-O>",
+    "answers": [
+      "white oak and walnut"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4911,
+    "question": "What was the material used in the Winter Brook?",
+    "entity": "<http://data.americanart.si.edu/object/id/1941.6.6>",
+    "answers": [
+      "drypoint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4912,
+    "question": "What was the material used in the Family and Friends?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.30.4>",
+    "answers": [
+      "pen and ink and pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4913,
+    "question": "What was the material used in the Bartholomeo Bongo?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.294>",
+    "answers": [
+      "wood engraving on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4914,
+    "question": "What was the material used in the Dox Trash?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.72.291>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4915,
+    "question": "What was the material used in the Lafayette Street?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.115.1>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4916,
+    "question": "What was the material used in the Wyoming?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.92.71>",
+    "answers": [
+      "gouache on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4917,
+    "question": "What was the material used in the Old Houses, Lausanne?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.83.88>",
+    "answers": [
+      "pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4918,
+    "question": "What was the material used in the Still Life with Dogwood?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.146.11>",
+    "answers": [
+      "oil on linen"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4919,
+    "question": "What was the material used in the The Phantom?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.62>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4920,
+    "question": "What was the material used in the Beulah Appleton?",
+    "entity": "<http://data.americanart.si.edu/object/id/1942.11.7>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4921,
+    "question": "What was the material used in the Going to School?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.31.19>",
+    "answers": [
+      "tempera on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4922,
+    "question": "What was the material used in the Maine Pump?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.13.1.2>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4923,
+    "question": "What was the material used in the Roadster?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.63.173B>",
+    "answers": [
+      "drawing"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4924,
+    "question": "What was the material used in the Head of a Woman in Jerusalem?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.95.194>",
+    "answers": [
+      "oil on canvas mounted on cardboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4925,
+    "question": "What was the material used in the Sailor?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.172.17>",
+    "answers": [
+      "hollow cut paper and ink on card"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4926,
+    "question": "What was the material used in the Cubist Still Life?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.124.5>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4927,
+    "question": "What was the material used in the Mt. of Temptation?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.56.233>",
+    "answers": [
+      "pencil on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4928,
+    "question": "What was the material used in the Study for Gargoyle in Flames?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.153.19>",
+    "answers": [
+      "ink"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4929,
+    "question": "What was the material used in the Araucanian Man?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.164%2C670>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4930,
+    "question": "What was the material used in the Death of Clytaemnestra?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.60>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4931,
+    "question": "What was the material used in the Town Creek, Clinton, Missouri?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.20>",
+    "answers": [
+      "oil on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4932,
+    "question": "What was the material used in the Braceros?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.20>",
+    "answers": [
+      "oil on masonite"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4933,
+    "question": "What was the material used in the Saratoga Springs, New York?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.13.1.1>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4934,
+    "question": "What was the material used in the Rites of Spring?",
+    "entity": "<http://data.americanart.si.edu/object/id/1984.21>",
+    "answers": [
+      "carved and stained wood"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4935,
+    "question": "What was the material used in the Natural Bridge?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.53.5>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4936,
+    "question": "What was the material used in the Man Astraddle?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.7.1>",
+    "answers": [
+      "brush and ink on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4937,
+    "question": "What was the material used in the Frisky Day?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.90>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4938,
+    "question": "What was the material used in the Slant: Chip?",
+    "entity": "<http://data.americanart.si.edu/object/id/1975.8>",
+    "answers": [
+      "screenprint on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4939,
+    "question": "What was the material used in the Village Square?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.4>",
+    "answers": [
+      "collage on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4940,
+    "question": "What was the material used in the Isaac Praul?",
+    "entity": "<http://data.americanart.si.edu/object/id/1950.4.15>",
+    "answers": [
+      "watercolor on ivory"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4941,
+    "question": "What was the material used in the White Tanks?",
+    "entity": "<http://data.americanart.si.edu/object/id/1986.81.22>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4942,
+    "question": "What was the material used in the Door, Arles, France?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.38.63>",
+    "answers": [
+      "gelatin silver print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4943,
+    "question": "What was the material used in the O-mata-ah-luta (Red Plume)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.128%2C430>",
+    "answers": [
+      "oil on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4944,
+    "question": "What was the material used in the Girl with Long Hair?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.287.13>",
+    "answers": [
+      "woodcut"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4945,
+    "question": "What was the material used in the Ideas?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.79.1>",
+    "answers": [
+      "leaded glass"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4946,
+    "question": "What was the material used in the The Black Hat?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.11>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4947,
+    "question": "What was the material used in the Provincetown Bacchanalia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.99>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4948,
+    "question": "What was the material used in the Woman in Calico?",
+    "entity": "<http://data.americanart.si.edu/object/id/1967.59.1014>",
+    "answers": [
+      "oil on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4949,
+    "question": "What was the material used in the Ball-play Dance, Choctaw?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.427>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4950,
+    "question": "What was the material used in the Rising?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.53.2>",
+    "answers": [
+      "inkjet print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4951,
+    "question": "What was the material used in the Elizabeth Tuckerman Salisbury?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.130.298>",
+    "answers": [
+      "wood engraving on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4952,
+    "question": "What was the material used in the Blooming Vessel?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.1>",
+    "answers": [
+      "copper with silver-plating"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4953,
+    "question": "What was the material used in the Dark Still Life?",
+    "entity": "<http://data.americanart.si.edu/object/id/1981.154.35>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4954,
+    "question": "What was the material used in the Utah Landscape?",
+    "entity": "<http://data.americanart.si.edu/object/id/1983.85>",
+    "answers": [
+      "oil on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4955,
+    "question": "What was the material used in the Winter Bluebirds?",
+    "entity": "<http://data.americanart.si.edu/object/id/2010.44.2A-B>",
+    "answers": [
+      "chromogenic print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4956,
+    "question": "What was the material used in the Maquette for Southern Wall?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.159.33>",
+    "answers": [
+      "assembled and painted wood, sand, paperboard, pencil on paper, plastic and metal"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4957,
+    "question": "What was the material used in the L' Etang?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.198>",
+    "answers": [
+      "etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4958,
+    "question": "What was the material used in the Home Front?",
+    "entity": "<http://data.americanart.si.edu/object/id/1979.98.176>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4959,
+    "question": "What was the material used in the Mr. Cass Gilbert?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.13.4>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4960,
+    "question": "What was the material used in the Rikki and Carrie, Dining Room?",
+    "entity": "<http://data.americanart.si.edu/object/id/2009.26.1>",
+    "answers": [
+      "chromogenic print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4961,
+    "question": "What was the material used in the Stepping into Shoes?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.54.3>",
+    "answers": [
+      "hair, paper, walnut, gold, crystal, and brass"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4962,
+    "question": "What was the material used in the Supplies for Suburbia?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.175>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4963,
+    "question": "What was the material used in the Rendezvous?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.37.2>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4964,
+    "question": "What was the material used in the Aymara Boy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1985.66.164%2C665>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4965,
+    "question": "What was the material used in the Striped Bass?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.157>",
+    "answers": [
+      "drypoint and etching"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4966,
+    "question": "What was the material used in the Russian Hill?",
+    "entity": "<http://data.americanart.si.edu/object/id/1974.38.112>",
+    "answers": [
+      "linoleum cut on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4967,
+    "question": "What was the material used in the Adieu?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.13.3>",
+    "answers": [
+      "oil and resin on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4968,
+    "question": "What was the material used in the Caught in the Act?",
+    "entity": "<http://data.americanart.si.edu/object/id/2007.33.4>",
+    "answers": [
+      "36 minutes, black & white, sound"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4969,
+    "question": "What was the material used in the The Top of the World?",
+    "entity": "<http://data.americanart.si.edu/object/id/1977.66.67>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4970,
+    "question": "What was the material used in the Red Fern?",
+    "entity": "<http://data.americanart.si.edu/object/id/2003.60.15>",
+    "answers": [
+      "box elder"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4971,
+    "question": "What was the material used in the Maquette for White Tornado?",
+    "entity": "<http://data.americanart.si.edu/object/id/1980.49.8>",
+    "answers": [
+      "mixed media: acrylic on wood and metal wire"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4972,
+    "question": "What was the material used in the Collecting with Rudi?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.201.2>",
+    "answers": [
+      "photosensitive-ground etching, engraving and direct photographic transfer (using photosensitive ground) on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4973,
+    "question": "What was the material used in the Carpet Pink (Silene acaulis)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.355.104>",
+    "answers": [
+      "watercolor on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4974,
+    "question": "What was the material used in the The Birdlover?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.32.22>",
+    "answers": [
+      "woodcut"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4975,
+    "question": "What was the material used in the Local Calm?",
+    "entity": "<http://data.americanart.si.edu/object/id/2006.23>",
+    "answers": [
+      "sugar lift aquatint with color aquatint and spit bite aquatint, soft and hard ground etching, and engraving on Gampi paper chine collÃÂ©"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4976,
+    "question": "What was the material used in the Orange Grove Avenue, Pasadena?",
+    "entity": "<http://data.americanart.si.edu/object/id/2004.29.65>",
+    "answers": [
+      "chromolithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4977,
+    "question": "What was the material used in the Byrdcliffe Oak Chiffonier?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.33>",
+    "answers": [
+      "oak, stain and oil paint"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4978,
+    "question": "What was the material used in the Child on Sofa?",
+    "entity": "<http://data.americanart.si.edu/object/id/1970.124>",
+    "answers": [
+      "watercolor on paper mounted on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4979,
+    "question": "What was the material used in the The Lake of Bolsena, Italy?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.124.159>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4980,
+    "question": "What was the material used in the Ten Doors?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.4>",
+    "answers": [
+      "color screenprint"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4981,
+    "question": "What was the material used in the Running Man?",
+    "entity": "<http://data.americanart.si.edu/object/id/2000.56>",
+    "answers": [
+      "glazed whiteware"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4982,
+    "question": "What was the material used in the Two Magnolias?",
+    "entity": "<http://data.americanart.si.edu/object/id/1998.157>",
+    "answers": [
+      "digital print"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4983,
+    "question": "What was the material used in the Girls in Conversation?",
+    "entity": "<http://data.americanart.si.edu/object/id/1991.14.3>",
+    "answers": [
+      "etching on paper mounted on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4984,
+    "question": "What was the material used in the Approaching Night?",
+    "entity": "<http://data.americanart.si.edu/object/id/1969.21.100>",
+    "answers": [
+      "aquatint"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4985,
+    "question": "What was the material used in the Santa Elena Canyon, Big Bend?",
+    "entity": "<http://data.americanart.si.edu/object/id/2014.12.7>",
+    "answers": [
+      "pastel on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4986,
+    "question": "What was the material used in the Pioneer Family (Dressed)?",
+    "entity": "<http://data.americanart.si.edu/object/id/1976.145.26>",
+    "answers": [
+      "cast and patinated plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4987,
+    "question": "What was the material used in the Living Inside?",
+    "entity": "<http://data.americanart.si.edu/object/id/2015.8.4>",
+    "answers": [
+      "single-channel video, black and white, sound; 05:10 minutes"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4988,
+    "question": "What was the material used in the The Indian Ghost Dancer?",
+    "entity": "<http://data.americanart.si.edu/object/id/1958.11.28>",
+    "answers": [
+      "bronze"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4989,
+    "question": "What was the material used in the Field of Wheat Shock?",
+    "entity": "<http://data.americanart.si.edu/object/id/1962.4.8>",
+    "answers": [
+      "watercolor"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4990,
+    "question": "What was the material used in the Country Pool?",
+    "entity": "<http://data.americanart.si.edu/object/id/1995.90.6>",
+    "answers": [
+      "lithograph"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4991,
+    "question": "What was the material used in the The Excavators?",
+    "entity": "<http://data.americanart.si.edu/object/id/1972.74.12>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4992,
+    "question": "What was the material used in the Man on Bench in Town?",
+    "entity": "<http://data.americanart.si.edu/object/id/1966.21.10>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4993,
+    "question": "What was the material used in the House in Nantes?",
+    "entity": "<http://data.americanart.si.edu/object/id/1971.364.5>",
+    "answers": [
+      "etching on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4994,
+    "question": "What was the material used in the Portrait of Jack Greenbaum?",
+    "entity": "<http://data.americanart.si.edu/object/id/2005.5.15>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4995,
+    "question": "What was the material used in the ISOLATION, Mingering Mike?",
+    "entity": "<http://data.americanart.si.edu/object/id/2013.8.65R-V>",
+    "answers": [
+      "mixed media on paperboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4996,
+    "question": "What was the material used in the Freda?",
+    "entity": "<http://data.americanart.si.edu/object/id/1951.14.27>",
+    "answers": [
+      "pastel on fiberboard"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4997,
+    "question": "What was the material used in the The Kitchen?",
+    "entity": "<http://data.americanart.si.edu/object/id/1968.52.5>",
+    "answers": [
+      "oil on canvas"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4998,
+    "question": "What was the material used in the Women Bathing?",
+    "entity": "<http://data.americanart.si.edu/object/id/1982.71.3>",
+    "answers": [
+      "lithograph on paper"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 4999,
+    "question": "What was the material used in the A Moon?",
+    "entity": "<http://data.americanart.si.edu/object/id/1973.58>",
+    "answers": [
+      "cellocut"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  },
+  {
+    "id": 5000,
+    "question": "What was the material used in the Lawrence Barrett As Cassius?",
+    "entity": "<http://data.americanart.si.edu/object/id/XX46>",
+    "answers": [
+      "plaster"
+    ],
+    "type": "single-entity factoid",
+	"property": "isReferredToBy",
+	"radius": 1
+  }
+]
