@@ -4,7 +4,7 @@ N. GOUNAKIS, M. MOUNTANTONAKIS, and Y. TZITZIKAS "Evaluating a Radius-based Pipe
 (CIDOC-CRM based) Knowledge Graphs" (2023). The datasets can be found at this link https://github.com/NicolaiGoon/CIDOC-QA-BENCHMARK/
 
 ## Templates
-Below, we provide the different SPARQL Template queries that sent to <https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum>. The placeholders {Art Work} and {Artist} are replaced with entities present in the KG. From queries in Gounakis23, we add the following filtrer on SPARQL Query to specify the label of Art Work or Artist).
+In the CIDOC-QA-BENCHMARK repository, can be found the SPARQL template queries that sent to <https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum>. The placeholders {Art Work} and {Artist} are replaced with entities present in the KG. From original templates, we add the following filtrer on SPARQL Query to specify the label of Art Work or Artist).
 
 Case {Art Work}
 
@@ -24,5 +24,8 @@ Filter(REGEX(str(?label), "{Artist}","i")).
 
 
 ## Results
-
-The results are stored in the folder "results". There can be found a file for each template and a file with a sample of 10 elements for each template.
+### Validation
+The validation set is made by 25 different questions on mithsonian American Art Museum (SAAM) KG. The directory include the manual comparison dataset (vs_manual.json), used to evaluate the results, and the results of the process (vs_results.csv). The directory includes the results of the process using a Named Entity Recognition system (vs_results_with_NER.csv), based on Gazetteers of art works and artists in SAAM KG. 
+### CIDOC-QA
+The directory includes the results on the process of system with the natural language set used in "Evaluating a Radius-based Pipeline for Question Answering over Cultural
+(CIDOC-CRM based) Knowledge Graphs". The results are grouped by template, with 500 samples for each one. 
