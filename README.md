@@ -11,10 +11,93 @@ In addition, the results file includes a comparison between the SPARQL response 
 The comparison is conducted by checking if the Gen. Query Response contains the Man. Query Response. More details on this comparison can be found in the algorithm description file.
 
 
-## Evaluation Set
-The main evaluation set is made by 43 different questions on Smithsonian American Art Museum (SAAM) Knowledge Base. The collection of natural language questions include several different request on art domain, asking information about artists and artefact. 
+## Evaluation
+The main evaluation set is made by 50 different questions on Smithsonian American Art Museum (SAAM) Knowledge Base. The collection of natural language questions include several different request on art domain, asking information about artists and artefact. 
 
-## CIDOC-QA-BENCHMARK Set
+### Questions Set - 50 NL Questions
+------------
+| Question |
+------------
+| Who is Darryl Abraham? |
+| What is Honeymoon Motel? |
+| Which paintings did Leonard Ochtman create? |
+| What was the birthdate of Leonard Ochtman? |
+| What was the birthplace of Leonard Ochtman? |
+| What was the deathdate of Leonard Ochtman? |
+| When did Leonard Ochtman die? |
+| When died Leonard Ochtman? |
+| Where was the deathplace of Leonard Ochtman? |
+| What was the nationality of Leonard Ochtman? |
+| Who painted the Morning Haze? |
+| Who donated the Morning Haze? |
+| Who gave the Morning Haze? |
+| When was the production of Morning Haze completed? |
+| When was the Morning Haze completed? |
+| When did the production of Morning Haze start? |
+| When did Morning Haze start? |
+| Who is the author of Morning Haze? |
+| When was the Morning Haze created? |
+| What was the birthplace of the creator of the Morning Haze? |
+| What is the size of the Morning Haze? |
+| Who gave the Honeymoon Motel to the museum? |
+| What are the sculptures that are made of lead? |
+| Who was born in 1854? |
+| Who was born in Zonnemaire? |
+| Who are the authors of the Morning Haze? |
+| Which are the authors of Morning Haze? |
+| What is the place | Where Leonard Ochtman was born? |
+| What sculptures are made of lead? |
+| What sculptures are made of lead material? |
+| Who made artworks with lead and wood? |
+| Who made Morning Haze and Summer Morning? |
+| Which painters have died in Amsterdam? |
+| What things are made by the guy Leonard Ochtman? |
+| What artefacts are made of lead? |
+| What arefacts are made by the artist Leonard Ochtman? |
+| When did the production of Morning Haze end? |
+| What authors died in Madrid in 1660? |
+| When did the creation of Morning Haze start? |
+| When was the production of Morning Haze ended? |
+| When did Leonard Ochtman paint Morning Haze? |
+| Where did the painter of Morning Haze born? |
+| Which painter died at the birthplace of Leonard Ochtman? |
+| Who gave sculptures made by Leonard Ochtman? |
+| What are the artefacts produced at the deathdate of Leonard Ochtman? |
+| Who was born between 1950 and 1970? |
+| Who was born before 1950? |
+| Who was born in 1950 or in 1970? |
+| What artefacts were made after 2000? |
+| Where did Mary go in 1900? |
+------------------------------
+
+### Manual Validation Set 
+For each question, the manual validation set is a JSON file which includes the NL question and the SPARQL response of the manually created SPARQL query that answers the natural language question, i.e. for the question "Which paintings did Leonard Ochtman create?" the corresponding JSON object is the following: 
+```JSON
+{
+    "question": "Which paintings did Leonard Ochtman create?",
+    "answers": [
+      {
+        "snameArtefact": "A Morning in Summer",
+        "Artefact": "http://data.americanart.si.edu/object/id/1946.10.2",
+        "snameArtist": "Leonard Ochtman",
+        "Artist": "http://data.americanart.si.edu/constituent/id/3606"
+      },
+      {
+        "snameArtefact": "Morning Haze",
+        "Artefact": "http://data.americanart.si.edu/object/id/1909.11.2",
+        "snameArtist": "Leonard Ochtman",
+        "Artist": "http://data.americanart.si.edu/constituent/id/3606"
+      }
+    ]
+  }
+```
+### System Results Set
+METTERE TABELLA CON : NUMERO FRASE, FRASE, RISULTATO COMAPRE, COMMENTO SUL RISULTATO (SOLO SE FALSO)
+METTERE UN ESEMPIO DEI RISULTATI E REFERENZIARE IL FILE (MAGARI AGGRUPPARE PER 10)
+
+
+
+## CIDOC-QA-BENCHMARK Set - 5'000 NL Questions from https://github.com/NicolaiGoon/CIDOC-QA-BENCHMARK/
 
 The second evaluation is about a set of 5'000 questions based on 10 query templates (of different radius). These questions are retrieved from 
 N. GOUNAKIS, M. MOUNTANTONAKIS, and Y. TZITZIKAS "Evaluating a Radius-based Pipeline for Question Answering over Cultural
@@ -22,6 +105,12 @@ N. GOUNAKIS, M. MOUNTANTONAKIS, and Y. TZITZIKAS "Evaluating a Radius-based Pipe
 
 ### Templates
 In the CIDOC-QA-BENCHMARK repository, can be found the SPARQL template queries that sent to <https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum>. The placeholders {Art Work} and {Artist} are replaced with entities present in the KG. From original templates, we add the following filtrer on SPARQL Query to specify the label of Art Work or Artist).
+
+#### Q1 - Which is the art type of {Art Work}?
+RISULTATI CON E SENZA NER
+INSERIRE QUI UN RIASSUNTO
+
+
 
 Case {Art Work}
 
