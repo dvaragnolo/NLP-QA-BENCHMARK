@@ -15,9 +15,8 @@ The comparison is conducted by checking if the Gen. Query Response contains the 
 The main evaluation set is made by 50 different questions on Smithsonian American Art Museum (SAAM) Knowledge Base. The collection of natural language questions include several different request on art domain, asking information about artists and artefact. 
 
 ### Questions Set - 50 NL Questions
-------------
-| Question |
-------------
+| Domanda |
+| ------- |
 | Who is Darryl Abraham? |
 | What is Honeymoon Motel? |
 | Which paintings did Leonard Ochtman create? |
@@ -45,7 +44,7 @@ The main evaluation set is made by 50 different questions on Smithsonian America
 | Who was born in Zonnemaire? |
 | Who are the authors of the Morning Haze? |
 | Which are the authors of Morning Haze? |
-| What is the place | Where Leonard Ochtman was born? |
+| What is the place where Leonard Ochtman was born? |
 | What sculptures are made of lead? |
 | What sculptures are made of lead material? |
 | Who made artworks with lead and wood? |
@@ -68,7 +67,6 @@ The main evaluation set is made by 50 different questions on Smithsonian America
 | Who was born in 1950 or in 1970? |
 | What artefacts were made after 2000? |
 | Where did Mary go in 1900? |
-------------------------------
 
 ### Manual Validation Set 
 For each question, the manual validation set is a JSON file which includes the NL question and the SPARQL response of the manually created SPARQL query that answers the natural language question, i.e. for the question "Which paintings did Leonard Ochtman create?" the corresponding JSON object is the following: 
