@@ -146,37 +146,11 @@ For each question, the manual validation set is a JSON file which includes the N
 The file presents the results of all the sub-modules of the system: the Partial Semantic Representation, the Query Ontology Representation and the Genererated SPARQL Query. Moreover, are presented the SPARQL Response of the generated query, the SPARQL Response of the manual validation set and the comparation result between thw two responses. The comparation is boolean and it gives true if the SPARQL Response of the generated query contains the the SPARQL Response of the manual validation set.
 Below, the result of the question "Which paintings did Leonard Ochtman create?":
 
-| Question | partialDRS | Solution | Gen Query | Gen Query Response | Man Data Response | Gen.contains(Man) |
+| Question | partialDRS |   Solution   | Gen Query | Gen Query Response | Man Data Response | Gen.contains(Man) |
 |----------|----------|----------|----------|----------|----------|----------|
-| Which paintings did Leonard Ochtman create? | X1-create-create-null,X2-Leonard Ochtman-Leonard-null,X3-painting-paintings-which, X2-has_name-Leonard Ochtman,X1-subj-X2,X3-qualifier-which,X1-obj-X3,	| Drs [
- tokens=[],
- dEntities=[
-DEntity(X1, create, create, VERB, null, false, Make1, Make), 
-DEntity(X2, Leonard Ochtman, Leonard, PROPN, null, false, Artist2, Artist), 
-DEntity(X3, painting, paintings, NOUN, which, false, Artefact3, Artefact), 
-DEntity(X4, null, null, null, null, false, Query4, Query), 
-DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)],
- dConditions=[
-DCondition(X2, has_name, Leonard Ochtman, propriedades= [] --- [has_name, has_text, who]), 
-DCondition(X1, subj, X2, propriedades= [who_made] --- []), 
-DCondition(X1, obj, X3, propriedades= [made_art] --- []), 
-DCondition(X1, has_text, create, propriedades= [] --- [has_name, has_text, who]), 
-DCondition(X2, has_text, Leonard Ochtman, propriedades= [] --- [has_name, has_text, who]), 
-DCondition(X3, has_text, painting, propriedades= [] --- [has_name, has_text, who]), 
-DCondition(X4, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
-DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
-DCondition(X5, has_name, which, propriedades= [] --- [has_name, has_text, who]), 
-DCondition(X4, obj, X3, propriedades= [select] --- []), 
-DCondition(X4, subj, X5, propriedades= [qQualifier] --- [])]
- solu��es = []
- numeroFrase = 0
- numHasNames = 2
- numIndividuals = 5
- numEntitiesOk = 0
- numIsClass = 0
- numPropsOk = 16
- numEntitiesNOk = 0
- numClassesOk = 2] | PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameArtefact3 ?Artefact3 ?ltypeArtefact3 ?snameArtist2 ?Artist2 WHERE { ?Artefact3 cidoc:P2_has_type ?typeArtefact3.  ?typeArtefact3 rdfs:label ?ltypeArtefact3  . Filter(REGEX(?ltypeArtefact3, "painting","i")). ?Artefact3 cidoc:P108i_was_produced_by ?Make1 . ?Artefact3 rdfs:label ?snameArtefact3 . ?Make1 cidoc:P14_carried_out_by ?Artist2 . ?Artist2 rdfs:label ?snameArtist2 . {{?Artist2 cidoc:P131_is_identified_by ?nameArtist2 . ?nameArtist2 rdf:value ?snameArtist2 .}  UNION {?Artist2 rdfs:label ?snameArtist2 .}}  filter(regex(?snameArtist2,"Leonard Ochtman","i")) . } | [   {     "snameArtefact3": "Morning Haze",     "Artefact3": "http://data.americanart.si.edu/object/id/1909.11.2",     "ltypeArtefact3": "Painting",     "snameArtist2": "Leonard Ochtman",     "Artist2": "http://data.americanart.si.edu/constituent/id/3606"   },   {     "snameArtefact3": "A Morning in Summer",     "Artefact3": "http://data.americanart.si.edu/object/id/1946.10.2",     "ltypeArtefact3": "Painting",     "snameArtist2": "Leonard Ochtman",     "Artist2": "http://data.americanart.si.edu/constituent/id/3606"   } ] | 	[{"Artist":"http://data.americanart.si.edu/constituent/id/3606","snameArtist":"Leonard Ochtman","Artefact":"http://data.americanart.si.edu/object/id/1946.10.2","snameArtefact":"A Morning in Summer"},{"Artist":"http://data.americanart.si.edu/constituent/id/3606","snameArtist":"Leonard Ochtman","Artefact":"http://data.americanart.si.edu/object/id/1909.11.2","snameArtefact":"Morning Haze"}] | true |
+| Which paintings did Leonard Ochtman create? | X1-create-create-null,X2-Leonard Ochtman-Leonard-null,X3-painting-paintings-which, X2-has_name-Leonard Ochtman,X1-subj-X2,X3-qualifier-which,X1-obj-X3,	| Drs [ tokens=[], dEntities=[ DEntity(X1, create, create, VERB, null, false, Make1, Make),  DEntity(X2, Leonard Ochtman, Leonard, PROPN, null, false, Artist2, Artist),  DEntity(X3, painting, paintings, NOUN, which, false, Artefact3, Artefact),  DEntity(X4, null, null, null, null, false, Query4, Query),  DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)], dConditions=[ DCondition(X2, has_name, Leonard Ochtman, propriedades= [] --- [has_name, has_text, who]), DCondition(X1, subj, X2, propriedades= [who_made] --- []), DCondition(X1, obj, X3, propriedades= [made_art] --- []), DCondition(X1, has_text, create, propriedades= [] --- [has_name, has_text, who]), DCondition(X2, has_text, Leonard Ochtman, propriedades= [] --- [has_name, has_text, who]), DCondition(X3, has_text, painting, propriedades= [] --- [has_name, has_text, who]), DCondition(X4, has_text, Query, propriedades= [] --- [has_name, has_text, who]), DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), DCondition(X5, has_name, which, propriedades= [] --- [has_name, has_text, who]), DCondition(X4, obj, X3, propriedades= [select] --- []), DCondition(X4, subj, X5, propriedades= [qQualifier] --- [])] solu��es = [] numeroFrase = 0 numHasNames = 2 numIndividuals = 5 numEntitiesOk = 0 numIsClass = 0 numPropsOk = 16 numEntitiesNOk = 0 numClassesOk = 2] | PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameArtefact3 ?Artefact3 ?ltypeArtefact3 ?snameArtist2 ?Artist2 WHERE { ?Artefact3 cidoc:P2_has_type ?typeArtefact3.  ?typeArtefact3 rdfs:label ?ltypeArtefact3  . Filter(REGEX(?ltypeArtefact3, "painting","i")). ?Artefact3 cidoc:P108i_was_produced_by ?Make1 . ?Artefact3 rdfs:label ?snameArtefact3 . ?Make1 cidoc:P14_carried_out_by ?Artist2 . ?Artist2 rdfs:label ?snameArtist2 . {{?Artist2 cidoc:P131_is_identified_by ?nameArtist2 . ?nameArtist2 rdf:value ?snameArtist2 .}  UNION {?Artist2 rdfs:label ?snameArtist2 .}}  filter(regex(?snameArtist2,"Leonard Ochtman","i")) . } | [   {     "snameArtefact3": "Morning Haze",     "Artefact3": "http://data.americanart.si.edu/object/id/1909.11.2",     "ltypeArtefact3": "Painting",     "snameArtist2": "Leonard Ochtman",     "Artist2": "http://data.americanart.si.edu/constituent/id/3606"   },   {     "snameArtefact3": "A Morning in Summer",     "Artefact3": "http://data.americanart.si.edu/object/id/1946.10.2",     "ltypeArtefact3": "Painting",     "snameArtist2": "Leonard Ochtman",     "Artist2": "http://data.americanart.si.edu/constituent/id/3606"   } ] | 	[{"Artist":"http://data.americanart.si.edu/constituent/id/3606","snameArtist":"Leonard Ochtman","Artefact":"http://data.americanart.si.edu/object/id/1946.10.2","snameArtefact":"A Morning in Summer"},{"Artist":"http://data.americanart.si.edu/constituent/id/3606","snameArtist":"Leonard Ochtman","Artefact":"http://data.americanart.si.edu/object/id/1909.11.2","snameArtefact":"Morning Haze"}] | true |
+
+The results are divided into two files: from question id 1 to 25 and from question id 26 to 50.
 
 ## CIDOC-QA-BENCHMARK Set - 5'000 NL Questions from https://github.com/NicolaiGoon/CIDOC-QA-BENCHMARK/
 
