@@ -160,25 +160,36 @@ N. GOUNAKIS, M. MOUNTANTONAKIS, and Y. TZITZIKAS "Evaluating a Radius-based Pipe
 
 ### Templates
 In the CIDOC-QA-BENCHMARK repository, can be found the SPARQL template queries that sent to <https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum>. The placeholders {Art Work} and {Artist} are replaced with entities present in the KG. From original templates, we add the following filtrer on SPARQL Query to specify the label of Art Work or Artist).
+### Named Entity Recognition
+
+### Results
 
 #### Q1 - Which is the art type of {Art Work}?
-RISULTATI CON E SENZA NER
-INSERIRE QUI UN RIASSUNTO
+
+| N. Questions | % Correct Response with NER | % Correct Response without NER |
+|--------------|-----------------------------|--------------------------------|
+|      500     |             100.0%          |               44.0%            |
+
+#### Q3 - Who gave the {Art Work} to the museum?
+
+| N. Questions | % Correct Response with NER | % Correct Response without NER |
+|--------------|-----------------------------|--------------------------------|
+|      500     |             100.0%          |               50.4%            |
+
+#### Q4 - Who is the creator of {Art Work}?
+
+| N. Questions | % Correct Response with NER | % Correct Response without NER |
+|--------------|-----------------------------|--------------------------------|
+|      500     |             100.0%          |               55.6%            |
+
+#### Q5 - Which is the birth place of {Artist}?
+
+| N. Questions | % Correct Response with NER | % Correct Response without NER |
+|--------------|-----------------------------|--------------------------------|
+|      500     |             100.0%          |               98.0%            |
 
 
 
-Case {Art Work}
 
-```sparql
-[...]
-Filter(REGEX(str(?label), "{Art Work}","i")).
-[...]
-```
 
-Case {Artist}
 
-```sparql
-[...]
-Filter(REGEX(str(?label), "{Artist}","i")).
-[...]
-```
