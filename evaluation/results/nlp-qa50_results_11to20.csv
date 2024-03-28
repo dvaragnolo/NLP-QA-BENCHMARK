@@ -1,0 +1,298 @@
+"Question","partialDRS","Solution","Gen Query","Gen Query Response","Man Data Response","Gen.contains(Man)"
+"Who painted the Morning Haze?"," X1-paint-painted-null,X2-who-Who-null,X3-Morning Haze-Morning Haze-the, X1-subj-X2,X3-has_name-Morning Haze,X1-obj-X3,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X1, paint, painted, VERB, null, false, Make1, Make), 
+DEntity(X2, who, Who, PRON, null, false, Artist2, Artist), 
+DEntity(X3, Morning Haze, Morning Haze, PROPN, the, false, Artefact3, Artefact), 
+DEntity(X4, null, null, null, null, false, Query4, Query), 
+DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)],
+ dConditions=[
+DCondition(X1, subj, X2, propriedades= [who_made] --- []), 
+DCondition(X3, has_name, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, obj, X3, propriedades= [made_art] --- []), 
+DCondition(X1, has_text, paint, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, has_text, who, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_name, null list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, obj, X2, propriedades= [select] --- []), 
+DCondition(X4, subj, X5, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 5
+ numEntitiesOk = 1
+ numIsClass = 0
+ numPropsOk = 16
+ numEntitiesNOk = 0
+ numClassesOk = 2]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameArtist2 ?Artist2 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,""Morning Haze"",""i"")) . ?Artefact3 cidoc:P108i_was_produced_by ?Make1 . ?Artefact3 rdfs:label ?snameArtefact3 . ?Make1 cidoc:P14_carried_out_by ?Artist2 . ?Artist2 rdfs:label ?snameArtist2 . }"," [   {     ""snameArtist2"": ""Leonard Ochtman"",     ""Artist2"": ""http://data.americanart.si.edu/constituent/id/3606"",     ""snameArtefact3"": ""Morning Haze"",     ""Artefact3"": ""http://data.americanart.si.edu/object/id/1909.11.2""   } ]","[{""Artist"":""http://data.americanart.si.edu/constituent/id/3606"",""snameArtist"":""Leonard Ochtman"",""Artefact"":""http://data.americanart.si.edu/object/id/1909.11.2"",""snameArtefact"":""Morning Haze""}]","true"
+"Who donated the Morning Haze?"," X1-donate-donated-null,X2-who-Who-null,X3-Morning Haze-Morning Haze-the, X1-subj-X2,X3-has_name-Morning Haze,X1-obj-X3,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X1, donate, donated, VERB, null, false, Give1, Give), 
+DEntity(X2, who, Who, PRON, null, false, GenericEntity2, GenericEntity), 
+DEntity(X3, Morning Haze, Morning Haze, PROPN, the, false, Artefact3, Artefact), 
+DEntity(X4, null, null, null, null, false, Query4, Query), 
+DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)],
+ dConditions=[
+DCondition(X1, subj, X2, propriedades= [who_give] --- []), 
+DCondition(X3, has_name, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, obj, X3, propriedades= [give_art] --- []), 
+DCondition(X1, has_text, donate, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, has_text, who, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_name, null list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, obj, X2, propriedades= [select] --- []), 
+DCondition(X4, subj, X5, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 5
+ numEntitiesOk = 0
+ numIsClass = 0
+ numPropsOk = 16
+ numEntitiesNOk = 0
+ numClassesOk = 2]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameGenericEntity2 ?GenericEntity2 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,""Morning Haze"",""i"")) . ?Give1 cidoc:P67i_is_referred_to_by ?GenericEntity2. ?GenericEntity2 cidoc:P2_has_type <http://vocab.getty.edu/aat/300026687>  . ?GenericEntity2 rdf:value ?snameGenericEntity2 . FILTER ( ?Give1 = ?Artefact3 ) }"," [   {     ""snameGenericEntity2"": ""Gift of William T. Evans"",     ""GenericEntity2"": ""http://data.americanart.si.edu/object/id/1909.11.2/creditline"",     ""snameArtefact3"": ""Morning Haze"",     ""Artefact3"": ""http://data.americanart.si.edu/object/id/1909.11.2""   } ]","[{""GenericEntityText"":""Gift of William T. Evans"",""GenericEntity"":""http://data.americanart.si.edu/object/id/1909.11.2/creditline"",""Artefact"":""http://data.americanart.si.edu/object/id/1909.11.2"",""ArtefactName"":""Morning Haze""}]","true"
+"Who gave the Morning Haze?"," X1-give-gave-null,X2-who-Who-null,X3-Morning Haze-Morning Haze-the, X1-subj-X2,X3-has_name-Morning Haze,X1-obj-X3,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X1, give, gave, VERB, null, false, Give1, Give), 
+DEntity(X2, who, Who, PRON, null, false, GenericEntity2, GenericEntity), 
+DEntity(X3, Morning Haze, Morning Haze, PROPN, the, false, Artefact3, Artefact), 
+DEntity(X4, null, null, null, null, false, Query4, Query), 
+DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)],
+ dConditions=[
+DCondition(X1, subj, X2, propriedades= [who_give] --- []), 
+DCondition(X3, has_name, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, obj, X3, propriedades= [give_art] --- []), 
+DCondition(X1, has_text, give, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, has_text, who, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_name, null list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, obj, X2, propriedades= [select] --- []), 
+DCondition(X4, subj, X5, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 5
+ numEntitiesOk = 0
+ numIsClass = 0
+ numPropsOk = 16
+ numEntitiesNOk = 0
+ numClassesOk = 2]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameGenericEntity2 ?GenericEntity2 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,""Morning Haze"",""i"")) . ?Give1 cidoc:P67i_is_referred_to_by ?GenericEntity2. ?GenericEntity2 cidoc:P2_has_type <http://vocab.getty.edu/aat/300026687>  . ?GenericEntity2 rdf:value ?snameGenericEntity2 . FILTER ( ?Give1 = ?Artefact3 ) }"," [   {     ""snameGenericEntity2"": ""Gift of William T. Evans"",     ""GenericEntity2"": ""http://data.americanart.si.edu/object/id/1909.11.2/creditline"",     ""snameArtefact3"": ""Morning Haze"",     ""Artefact3"": ""http://data.americanart.si.edu/object/id/1909.11.2""   } ]","[{""GenericEntityText"":""Gift of William T. Evans"",""GenericEntity"":""http://data.americanart.si.edu/object/id/1909.11.2/creditline"",""Artefact"":""http://data.americanart.si.edu/object/id/1909.11.2"",""ArtefactName"":""Morning Haze""}]","true"
+"When was the production of Morning Haze completed?"," X1-complete-completed-pass,X3-Morning Haze-Morning Haze-null,X2-production-production-the,X4-when-When-when, X3-has_name-Morning Haze,X2-of-X3,X1-subj:pass-X2,X1-obl_in-X4,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X1, complete, completed, VERB, pass, false, TemporalAction1, TemporalAction), 
+DEntity(X3, Morning Haze, Morning Haze, PROPN, null, false, Artefact2, Artefact), 
+DEntity(X2, production, production, NOUN, the, false, Production3, Production), 
+DEntity(X4, when, When, ADV, when, false, GenericDate4, GenericDate), 
+DEntity(X5, null, null, null, null, false, Query5, Query), 
+DEntity(X6, null, null, null, null, false, Qualifier6, Qualifier)],
+ dConditions=[
+DCondition(X3, has_name, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, of, X3, propriedades= [production_of_Artefact] --- []), 
+DCondition(X1, subj:pass, X2, propriedades= [timeperiodProduction] --- []), 
+DCondition(X1, obl_in, X4, propriedades= [action_date] --- []), 
+DCondition(X1, has_text, complete, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, has_text, production, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, when, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X6, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X6, has_name, when list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, obj, X4, propriedades= [select] --- []), 
+DCondition(X5, subj, X6, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 6
+ numEntitiesOk = 1
+ numIsClass = 0
+ numPropsOk = 16
+ numEntitiesNOk = 0
+ numClassesOk = 2]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameGenericDate4 ?snameArtefact2 ?Artefact2 WHERE { {{?Artefact2 cidoc:P131_is_identified_by ?nameArtefact2 . ?nameArtefact2 rdf:value ?snameArtefact2 .}  UNION {?Artefact2 rdfs:label ?snameArtefact2 .}}  filter(regex(?snameArtefact2,""Morning Haze"",""i"")) . ?Artefact2 cidoc:P108i_was_produced_by ?Production3 . ?Artefact2 rdfs:label ?snameArtefact2 . ?TemporalAction1 cidoc:P4_has_time-span ?ts1 . ?ts1 rdfs:label ?snameGenericDate4 . FILTER ( ?TemporalAction1 = ?Production3 ). }"," [   {     ""snameGenericDate4"": ""1909"",     ""snameArtefact2"": ""Morning Haze"",     ""Artefact2"": ""http://data.americanart.si.edu/object/id/1909.11.2""   } ]","[{""snameDate"":""1909"",""Artefact"":""http://data.americanart.si.edu/object/id/1909.11.2"",""snameArtefact"":""Morning Haze""}]","true"
+"When was the Morning Haze completed?"," X1-complete-completed-pass,X2-Morning Haze-Morning Haze-the,X3-when-When-when, X2-has_name-Morning Haze,X1-subj:pass-X2,X1-obl_in-X3,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X1, complete, completed, VERB, pass, false, Make1, Make), 
+DEntity(X2, Morning Haze, Morning Haze, PROPN, the, false, Artefact2, Artefact), 
+DEntity(X3, when, When, ADV, when, false, GenericDate3, GenericDate), 
+DEntity(X4, null, null, null, null, false, Query4, Query), 
+DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)],
+ dConditions=[
+DCondition(X2, has_name, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, subj:pass, X2, propriedades= [made_art] --- []), 
+DCondition(X1, obl_in, X3, propriedades= [action_date] --- []), 
+DCondition(X1, has_text, complete, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, has_text, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, when, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_name, when list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, obj, X3, propriedades= [select] --- []), 
+DCondition(X4, subj, X5, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 5
+ numEntitiesOk = 2
+ numIsClass = 0
+ numPropsOk = 16
+ numEntitiesNOk = 0
+ numClassesOk = 1]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameGenericDate3 ?snameArtefact2 ?Artefact2 WHERE { {{?Artefact2 cidoc:P131_is_identified_by ?nameArtefact2 . ?nameArtefact2 rdf:value ?snameArtefact2 .}  UNION {?Artefact2 rdfs:label ?snameArtefact2 .}}  filter(regex(?snameArtefact2,""Morning Haze"",""i"")) . ?Artefact2 cidoc:P108i_was_produced_by ?Make1 . ?Artefact2 rdfs:label ?snameArtefact2 . ?Make1 cidoc:P4_has_time-span ?ts1 . ?ts1 rdfs:label ?snameGenericDate3 . }"," [   {     ""snameGenericDate3"": ""1909"",     ""snameArtefact2"": ""Morning Haze"",     ""Artefact2"": ""http://data.americanart.si.edu/object/id/1909.11.2""   } ]","[{""snameDate"":""1909"",""Artefact"":""http://data.americanart.si.edu/object/id/1909.11.2"",""snameArtefact"":""Morning Haze""}]","true"
+"When did the production of Morning Haze start?"," X2-when-When-when,X1-start-start-null,X4-Morning Haze-Morning Haze-null,X3-production-production-the, X1-obl_in-X2,X4-has_name-Morning Haze,X3-of-X4,X1-subj-X3,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X2, when, When, ADV, when, false, GenericDate1, GenericDate), 
+DEntity(X1, start, start, VERB, null, false, TemporalAction2, TemporalAction), 
+DEntity(X4, Morning Haze, Morning Haze, PROPN, null, false, Artefact3, Artefact), 
+DEntity(X3, production, production, NOUN, the, false, Production4, Production), 
+DEntity(X5, null, null, null, null, false, Query5, Query), 
+DEntity(X6, null, null, null, null, false, Qualifier6, Qualifier)],
+ dConditions=[
+DCondition(X1, obl_in, X2, propriedades= [action_date] --- []), 
+DCondition(X4, has_name, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, of, X4, propriedades= [production_of_Artefact] --- []), 
+DCondition(X1, subj, X3, propriedades= [timeperiodProduction] --- []), 
+DCondition(X2, has_text, when, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, has_text, start, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, production, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X6, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X6, has_name, when list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, obj, X2, propriedades= [select] --- []), 
+DCondition(X5, subj, X6, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 6
+ numEntitiesOk = 1
+ numIsClass = 0
+ numPropsOk = 20
+ numEntitiesNOk = 0
+ numClassesOk = 3]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameGenericDate1 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,""Morning Haze"",""i"")) . ?Artefact3 cidoc:P108i_was_produced_by ?Production4 . ?Artefact3 rdfs:label ?snameArtefact3 . ?TemporalAction2 cidoc:P4_has_time-span ?ts1 . ?ts1 cidoc:P82a_begin_of_the_begin ?snameGenericDate1 . FILTER ( ?TemporalAction2 = ?Production4 ). }"," [   {     ""snameGenericDate1"": ""1909-01-01"",     ""snameArtefact3"": ""Morning Haze"",     ""Artefact3"": ""http://data.americanart.si.edu/object/id/1909.11.2""   } ]","[{""snameDate"":""1909-01-01"",""Artefact"":""http://data.americanart.si.edu/object/id/1909.11.2"",""snameArtefact"":""Morning Haze""}]","true"
+"When did Morning Haze start?"," X2-when-When-when,X1-start-start-null,X3-Morning Haze-Morning Haze-null, X1-obl_in-X2,X3-has_name-Morning Haze,X1-subj-X3,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X2, when, When, ADV, when, false, GenericDate1, GenericDate), 
+DEntity(X1, start, start, VERB, null, false, TemporalAction2, TemporalAction), 
+DEntity(X3, Morning Haze, Morning Haze, PROPN, null, false, Artefact3, Artefact), 
+DEntity(X4, null, null, null, null, false, Query4, Query), 
+DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)],
+ dConditions=[
+DCondition(X1, obl_in, X2, propriedades= [action_date] --- []), 
+DCondition(X3, has_name, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, subj, X3, propriedades= [timeperiodArtefact] --- []), 
+DCondition(X2, has_text, when, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, has_text, start, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_name, when list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, obj, X2, propriedades= [select] --- []), 
+DCondition(X4, subj, X5, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 5
+ numEntitiesOk = 1
+ numIsClass = 0
+ numPropsOk = 16
+ numEntitiesNOk = 0
+ numClassesOk = 2]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameGenericDate1 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,""Morning Haze"",""i"")) . ?TemporalAction2 cidoc:P4_has_time-span ?ts1 . ?ts1 cidoc:P82a_begin_of_the_begin ?snameGenericDate1 . ?Artefact3 cidoc:P108i_was_produced_by ?TemporalAction2 . ?Artefact3 rdfs:label ?snameArtefact3 . }"," [   {     ""snameGenericDate1"": ""1909-01-01"",     ""snameArtefact3"": ""Morning Haze"",     ""Artefact3"": ""http://data.americanart.si.edu/object/id/1909.11.2""   } ]","[{""snameDate"":""1909-01-01"",""Artefact"":""http://data.americanart.si.edu/object/id/1909.11.2"",""snameArtefact"":""Morning Haze""}]","true"
+"Who is the author of Morning Haze?"," X1-be-is-null,X2-who-Who-null,X4-Morning Haze-Morning Haze-null,X3-author-author-the, X1-subj-X2,X4-has_name-Morning Haze,X3-of-X4,X1-obj-X3, X1-be-is-null,X2-who-Who-null,X3-author-author-the,X4-Morning Haze-Morning Haze-null, X1-subj-X2,X1-obj-X3,X4-has_name-Morning Haze,X1-obl_of-X4,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X1, be, is, VERB, null, false, Query1, Query), 
+DEntity(X2, who, Who, PRON, null, false, GenericEntity2, GenericEntity), 
+DEntity(X4, Morning Haze, Morning Haze, PROPN, null, false, Artefact3, Artefact), 
+DEntity(X3, author, author, NOUN, the, false, Artist4, Artist), 
+DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)],
+ dConditions=[
+DCondition(X1, subj, X2, propriedades= [select] --- []), 
+DCondition(X4, has_name, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, of, X4, propriedades= [author_of] --- []), 
+DCondition(X1, obj, X3, propriedades= [select] --- []), 
+DCondition(X1, has_text, be, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, has_text, who, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, author, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_name, null list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, obj, X2, propriedades= [select] --- []), 
+DCondition(X1, subj, X5, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 5
+ numEntitiesOk = 0
+ numIsClass = 0
+ numPropsOk = 1
+ numEntitiesNOk = 0
+ numClassesOk = 3]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameArtist4 ?Artist4 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,""Morning Haze"",""i"")) . ?prod cidoc:P14_carried_out_by ?Artist4 . ?Artefact3 cidoc:P108i_was_produced_by ?prod . ?Artist4 rdfs:label ?snameArtist4 . }"," [   {     ""snameArtist4"": ""Leonard Ochtman"",     ""Artist4"": ""http://data.americanart.si.edu/constituent/id/3606"",     ""snameArtefact3"": ""Morning Haze"",     ""Artefact3"": ""http://data.americanart.si.edu/object/id/1909.11.2""   } ]","[{""Artist"":""http://data.americanart.si.edu/constituent/id/3606"",""snameArtist"":""Leonard Ochtman"",""Artefact"":""http://data.americanart.si.edu/object/id/1909.11.2"",""snameArtefact"":""Morning Haze""}]","true"
+"When was the Morning Haze created?"," X1-create-created-pass,X2-Morning Haze-Morning Haze-the,X3-when-When-when, X2-has_name-Morning Haze,X1-subj:pass-X2,X1-obl_in-X3,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X1, create, created, VERB, pass, false, Make1, Make), 
+DEntity(X2, Morning Haze, Morning Haze, PROPN, the, false, Artefact2, Artefact), 
+DEntity(X3, when, When, ADV, when, false, GenericDate3, GenericDate), 
+DEntity(X4, null, null, null, null, false, Query4, Query), 
+DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)],
+ dConditions=[
+DCondition(X2, has_name, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, subj:pass, X2, propriedades= [made_art] --- []), 
+DCondition(X1, obl_in, X3, propriedades= [action_date] --- []), 
+DCondition(X1, has_text, create, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, has_text, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, when, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_name, when list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, obj, X3, propriedades= [select] --- []), 
+DCondition(X4, subj, X5, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 5
+ numEntitiesOk = 2
+ numIsClass = 0
+ numPropsOk = 16
+ numEntitiesNOk = 0
+ numClassesOk = 2]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameGenericDate3 ?snameArtefact2 ?Artefact2 WHERE { {{?Artefact2 cidoc:P131_is_identified_by ?nameArtefact2 . ?nameArtefact2 rdf:value ?snameArtefact2 .}  UNION {?Artefact2 rdfs:label ?snameArtefact2 .}}  filter(regex(?snameArtefact2,""Morning Haze"",""i"")) . ?Artefact2 cidoc:P108i_was_produced_by ?Make1 . ?Artefact2 rdfs:label ?snameArtefact2 . ?Make1 cidoc:P4_has_time-span ?ts1 . ?ts1 rdfs:label ?snameGenericDate3 . }"," [   {     ""snameGenericDate3"": ""1909"",     ""snameArtefact2"": ""Morning Haze"",     ""Artefact2"": ""http://data.americanart.si.edu/object/id/1909.11.2""   } ]","[{""snameDate"":""1909"",""Artefact"":""http://data.americanart.si.edu/object/id/1909.11.2"",""snameArtefact"":""Morning Haze""}]","true"
+"What was the birthplace of the creator of the Morning Haze?"," X3-Morning Haze-Morning Haze-the,X2-creator-creator-the,X1-birthplace-birthplace-what, X3-has_name-Morning Haze,X2-of-X3,X1-of-X2,X1-qualifier-what, X2-creator-creator-the,X3-Morning Haze-Morning Haze-the,X1-birthplace-birthplace-what, X1-of-X2,X3-has_name-Morning Haze,X1-of-X3,X1-qualifier-what,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X3, Morning Haze, Morning Haze, PROPN, the, false, Artefact1, Artefact), 
+DEntity(X2, creator, creator, NOUN, the, false, Artist2, Artist), 
+DEntity(X1, birthplace, birthplace, NOUN, what, false, BirthPlace3, BirthPlace), 
+DEntity(X4, null, null, null, null, false, Query4, Query), 
+DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)],
+ dConditions=[
+DCondition(X3, has_name, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, of, X3, propriedades= [author_of] --- []), 
+DCondition(X1, of, X2, propriedades= [birthplace_of] --- []), 
+DCondition(X3, has_text, Morning Haze, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, has_text, creator, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, has_text, birthplace, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_name, what, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, obj, X1, propriedades= [select] --- []), 
+DCondition(X4, subj, X5, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 5
+ numEntitiesOk = 0
+ numIsClass = 0
+ numPropsOk = 16
+ numEntitiesNOk = 0
+ numClassesOk = 2]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameBirthPlace3 ?BirthPlace3 ?snameArtefact1 ?Artefact1 WHERE { {{?Artefact1 cidoc:P131_is_identified_by ?nameArtefact1 . ?nameArtefact1 rdf:value ?snameArtefact1 .}  UNION {?Artefact1 rdfs:label ?snameArtefact1 .}}  filter(regex(?snameArtefact1,""Morning Haze"",""i"")) . ?Artist2 cidoc:P92i_was_brought_into_existence_by ?birth . ?birth  cidoc:P7_took_place_at ?BirthPlace3 . ?BirthPlace3 rdfs:label ?snameBirthPlace3 . ?Artist2 rdfs:label ?snameArtist2. ?prod cidoc:P14_carried_out_by ?Artist2 . ?Artefact1 cidoc:P108i_was_produced_by ?prod . ?Artist2 rdfs:label ?snameArtist2 . }"," [   {     ""snameBirthPlace3"": ""Zonnemaire, Netherlands"",     ""BirthPlace3"": ""http://data.americanart.si.edu/thesauri/place/zonnemairenetherlands"",     ""snameArtefact1"": ""Morning Haze"",     ""Artefact1"": ""http://data.americanart.si.edu/object/id/1909.11.2""   } ]","[{""BirthPlace"":""http://data.americanart.si.edu/thesauri/place/zonnemairenetherlands"",""snameBirthPlace"":""Zonnemaire, Netherlands"",""Artefact"":""http://data.americanart.si.edu/object/id/1909.11.2"",""snameArtefact"":""Morning Haze""}]","true"
