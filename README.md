@@ -161,6 +161,7 @@ N. GOUNAKIS, M. MOUNTANTONAKIS, and Y. TZITZIKAS "Evaluating a Radius-based Pipe
 ### Templates
 In the CIDOC-QA-BENCHMARK repository, can be found the SPARQL template queries that sent to <https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum>. The placeholders {Art Work} and {Artist} are replaced with entities present in the KG. From original templates, we add the following filtrer on SPARQL Query to specify the label of Art Work or Artist).
 ### Named Entity Recognition
+Before the Syntactic Analysis performed by the parser Stanza, a module of Named Entity Recognition is applied. The NER is performed by a Gazetter's technique, which implies a pattern matching of a gazetteer containing all the art works' label and artists' name. The pattern matching is made by longest match. The entity recognized is substituted by a placeholder, recognized as proper name (PROPN) by Stanza. The placeholder is replaced by the original term on the final SPARQL Query generated. In the directory and in the summary below, the results are presented with the use NER module (NER_true) and without it (NER_false).
 
 ### Results
 
@@ -169,6 +170,12 @@ In the CIDOC-QA-BENCHMARK repository, can be found the SPARQL template queries t
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               44.0%            |
+
+#### Q2 - What was the material used in the {Art Work}?
+
+| N. Questions | % Correct Response with NER | % Correct Response without NER |
+|--------------|-----------------------------|--------------------------------|
+|      500     |             100.0%          |               44.8%            |
 
 #### Q3 - Who gave the {Art Work} to the museum?
 
@@ -188,6 +195,23 @@ In the CIDOC-QA-BENCHMARK repository, can be found the SPARQL template queries t
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               98.0%            |
 
+#### Q6 - When the production of {Art Work} started??
+
+| N. Questions | % Correct Response with NER | % Correct Response without NER |
+|--------------|-----------------------------|--------------------------------|
+|      500     |             100.0%          |               49.4%            |
+
+#### Q7 - When the production of {Art Work} ended?
+
+| N. Questions | % Correct Response with NER | % Correct Response without NER |
+|--------------|-----------------------------|--------------------------------|
+|      500     |             100.0%          |               53.8%            |
+
+#### Q10 - Which year died the creator of {Art Work}?
+
+| N. Questions | % Correct Response with NER | % Correct Response without NER |
+|--------------|-----------------------------|--------------------------------|
+|      500     |             100.0%          |               56.0%            |
 
 
 
