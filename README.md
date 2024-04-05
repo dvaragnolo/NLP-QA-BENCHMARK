@@ -164,6 +164,7 @@ In the CIDOC-QA-BENCHMARK repository, can be found the SPARQL template queries t
 Before the Syntactic Analysis performed by the parser Stanza, a module of Named Entity Recognition is applied. The NER is performed by a Gazetter's technique, which implies a pattern matching of a gazetteer containing all the art works' label and artists' name. The pattern matching is made by longest match. The entity recognized is substituted by a placeholder, recognized as proper name (PROPN) by Stanza. The placeholder is replaced by the original term on the final SPARQL Query generated. In the directory and in the summary below, the results are presented with the use NER module (NER_true) and without it (NER_false).
 
 ### Results
+The results can be found on the directory CIDOC-QA-BENCHMARK. Each file is csv formatted. Files named "summary" show the results as the table previously presented in "System Result Set". Files named "results" show the results as the files from the evaluation set, without the columns "Gen Query Response" and "Man Data Response" for dimension and readability reasons (the Gen Query Response can be retrieved by perform the Gen Query).
 
 #### Q1 - Which is the art type of {Art Work}?
 
