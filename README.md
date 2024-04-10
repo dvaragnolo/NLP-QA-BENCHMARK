@@ -165,6 +165,7 @@ Before the Syntactic Analysis performed by the parser Stanza, a module of Named 
 
 ### Results
 The results can be found on the directory CIDOC-QA-BENCHMARK. Each file is csv formatted. Files named "summary" show the results as the table previously presented in "System Result Set". Files named "results" show the results as the files from the evaluation set, without the columns "Gen Query Response" and "Man Data Response".
+
 #### Q1 - Which is the art type of {Art Work}?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
@@ -217,7 +218,7 @@ The results can be found on the directory CIDOC-QA-BENCHMARK. Each file is csv f
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
-|      500     |             -----           |               -----            |
+|      500     |             100.0%          |               -----            |
 
 #### Q10 - Which year died the creator of {Art Work}?
 
