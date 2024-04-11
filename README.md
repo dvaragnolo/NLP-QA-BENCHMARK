@@ -212,7 +212,7 @@ The results can be found on the directory CIDOC-QA-BENCHMARK. Each file is csv f
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
-|      500     |             100.0%          |               -----            |
+|      500     |             100.0%          |               52.8%            |
 
 #### Q9 - Which is the birth place of the creator of {Art Work}?
 
