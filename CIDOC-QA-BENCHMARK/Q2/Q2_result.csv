@@ -1,0 +1,30 @@
+﻿Question,partialDRS,Solution,Gen Query
+What was the material used in the <Artwork>?," X2-use-used-pass,X3-<Artwork>-the,X1-material-material-what, X3-has_name-<Artwork>,X2-obl_in-X3,X1-qualifier-what,X2-obj-X1,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X2, use, used, VERB, pass, false, Make1, Make), 
+DEntity(X3, <Artwork>, <Artwork>, PROPN, the, false, Artefact2, Artefact), 
+DEntity(X1, material, material, NOUN, what, false, ConceptArtefact3, ConceptArtefact), 
+DEntity(X4, null, null, null, null, false, Query4, Query), 
+DEntity(X5, null, null, null, null, false, Qualifier5, Qualifier)],
+ dConditions=[
+DCondition(X3, has_name, <Artwork>, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, obl_in, X3, propriedades= [made_art] --- []), 
+DCondition(X2, obj, X1, propriedades= [makeConc] --- []), 
+DCondition(X2, has_text, use, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, <Artwork>, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, has_text, material, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_name, what, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, obj, X1, propriedades= [select] --- []), 
+DCondition(X4, subj, X5, propriedades= [qQualifier] --- [])]
+ solu��es = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 5
+ numEntitiesOk = 2
+ numIsClass = 0
+ numPropsOk = 16
+ numEntitiesNOk = 0
+ numClassesOk = 2]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameConceptArtefact3 ?ConceptArtefact3 ?snameArtefact2 ?Artefact2 WHERE { {{?Artefact2 cidoc:P131_is_identified_by ?nameArtefact2 . ?nameArtefact2 rdf:value ?snameArtefact2 .}  UNION {?Artefact2 rdfs:label ?snameArtefact2 .}}  filter(regex(?snameArtefact2,""<Artwork>"",""i"")) . ?Artefact2 cidoc:P108i_was_produced_by ?Make1 . ?Artefact2 rdfs:label ?snameArtefact2 . ?Artefact2 cidoc:P67i_is_referred_to_by ?ConceptArtefact3 . ?Artefact2 rdfs:label ?snameArtefact2. ?ConceptArtefact3 cidoc:P2_has_type <http://vocab.getty.edu/aat/300264237>  .  ?ConceptArtefact3 rdf:value ?snameConceptArtefact3 . }"
