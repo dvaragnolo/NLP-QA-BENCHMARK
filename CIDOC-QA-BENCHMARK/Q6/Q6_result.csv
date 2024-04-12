@@ -1,0 +1,34 @@
+﻿Question,partialDRS,Solution,Gen Query
+When the production of <Artwork> started?," X2-when-When-when,X1-start-started-null,X4-<Artwork>-<Artwork>-a,X3-production-production-the, X1-obl_in-X2,X4-<Artwork>-true,X4-has_name-<Artwork>,X3-of-X4,X1-subj-X3, X2-when-When-when,X1-start-started-null,X4-<Artwork>-<Artwork>-a,X3-production-production-the, X1-obl_in-X2,X4-has_name-<Artwork>,X4-has_name-<Artwork>,X3-of-X4,X1-subj-X3,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X2, when, When, ADV, when, false, GenericDate1, GenericDate), 
+DEntity(X1, start, started, VERB, null, false, TemporalAction2, TemporalAction), 
+DEntity(X4, <Artwork>, <Artwork>, PROPN, a, false, Artefact3, Artefact), 
+DEntity(X3, production, production, NOUN, the, false, Production4, Production), 
+DEntity(X5, null, null, null, null, false, Query5, Query), 
+DEntity(X6, null, null, null, null, false, Qualifier6, Qualifier)],
+ dConditions=[
+DCondition(X1, obl_in, X2, propriedades= [action_date] --- []), 
+DCondition(X4, <Artwork>, true, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_name, <Artwork>, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, of, X4, propriedades= [production_of_Artefact] --- []), 
+DCondition(X1, subj, X3, propriedades= [timeperiodProduction] --- []), 
+DCondition(X2, has_text, when, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, has_text, start, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, <Artwork>, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, production, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X6, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X6, has_name, when list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, obj, X2, propriedades= [select] --- []), 
+DCondition(X5, subj, X6, propriedades= [qQualifier] --- [])]
+ solutions = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 6
+ numEntitiesOk = 1
+ numIsClass = 0
+ numPropsOk = 20
+ numEntitiesNOk = 0
+ numClassesOk = 3]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameGenericDate1 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,""<Artwork>"",""i"")) . ?Artefact3 cidoc:P108i_was_produced_by ?Production4 . ?Artefact3 rdfs:label ?snameArtefact3 . ?TemporalAction2 cidoc:P4_has_time-span ?ts1 . ?ts1 cidoc:P82a_begin_of_the_begin ?snameGenericDate1 . FILTER ( ?TemporalAction2 = ?Production4 ). }"
