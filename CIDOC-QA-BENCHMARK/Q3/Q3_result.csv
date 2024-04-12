@@ -1,0 +1,34 @@
+﻿Question,partialDRS,Solution,Gen Query
+Which gave <Artwork> to the museum?," X1-give-gave-null,X2-which-Which-null,X3-<Artwork>-<Artwork>-a,X4-museum-museum-the, X1-subj-X2,X3-delightful-true,X3-has_name-<Artwork>,X1-obj-X3,X1-obl_to-X4, X1-give-gave-null,X2-which-Which-null,X3-<Artwork>-<Artwork>-a,X4-museum-museum-the, X1-subj-X2,X3-has_name-Delightful,X3-has_name-<Artwork>,X1-obj-X3,X1-obl_to-X4,","Drs [
+ tokens=[],
+ dEntities=[
+DEntity(X1, give, gave, VERB, null, false, Give1, Give), 
+DEntity(X2, which, Which, PRON, null, false, GenericEntity2, GenericEntity), 
+DEntity(X3, <Artwork>, <Artwork>, PROPN, a, false, Artefact3, Artefact), 
+DEntity(X4, museum, museum, NOUN, the, false, GenericEntity4, GenericEntity), 
+DEntity(X5, null, null, null, null, false, Query5, Query), 
+DEntity(X6, null, null, null, null, false, Qualifier6, Qualifier)],
+ dConditions=[
+DCondition(X1, subj, X2, propriedades= [who_give] --- []), 
+DCondition(X3, delightful, true, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_name, <Artwork>, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X1, obj, X3, propriedades= [give_art] --- []), 
+DCondition(X1, obl_to, X4, propriedades= [give_to] --- []), 
+DCondition(X1, has_text, give, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X2, has_text, which, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X3, has_text, <Artwork>, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X4, has_text, museum, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, has_text, Query, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X6, has_text, Qualifier, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X6, has_name, null list, propriedades= [] --- [has_name, has_text, who]), 
+DCondition(X5, obj, X2, propriedades= [select] --- []), 
+DCondition(X5, subj, X6, propriedades= [qQualifier] --- [])]
+ solutions = []
+ numeroFrase = 0
+ numHasNames = 2
+ numIndividuals = 6
+ numEntitiesOk = 0
+ numIsClass = 0
+ numPropsOk = 20
+ numEntitiesNOk = 0
+ numClassesOk = 2]"," PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameGenericEntity2 ?GenericEntity2 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,""<Artwork>"",""i"")) . ?Give1 cidoc:P67i_is_referred_to_by ?GenericEntity2. ?GenericEntity2 cidoc:P2_has_type <http://vocab.getty.edu/aat/300026687>  . ?GenericEntity2 rdf:value ?snameGenericEntity2 . FILTER ( ?Give1 = ?Artefact3 ) }"
