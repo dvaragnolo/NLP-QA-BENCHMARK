@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Which is the nationality of the creator of <Artwork>?",
+        "partialDRSs": " X1-be-is-null,X2-which-Which-null,X5-<Artwork>-<Artwork>-a,X4-creator-creator-the,X3-nationality-nationality-the, X1-subj-X2,X5-has_name-<Artwork>,X4-of-X5,X3-of-X4,X1-obj-X3, X1-be-is-null,X2-which-Which-null,X3-nationality-nationality-the,X5-<Artwork>-<Artwork>-a,X4-creator-creator-the, X1-subj-X2,X1-obj-X3,X5-has_name-<Artwork>,X4-of-X5,X1-obl_of-X4, X1-be-is-null,X2-which-Which-null,X3-nationality-nationality-the,X4-creator-creator-the,X5-<Artwork>-<Artwork>-a, X1-subj-X2,X1-obj-X3,X1-obl_of-X4,X5-has_name-<Artwork>,X1-obl_of-X5, X1-be-is-null,X2-which-Which-null,X4-creator-creator-the,X5-<Artwork>-<Artwork>-a,X3-nationality-nationality-the, X1-subj-X2,X3-of-X4,X5-has_name-<Artwork>,X3-of-X5,X1-obj-X3, X1-be-is-null,X2-which-Which-null,X4-<Artwork>-<Artwork>-a,X3-nationality-nationality-the,X5-creator-creator-the, X1-subj-X2,X4-has_name-<Artwork>,X3-of-X4,X1-obj-X3,X1-obl_of-X5, X1-be-is-null,X2-which-Which-null,X4-creator-creator-the,X3-nationality-nationality-the,X5-<Artwork>-<Artwork>-a, X1-subj-X2,X3-of-X4,X1-obj-X3,X5-has_name-<Artwork>,X1-obl_of-X5,",
+        "solution": {
+            "dEntities": [
+                "X1, be, is, VERB, null, false, Query1, Query",
+                "X2, which, Which, PRON, null, false, Qualifier2, Qualifier",
+                "X5, <Artwork>, <Artwork>, PROPN, a, false, Artefact3, Artefact",
+                "X4, creator, creator, NOUN, the, false, Artist4, Artist",
+                "X3, nationality, nationality, NOUN, the, false, ConceptArtist5, ConceptArtist"
+            ],
+            "dConditions": [
+                "X1, subj, X2, properties= [qQualifier] --- []",
+                "X5, has_name, <Artwork>, properties= [] --- [has_name, has_text, who]",
+                "X4, of, X5, properties= [author_of] --- []",
+                "X3, of, X4, properties= [conc_of_Artist] --- []",
+                "X1, obj, X3, properties= [select] --- []",
+                "X1, has_text, be, properties= [] --- [has_name, has_text, who]",
+                "X2, has_text, which, properties= [] --- [has_name, has_text, who]",
+                "X5, has_text, <Artwork>, properties= [] --- [has_name, has_text, who]",
+                "X4, has_text, creator, properties= [] --- [has_name, has_text, who]",
+                "X3, has_text, nationality, properties= [] --- [has_name, has_text, who]",
+                "X2, has_name, null list, properties= [] --- [has_name, has_text, who]",
+                "X1, obj, X2, properties= [qQualifier] --- []"
+            ],
+            "score": {
+                "numIndividuals": 5,
+                "numEntitiesOk": 10,
+                "numPropsOk": 5,
+                "numEntitiesNOk": 0,
+                "numClassesOk": 4
+            }
+        },
+        "query": " PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameConceptArtist5 ?ConceptArtist5 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,\"<Artwork>\",\"i\")) . ?prod cidoc:P14_carried_out_by ?Artist4 . ?Artefact3 cidoc:P108i_was_produced_by ?prod . ?Artist4 rdfs:label ?snameArtist4 . ?Artist4 cidoc:P107i_is_current_or_former_member_of ?ConceptArtist5. ?ConceptArtist5 rdfs:label ?snameConceptArtist5. }"
+    }
+]

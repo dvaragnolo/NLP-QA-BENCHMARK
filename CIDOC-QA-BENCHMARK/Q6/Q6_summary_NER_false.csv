@@ -1,0 +1,501 @@
+Id,Question,Gen.contains(Man),Comment
+1,When the production of A Delightful Evening started?,true,Ok
+2,When the production of A Homeless Victim of War started?,null,Incorrect partial DRS
+3,When the production of A New England Scene started?,true,Ok
+4,When the production of A Pine Tree started?,true,Ok
+5,When the production of A Quiet Canal started?,true,Ok
+6,When the production of A Shoshonee Indian Smoking started?,false,Incorrect Query Ontology Representation
+7,When the production of A Song started?,true,Ok
+8,When the production of A Southerly Wind started?,true,Ok
+9,When the production of A Study of Trees started?,null,Incorrect partial DRS
+10,When the production of A Tree Study started?,true,Ok
+11,When the production of A. Laurason started?,true,Ok
+12,When the production of Accident started?,true,Ok
+13,When the production of Aerodynamics started?,true,Ok
+14,When the production of African Head Carving started?,true,Ok
+15,When the production of Afterglow started?,true,Ok
+16,When the production of Ak Sar Ben started?,null,Incorrect Stanza Parsing
+17,"When the production of Alexandra Beller, New York started?",false,Incorrect Query Ontology Representation
+18,When the production of Americana started?,true,Ok
+19,"When the production of Amsterdam Avenue, New York started?",null,Incorrect partial DRS
+20,When the production of Andre Joseph Villard started?,true,Ok
+21,When the production of Andrew John started?,true,Ok
+22,When the production of Animal Music for the Spheres started?,null,Incorrect partial DRS
+23,When the production of Anna Washington Derry started?,true,Ok
+24,When the production of Anne Hume Shippen started?,true,Ok
+25,When the production of Arenaria formosa started?,true,Ok
+26,When the production of Armored Crab started?,true,Ok
+27,When the production of Artists on WPA started?,null,Incorrect partial DRS
+28,When the production of At Home started?,null,Incorrect Stanza Parsing
+29,When the production of At the Foot of Mount Teton started?,null,Incorrect Stanza Parsing
+30,When the production of Atheneum Clapboard started?,true,Ok
+31,"When the production of Autumn, Staten Island started?",null,Incorrect partial DRS
+32,When the production of Aymara Girl started?,true,Ok
+33,When the production of BLACKBALLED started?,true,Ok
+34,When the production of Baby in Pink with an Iron started?,null,Incorrect partial DRS
+35,When the production of Ball Play (La Crosse) started?,true,Ok
+36,"When the production of Baltit, Hunza, Pakistan started?",null,Incorrect partial DRS
+37,When the production of Ban the A-Bomb started?,null,Incorrect partial DRS
+38,When the production of Bandits Cave started?,false,Incorrect Query Ontology Representation
+39,When the production of Banjo Chair started?,true,Ok
+40,When the production of Barn at North Fork started?,null,Incorrect partial DRS
+41,When the production of Basket of Flowers started?,null,Incorrect partial DRS
+42,When the production of Battleship Texas started?,true,Ok
+43,When the production of Beach in Normandy started?,null,Incorrect partial DRS
+44,When the production of Bear and Fish started?,null,Incorrect partial DRS
+45,When the production of Bearded Kneeling Male Nude started?,null,Incorrect Stanza Parsing
+46,When the production of Belt with Jade Carving started?,null,Incorrect partial DRS
+47,When the production of Betsy Goodridge started?,true,Ok
+48,When the production of Beulah Appleton started?,true,Ok
+49,When the production of Billy Goat started?,true,Ok
+50,When the production of Bird with Red Snake started?,null,Incorrect partial DRS
+51,When the production of Black Dice started?,true,Ok
+52,When the production of Black Lotus started?,true,Ok
+53,When the production of Black and Grey Toaster started?,null,Incorrect Stanza Parsing
+54,When the production of Black and White Tipped Flower started?,null,Incorrect Stanza Parsing
+55,When the production of Blacksmith Shop Interior started?,null,Incorrect partial DRS
+56,When the production of Blue Glow started?,true,Ok
+57,When the production of Boat Builders started?,true,Ok
+58,When the production of Bottle Form started?,true,Ok
+59,"When the production of Boudoir, Chateau de Chaalis started?",null,Incorrect partial DRS
+60,"When the production of Bouillabaisse, Barcelona started?",null,Incorrect partial DRS
+61,When the production of Boxed Totem started?,true,Ok
+62,When the production of Boy Sitting on Cot started?,null,Incorrect partial DRS
+63,When the production of Boy in a Landscape started?,null,Incorrect partial DRS
+64,When the production of Boy with Stuffed Rabbit started?,null,Incorrect partial DRS
+65,When the production of Brittany Landscape started?,true,Ok
+66,When the production of Brook Trout Decoy started?,null,Incorrect Stanza Parsing
+67,When the production of Buick Housecar started?,true,Ok
+68,"When the production of Cadet Chapel, West Point started?",null,Incorrect partial DRS
+69,When the production of Cagnes started?,true,Ok
+70,When the production of Can Fire in the Park started?,null,Incorrect partial DRS
+71,"When the production of Canada, U.S.A., Mexico started?",null,Incorrect partial DRS
+72,When the production of Canary Yellow started?,true,Ok
+73,When the production of Captain John Grant started?,true,Ok
+74,When the production of Captain Noah Rich started?,true,Ok
+75,When the production of Carnegie Corporation Ashtray started?,true,Ok
+76,When the production of Carolina started?,true,Ok
+77,When the production of Cast thy Anchor in Heaven started?,null,Incorrect partial DRS
+78,When the production of Cathedral of the Redwoods started?,null,Incorrect partial DRS
+79,When the production of Celadon Catfish Dish with Lid started?,null,Incorrect Stanza Parsing
+80,When the production of Cement Mixer started?,true,Ok
+81,When the production of Central Park and the Plaza started?,null,Incorrect partial DRS
+82,When the production of Ceramic Bowl started?,true,Ok
+83,When the production of Charles White started?,true,Ok
+84,When the production of Checkers (ECW) started?,true,Ok
+85,"When the production of Chestnut Tree, West Virginia started?",null,Incorrect partial DRS
+86,When the production of Chief Don Talayesva started?,null,Incorrect partial DRS
+87,When the production of Child Reading started?,true,Ok
+88,When the production of Children's Tapes started?,null,Incorrect Stanza Parsing
+89,When the production of Christmas Greens started?,true,Ok
+90,When the production of Church on a Hill started?,null,Incorrect partial DRS
+91,When the production of Circus Performer started?,true,Ok
+92,When the production of Circus Workers started?,true,Ok
+93,When the production of City Hall started?,true,Ok
+94,When the production of Classical Landscape started?,true,Ok
+95,When the production of Cloud Study started?,true,Ok
+96,When the production of Cloudy Moon started?,true,Ok
+97,When the production of Cold Day on Cherry Street started?,null,Incorrect partial DRS
+98,When the production of Concept started?,true,Ok
+99,When the production of Confidences started?,true,Ok
+100,When the production of Cordella started?,true,Ok
+101,When the production of Corner of House--Malta started?,null,Incorrect partial DRS
+102,When the production of Cotopaxi started?,true,Ok
+103,When the production of Country Pool started?,true,Ok
+104,"When the production of Cour du Dragon, Paris started?",null,Incorrect Stanza Parsing
+105,When the production of Cronus started?,true,Ok
+106,"When the production of Cross Reference, storyboards started?",null,Incorrect partial DRS
+107,When the production of Crystal City started?,true,Ok
+108,When the production of Cubist Still Life started?,null,Incorrect Stanza Parsing
+109,When the production of Cupric Movement started?,true,Ok
+110,When the production of Dag Hammarskjold College started?,null,Incorrect Stanza Parsing
+111,When the production of Dancing Angel started?,null,Incorrect partial DRS
+112,When the production of Dawn Boy started?,true,Ok
+113,When the production of Dawnscape started?,true,Ok
+114,When the production of Dayton's Poster started?,null,Incorrect Stanza Parsing
+115,When the production of Death of Clytaemnestra started?,null,Incorrect partial DRS
+116,When the production of Decoration Medal started?,true,Ok
+117,When the production of Decorative Top started?,true,Ok
+118,When the production of Decoy Gang War Victim started?,null,Incorrect Stanza Parsing
+119,When the production of Desert Pass started?,true,Ok
+120,When the production of Devil Face Jug started?,null,Incorrect Stanza Parsing
+121,When the production of Devil's Lake started?,null,Incorrect Stanza Parsing
+122,When the production of Die Kaiserpalasre in Rom started?,null,Incorrect partial DRS
+123,When the production of Dionysius started?,true,Ok
+124,When the production of Diviners started?,true,Ok
+125,When the production of Dogwood Blossoms started?,true,Ok
+126,When the production of Domed Building with Flags started?,null,Incorrect partial DRS
+127,"When the production of Door, Arles, France started?",null,Incorrect partial DRS
+128,When the production of Dox Trash started?,true,Ok
+129,When the production of Dr. Edward R. Baldwin started?,true,Ok
+130,When the production of Drake Mallard started?,true,Ok
+131,When the production of Dulce started?,true,Ok
+132,When the production of Early Spring in Bidwell Park started?,null,Incorrect partial DRS
+133,When the production of Ebenezer Martin started?,true,Ok
+134,When the production of Eglise Saint Joseph started?,true,Ok
+135,When the production of El Fireboy y El Mingo started?,true,Ok
+136,When the production of Elihu Root started?,true,Ok
+137,When the production of Elizabeth Tuckerman Salisbury started?,true,Ok
+138,When the production of Elsie Clough Street started?,null,Incorrect partial DRS
+139,When the production of Elysian Fields started?,true,Ok
+140,When the production of Encompassed in Purple started?,null,Incorrect Stanza Parsing
+141,When the production of Erased Lynchings started?,true,Ok
+142,When the production of Expanding Universe started?,null,Incorrect partial DRS
+143,When the production of Faith started?,true,Ok
+144,When the production of Family and Friends started?,null,Incorrect partial DRS
+145,When the production of Farm Interior started?,true,Ok
+146,When the production of Fat and Stylish started?,null,Incorrect partial DRS
+147,When the production of Female Nude before Mirror started?,null,Incorrect Stanza Parsing
+148,When the production of Filly and Colt started?,null,Incorrect partial DRS
+149,When the production of Fisherman's Lunch started?,null,Incorrect Stanza Parsing
+150,When the production of Fishermen at Sea started?,null,Incorrect partial DRS
+151,When the production of Floating Back Rocker started?,true,Ok
+152,When the production of Flower Man started?,true,Ok
+153,"When the production of Foggy Morning, Brittany started?",null,Incorrect partial DRS
+154,When the production of Footprint started?,true,Ok
+155,When the production of For the Pleasure of Fashion started?,null,Incorrect Stanza Parsing
+156,When the production of Forest (In the Forest) started?,null,Incorrect partial DRS
+157,When the production of Fortitude started?,true,Ok
+158,When the production of Fountain Maquette started?,true,Ok
+159,When the production of Four Female Nudes started?,true,Ok
+160,When the production of Freda started?,true,Ok
+161,When the production of Freeway started?,true,Ok
+162,"When the production of Fremont Street, Las Vegas started?",null,Incorrect partial DRS
+163,When the production of French Money started?,true,Ok
+164,When the production of Frisky Day started?,true,Ok
+165,"When the production of From the Palatine, Rome started?",null,Incorrect Stanza Parsing
+166,When the production of From the Pompidou started?,null,Incorrect Stanza Parsing
+167,When the production of From the Sea started?,null,Incorrect Stanza Parsing
+168,When the production of Fulton Fish Market started?,true,Ok
+169,When the production of Game Fish started?,true,Ok
+170,"When the production of Gas Mask, Lower East Side started?",null,Incorrect partial DRS
+171,When the production of Gathering of black men started?,null,Incorrect partial DRS
+172,When the production of General started?,true,Ok
+173,When the production of German Lady started?,true,Ok
+174,When the production of Gesture started?,true,Ok
+175,When the production of Girl Ironing started?,true,Ok
+176,When the production of Girl with Bird started?,null,Incorrect partial DRS
+177,When the production of Going Home started?,null,Incorrect partial DRS
+178,When the production of Going to School started?,null,Incorrect partial DRS
+179,When the production of Grackle started?,true,Ok
+180,"When the production of Great Hero, a chief started?",null,Incorrect partial DRS
+181,When the production of Great White Heron started?,true,Ok
+182,When the production of Greek Beaker started?,true,Ok
+183,When the production of Greetings started?,true,Ok
+184,When the production of Group of Deer started?,null,Incorrect partial DRS
+185,When the production of Guignol started?,true,Ok
+186,When the production of Gunpowder Box started?,true,Ok
+187,When the production of Harold and His Mother started?,null,Incorrect partial DRS
+188,When the production of Hats On started?,null,Incorrect Stanza Parsing
+189,When the production of Hats Vesuvius started?,false,Incorrect Query Ontology Representation
+190,When the production of Head of Osage Indian started?,null,Incorrect partial DRS
+191,When the production of Head of the Artist started?,null,Incorrect partial DRS
+192,When the production of Hedges started?,true,Ok
+193,When the production of Heieracium gracile started?,true,Ok
+194,When the production of Hexatryst started?,true,Ok
+195,When the production of Hilly Landscape started?,true,Ok
+196,"When the production of Hitchhiker, Iowa started?",null,Incorrect partial DRS
+197,"When the production of Homes and Garden, Kerteminde started?",null,Incorrect Stanza Parsing
+198,When the production of Hookah started?,true,Ok
+199,When the production of Hopi Woman Making Pottery started?,null,Incorrect partial DRS
+200,"When the production of Horeb, Egypt started?",null,Incorrect partial DRS
+201,When the production of Hot Dog Stand started?,true,Ok
+202,When the production of Humus started?,true,Ok
+203,When the production of Hunger under a Bridge started?,null,Incorrect partial DRS
+204,When the production of Hypnotic: GOOD SWEET WOMAN started?,null,Incorrect partial DRS
+205,"When the production of ISOLATION, Mingering Mike started?",null,Incorrect partial DRS
+206,"When the production of In Winter, Kiowa started?",null,Incorrect Stanza Parsing
+207,When the production of In the Barber Shop started?,null,Incorrect Stanza Parsing
+208,When the production of In the Park started?,null,Incorrect Stanza Parsing
+209,When the production of In the Summer Sea started?,null,Incorrect Stanza Parsing
+210,When the production of Indian Boy and Pony started?,null,Incorrect partial DRS
+211,When the production of Industrial Plant started?,true,Ok
+212,When the production of Innocent Age started?,true,Ok
+213,When the production of Inside Out started?,null,Incorrect Stanza Parsing
+214,When the production of Interior with Three Pears started?,null,Incorrect partial DRS
+215,When the production of Into the Magic started?,null,Incorrect Stanza Parsing
+216,When the production of James Viscount Bryce started?,true,Ok
+217,When the production of Jardin du Luxembourg started?,true,Ok
+218,When the production of Jesus Christ Our Savior started?,null,Incorrect partial DRS
+219,When the production of Jet Age started?,true,Ok
+220,When the production of Joan Miro started?,true,Ok
+221,When the production of John Quincy Adams Ward started?,true,Ok
+222,When the production of John Swanwick started?,true,Ok
+223,When the production of Karnak started?,true,Ok
+224,When the production of Kate Deering Ridgely started?,true,Ok
+225,When the production of La Maison started?,true,Ok
+226,When the production of Lady with Blue Hair Ribbon started?,null,Incorrect partial DRS
+227,When the production of Lake Providence Grocery started?,null,Incorrect Stanza Parsing
+228,When the production of Land's End started?,null,Incorrect Stanza Parsing
+229,When the production of Landline Grey started?,true,Ok
+230,When the production of Landscape and Figures started?,null,Incorrect partial DRS
+231,When the production of Landscape with Houses started?,null,Incorrect partial DRS
+232,When the production of Largo (Sierra Nevada) started?,null,Incorrect partial DRS
+233,When the production of Laura Shelling Butter Beans started?,null,Incorrect Stanza Parsing
+234,When the production of Le Piano started?,true,Ok
+235,When the production of Leda and the Necrophilic Swan started?,null,Incorrect partial DRS
+236,When the production of Left Bank Arch started?,null,Incorrect Stanza Parsing
+237,"When the production of Left Bank Barbershop, Paris started?",null,Incorrect Stanza Parsing
+238,When the production of Legs of the Sea started?,null,Incorrect partial DRS
+239,When the production of Light Green started?,true,Ok
+240,When the production of Lilac started?,true,Ok
+241,When the production of Little Town by Moonlight started?,null,Incorrect partial DRS
+242,When the production of Long Lesson I started?,null,Incorrect partial DRS
+243,When the production of Lotus started?,true,Ok
+244,When the production of Louisa Powers' Hand started?,null,Incorrect Stanza Parsing
+245,When the production of Louise Hellstrom started?,true,Ok
+246,When the production of Love (study for) started?,null,Incorrect partial DRS
+247,When the production of Lucy Findley started?,true,Ok
+248,"When the production of Macas, Paraguay started?",null,Incorrect partial DRS
+249,When the production of Major General Lee started?,true,Ok
+250,When the production of Male Nude on a Stool started?,null,Incorrect partial DRS
+251,When the production of Malibu Landscape started?,true,Ok
+252,When the production of Man Astraddle started?,true,Ok
+253,When the production of Man Sketching started?,true,Ok
+254,"When the production of Man, Woman, Dog and Stag started?",null,Incorrect partial DRS
+255,When the production of Marcel Griaule started?,true,Ok
+256,When the production of Margaret Ethel Wall started?,true,Ok
+257,When the production of Martigues started?,true,Ok
+258,When the production of Masochist (from Aberrations) started?,null,Incorrect partial DRS
+259,When the production of Melancholia started?,true,Ok
+260,When the production of Micaceous Pot started?,true,Ok
+261,When the production of Miniature Chinese Kettle started?,false,Incorrect Query Ontology Representation
+262,When the production of Model for Hodgkins Medal started?,null,Incorrect partial DRS
+263,When the production of Models and Cat Mobile started?,null,Incorrect partial DRS
+264,When the production of Monekana started?,true,Ok
+265,"When the production of Moske i Kairouan, Afrika started?",null,Incorrect Stanza Parsing
+266,When the production of Mosquito Lamp started?,true,Ok
+267,When the production of Moss Pink (Phlox subulate) started?,null,Incorrect partial DRS
+268,When the production of Mother of Henry O. Tanner started?,null,Incorrect partial DRS
+269,When the production of Mount Chocorua started?,true,Ok
+270,When the production of Mountain Lake started?,true,Ok
+271,When the production of Mr. Laughlin started?,true,Ok
+272,When the production of Mules started?,true,Ok
+273,When the production of My Body Sees You started?,null,Incorrect Stanza Parsing
+274,When the production of Nest of Fifteen started?,null,Incorrect partial DRS
+275,When the production of Newman's House started?,null,Incorrect Stanza Parsing
+276,"When the production of Niagara in Summer, from Below started?",null,Incorrect partial DRS
+277,When the production of Ninth Ave. Church started?,null,Incorrect Stanza Parsing
+278,When the production of No Heart (Nan-che-ning-ga) started?,null,Incorrect Stanza Parsing
+279,When the production of Nubien (Baouab) started?,true,Ok
+280,When the production of Nude and Iris started?,null,Incorrect partial DRS
+281,When the production of Nude in Wood started?,null,Incorrect partial DRS
+282,When the production of Nude on a Red Sofa started?,null,Incorrect partial DRS
+283,When the production of Nude: Study of a Young Girl started?,null,Incorrect partial DRS
+284,When the production of Numerals started?,true,Ok
+285,When the production of Nuptial Festival started?,true,Ok
+286,When the production of O'Hara Reading started?,true,Ok
+287,When the production of Off Shore started?,null,Incorrect Stanza Parsing
+288,"When the production of Off York Island, Maine started?",null,Incorrect Stanza Parsing
+289,When the production of Ointment Jar started?,true,Ok
+290,"When the production of Old Fort, New Fortresses started?",null,Incorrect partial DRS
+291,When the production of Old Woman Seated started?,null,Incorrect Stanza Parsing
+292,When the production of One-punch Knockout started?,null,Incorrect Stanza Parsing
+293,When the production of One-star started?,null,Incorrect Stanza Parsing
+294,When the production of Open Action started?,true,Ok
+295,When the production of Open Construction-A started?,null,Incorrect Stanza Parsing
+296,"When the production of Orange Grove Avenue, Pasadena started?",null,Incorrect Stanza Parsing
+297,When the production of Origin in Colors started?,null,Incorrect partial DRS
+298,When the production of Orion in December started?,null,Incorrect partial DRS
+299,When the production of Ostend started?,true,Ok
+300,When the production of Our Roses started?,null,Incorrect partial DRS
+301,When the production of Papago Indians started?,true,Ok
+302,When the production of Paper Bag Making Machine started?,false,Incorrect Query Ontology Representation
+303,When the production of Parlor Cabinet started?,true,Ok
+304,When the production of Passion Flower started?,true,Ok
+305,When the production of Paul N. Radulich started?,true,Ok
+306,When the production of Paul's Housevan started?,null,Incorrect Stanza Parsing
+307,When the production of Peggy started?,true,Ok
+308,"When the production of Pete Exline, Spokane started?",null,Incorrect partial DRS
+309,When the production of Peter (A Young English Girl) started?,null,Incorrect partial DRS
+310,"When the production of Pig Market, Mexico started?",null,Incorrect partial DRS
+311,When the production of Pink Begonias started?,true,Ok
+312,When the production of Pink Folded Paper started?,null,Incorrect Stanza Parsing
+313,"When the production of Pipe Dance, Assiniboine started?",null,Incorrect partial DRS
+314,When the production of Pisa from North started?,null,Incorrect partial DRS
+315,When the production of Plainsman's Dream started?,null,Incorrect Stanza Parsing
+316,When the production of Planks Pool started?,false,Incorrect Query Ontology Representation
+317,When the production of Pleasure and Power started?,null,Incorrect partial DRS
+318,When the production of Pont des Arts started?,null,Incorrect Stanza Parsing
+319,"When the production of Ponte Megio, Venice started?",null,Incorrect partial DRS
+320,When the production of Ponte started?,true,Ok
+321,When the production of Pop's Tavern started?,null,Incorrect Stanza Parsing
+322,When the production of Portal Gates started?,null,Incorrect partial DRS
+323,When the production of Portrait of Elizabeth Taylor started?,null,Incorrect partial DRS
+324,When the production of Portrait of Isabel Bishop started?,null,Incorrect partial DRS
+325,When the production of Portrait of Nathaniel Searle started?,null,Incorrect partial DRS
+326,When the production of Portrait of Waldo Pierce started?,null,Incorrect partial DRS
+327,When the production of Portrait of a Child started?,null,Incorrect partial DRS
+328,When the production of Post Setter started?,true,Ok
+329,When the production of Prince Abu Zabi y Su Jardin started?,true,Ok
+330,When the production of Prisoner's Plea started?,null,Incorrect Stanza Parsing
+331,When the production of Profile and Hat started?,null,Incorrect partial DRS
+332,When the production of Public Building started?,true,Ok
+333,When the production of Queen Elizabeth started?,true,Ok
+334,"When the production of Rabbi Newman, San Francisco started?",null,Incorrect partial DRS
+335,When the production of Radio Broadcast started?,true,Ok
+336,"When the production of Ragpicker's Shop, Florence started?",null,Incorrect Stanza Parsing
+337,When the production of Railroad Sleeping started?,true,Ok
+338,When the production of Rain in the Mountains started?,null,Incorrect partial DRS
+339,When the production of Rajasthan started?,true,Ok
+340,When the production of Red Cylinder started?,true,Ok
+341,"When the production of Rehearsal, Yiddish Theatre started?",null,Incorrect partial DRS
+342,When the production of Rejects from the Bat Factory started?,null,Incorrect partial DRS
+343,"When the production of Remains of Lock, Millville started?",null,Incorrect partial DRS
+344,When the production of Renwick Gate started?,true,Ok
+345,When the production of Return of the Fleet started?,null,Incorrect partial DRS
+346,"When the production of Riverside Church, New York started?",null,Incorrect partial DRS
+347,When the production of Road through the Labyrinth started?,null,Incorrect partial DRS
+348,When the production of Roadmaking started?,true,Ok
+349,When the production of Rock Garden I started?,null,Incorrect partial DRS
+350,When the production of Rocking Pot started?,true,Ok
+351,When the production of Rocky Mesa started?,true,Ok
+352,When the production of Rodeo started?,true,Ok
+353,When the production of Romance Sentimentale started?,true,Ok
+354,When the production of Rosebud started?,true,Ok
+355,"When the production of Rosenwald Museum, Chicago started?",null,Incorrect partial DRS
+356,When the production of Round the Mulberry Bush started?,null,Incorrect Stanza Parsing
+357,When the production of Royal Oak started?,true,Ok
+358,When the production of Russian Hill started?,true,Ok
+359,When the production of Sacred Heart of Healing started?,null,Incorrect partial DRS
+360,When the production of Sacrifice of Isaac started?,null,Incorrect partial DRS
+361,"When the production of Safad, in Galilee started?",null,Incorrect partial DRS
+362,When the production of Salton Sea (Triangle) started?,true,Ok
+363,When the production of Samurai started?,true,Ok
+364,"When the production of Santa Elena Canyon, Big Bend started?",null,Incorrect Stanza Parsing
+365,When the production of Santa Maria della Salute started?,null,Incorrect Stanza Parsing
+366,When the production of Sawyers started?,true,Ok
+367,When the production of Scapa Evening started?,true,Ok
+368,When the production of Scarecrow started?,true,Ok
+369,When the production of Sculpture of a Bather started?,null,Incorrect partial DRS
+370,When the production of Seated Animal Figure started?,true,Ok
+371,"When the production of Seated Woman, Profile started?",null,Incorrect partial DRS
+372,When the production of Selena started?,true,Ok
+373,When the production of Self-Portrait with Hat started?,null,Incorrect Stanza Parsing
+374,When the production of Sentinels started?,true,Ok
+375,When the production of Setting a Beaver Trap started?,null,Incorrect partial DRS
+376,When the production of Shaving My Head started?,null,Incorrect partial DRS
+377,"When the production of Sheepyard, Moonlight started?",null,Incorrect partial DRS
+378,When the production of Shifting States: Iraq started?,null,Incorrect partial DRS
+379,When the production of Side Door started?,true,Ok
+380,When the production of Sir Guy Carelton started?,true,Ok
+381,When the production of Sister Ella started?,true,Ok
+382,When the production of Sitting Nude started?,null,Incorrect partial DRS
+383,When the production of Sixth Stone I started?,null,Incorrect partial DRS
+384,When the production of Sketch of Reclining Cats started?,null,Incorrect partial DRS
+385,When the production of Sketch of Tasha Tudor started?,null,Incorrect partial DRS
+386,When the production of Sky Totem started?,true,Ok
+387,When the production of Slate Quarry started?,true,Ok
+388,When the production of Small Girl started?,true,Ok
+389,"When the production of Small Town, Main Street started?",null,Incorrect partial DRS
+390,When the production of Smithsonian Castle started?,true,Ok
+391,When the production of Smoke Rings started?,true,Ok
+392,When the production of Snow Clearance started?,true,Ok
+393,When the production of Snowballs started?,true,Ok
+394,When the production of Sophia started?,true,Ok
+395,When the production of Southern Farmland started?,true,Ok
+396,"When the production of Sphinx, Thames, London started?",null,Incorrect partial DRS
+397,When the production of Spirit of Christmas started?,null,Incorrect partial DRS
+398,When the production of St. Germain des Pres started?,null,Incorrect Stanza Parsing
+399,When the production of Stable at Cuenca started?,null,Incorrect partial DRS
+400,When the production of Standing Artist started?,true,Ok
+401,When the production of Standing Orpheus with Pegasus started?,null,Incorrect partial DRS
+402,When the production of Standing and Reclining Nymphs started?,null,Incorrect Stanza Parsing
+403,When the production of Still Life with Fan and Roses started?,null,Incorrect partial DRS
+404,When the production of Still Life with Flowers started?,null,Incorrect partial DRS
+405,When the production of Stories from the Bible started?,null,Incorrect partial DRS
+406,When the production of Studio Bed started?,true,Ok
+407,When the production of Study for Conflict started?,null,Incorrect partial DRS
+408,When the production of Study for Gargoyle in Flames started?,null,Incorrect partial DRS
+409,When the production of Study for Relief started?,null,Incorrect partial DRS
+410,When the production of Study in Auburn started?,null,Incorrect partial DRS
+411,When the production of Sun Ra started?,true,Ok
+412,When the production of Sun and Desolation started?,null,Incorrect partial DRS
+413,When the production of Sunday Dieterman started?,null,Incorrect partial DRS
+414,When the production of Teawood Stand started?,true,Ok
+415,When the production of Tenement Fire started?,true,Ok
+416,When the production of Tepidarium started?,true,Ok
+417,When the production of Terminal Figure of Ceres started?,null,Incorrect partial DRS
+418,When the production of Texas State Championship Game started?,null,Incorrect Stanza Parsing
+419,When the production of The Abandoned House started?,true,Ok
+420,When the production of The Brothers started?,true,Ok
+421,When the production of The Caress started?,true,Ok
+422,When the production of The Cathedral Door started?,true,Ok
+423,"When the production of The Church of Daphni, Greece started?",null,Incorrect partial DRS
+424,When the production of The Court Room Scene started?,null,Incorrect Stanza Parsing
+425,When the production of The Craftsman Series: Shovels started?,null,Incorrect Stanza Parsing
+426,When the production of The Edge of the Forest started?,null,Incorrect partial DRS
+427,When the production of The End of the Continent started?,null,Incorrect partial DRS
+428,When the production of The Erlking started?,true,Ok
+429,When the production of The Forces of Evil started?,null,Incorrect partial DRS
+430,When the production of The Gilded Age started?,true,Ok
+431,When the production of The Good Luck Branch started?,true,Ok
+432,When the production of The Hitchhiker started?,true,Ok
+433,When the production of The Indian Ghost Dancer started?,true,Ok
+434,When the production of The Isabelle started?,true,Ok
+435,When the production of The Joseph Henry Medal started?,true,Ok
+436,When the production of The Long Rows started?,true,Ok
+437,When the production of The Lorelei started?,true,Ok
+438,When the production of The Pack started?,true,Ok
+439,When the production of The Puppy-cat and the Baby started?,null,Incorrect Stanza Parsing
+440,When the production of The Runaways started?,true,Ok
+441,When the production of The Sculptor started?,true,Ok
+442,When the production of The Station started?,true,Ok
+443,"When the production of The Strange One, Times Square started?",null,Incorrect Stanza Parsing
+444,When the production of The Sun in Sung Time started?,null,Incorrect partial DRS
+445,When the production of The Unbelievable City started?,true,Ok
+446,When the production of The Valley started?,true,Ok
+447,When the production of The Waiting Room started?,true,Ok
+448,When the production of The Wye near Ross started?,null,Incorrect partial DRS
+449,When the production of There is no Buddha Out There started?,null,Incorrect Stanza Parsing
+450,When the production of This is the Enemy started?,null,Incorrect partial DRS
+451,When the production of Three for the Price of a Dog started?,null,Incorrect partial DRS
+452,When the production of Time Totem started?,true,Ok
+453,When the production of Tobacco Cutting Machine started?,null,Incorrect Stanza Parsing
+454,"When the production of Tower at Enkhuisen, Holland started?",null,Incorrect Stanza Parsing
+455,When the production of Town Wharf started?,true,Ok
+456,When the production of Trees Against the Night Sky started?,null,Incorrect partial DRS
+457,When the production of Tremont House (Chicago) started?,true,Ok
+458,When the production of Trieste started?,true,Ok
+459,When the production of Turkey started?,true,Ok
+460,When the production of Twilight after the Rain started?,null,Incorrect Stanza Parsing
+461,When the production of Two Cedars started?,true,Ok
+462,When the production of Two Magnolias started?,true,Ok
+463,When the production of Undaunted (Torso) started?,true,Ok
+464,"When the production of Upper Level, Aquarium started?",null,Incorrect partial DRS
+465,"When the production of Utah, Utah Lake started?",null,Incorrect partial DRS
+466,"When the production of Vaatedal, Jolster, Norway started?",null,Incorrect partial DRS
+467,When the production of Vagabonds started?,true,Ok
+468,When the production of Vermont Landscape started?,true,Ok
+469,When the production of Vertical Roll started?,true,Ok
+470,When the production of Veterans started?,true,Ok
+471,When the production of Victime started?,true,Ok
+472,When the production of Victorian Ruins started?,true,Ok
+473,When the production of Victory Wreath started?,true,Ok
+474,When the production of View of Artist's Home started?,null,Incorrect Stanza Parsing
+475,When the production of Viola palustris started?,true,Ok
+476,When the production of Wall of Light Blue started?,null,Incorrect partial DRS
+477,When the production of Washing Machine started?,true,Ok
+478,When the production of Wealth started?,true,Ok
+479,When the production of Wedding Cake Basket started?,null,Incorrect Stanza Parsing
+480,When the production of Weighing In started?,null,Incorrect Stanza Parsing
+481,When the production of West Neck Beach (Two Figures) started?,null,Incorrect Stanza Parsing
+482,"When the production of Wharf Scene, Gloucester started?",null,Incorrect partial DRS
+483,When the production of Wheat Bottle started?,true,Ok
+484,When the production of White Tanks started?,true,Ok
+485,"When the production of Windmill, Zwyndrecht started?",null,Incorrect partial DRS
+486,When the production of Winter Skating in New Jersey started?,null,Incorrect partial DRS
+487,When the production of Winter in Jackson Park started?,null,Incorrect partial DRS
+488,When the production of Winterberries started?,false,Incorrect Query Ontology Representation
+489,When the production of Within the Window started?,null,Incorrect Stanza Parsing
+490,When the production of Woman Phone Booth started?,null,Incorrect Stanza Parsing
+491,When the production of Woman in Striped Dress started?,null,Incorrect partial DRS
+492,When the production of Woman on a Porch started?,null,Incorrect partial DRS
+493,When the production of Women Bathing started?,false,Incorrect Query Ontology Representation
+494,When the production of Women Gathering Yucca Plants started?,null,Incorrect partial DRS
+495,When the production of Workers-Slotters Machine started?,false,Incorrect Query Ontology Representation
+496,When the production of Wyatt Eaton started?,true,Ok
+497,When the production of Wyoming started?,true,Ok
+498,When the production of Yellow Moon started?,true,Ok
+499,When the production of Zoot Suit started?,true,Ok
+500,When the production of Zurich started?,true,Ok

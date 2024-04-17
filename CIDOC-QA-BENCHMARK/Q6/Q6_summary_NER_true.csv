@@ -1,0 +1,501 @@
+Id,Question,Gen.contains(Man),Comment
+1,When the production of A Delightful Evening started?,true,Ok
+2,When the production of A Homeless Victim of War started?,true,Ok
+3,When the production of A New England Scene started?,true,Ok
+4,When the production of A Pine Tree started?,true,Ok
+5,When the production of A Quiet Canal started?,true,Ok
+6,When the production of A Shoshonee Indian Smoking started?,true,Ok
+7,When the production of A Song started?,true,Ok
+8,When the production of A Southerly Wind started?,true,Ok
+9,When the production of A Study of Trees started?,true,Ok
+10,When the production of A Tree Study started?,true,Ok
+11,When the production of A. Laurason started?,true,Ok
+12,When the production of Accident started?,true,Ok
+13,When the production of Aerodynamics started?,true,Ok
+14,When the production of African Head Carving started?,true,Ok
+15,When the production of Afterglow started?,true,Ok
+16,When the production of Ak Sar Ben started?,true,Ok
+17,"When the production of Alexandra Beller, New York started?",true,Ok
+18,When the production of Americana started?,true,Ok
+19,"When the production of Amsterdam Avenue, New York started?",true,Ok
+20,When the production of Andre Joseph Villard started?,true,Ok
+21,When the production of Andrew John started?,true,Ok
+22,When the production of Animal Music for the Spheres started?,true,Ok
+23,When the production of Anna Washington Derry started?,true,Ok
+24,When the production of Anne Hume Shippen started?,true,Ok
+25,When the production of Arenaria formosa started?,true,Ok
+26,When the production of Armored Crab started?,true,Ok
+27,When the production of Artists on WPA started?,true,Ok
+28,When the production of At Home started?,true,Ok
+29,When the production of At the Foot of Mount Teton started?,true,Ok
+30,When the production of Atheneum Clapboard started?,true,Ok
+31,"When the production of Autumn, Staten Island started?",true,Ok
+32,When the production of Aymara Girl started?,true,Ok
+33,When the production of BLACKBALLED started?,true,Ok
+34,When the production of Baby in Pink with an Iron started?,true,Ok
+35,When the production of Ball Play (La Crosse) started?,true,Ok
+36,"When the production of Baltit, Hunza, Pakistan started?",true,Ok
+37,When the production of Ban the A-Bomb started?,true,Ok
+38,When the production of Bandits Cave started?,true,Ok
+39,When the production of Banjo Chair started?,true,Ok
+40,When the production of Barn at North Fork started?,true,Ok
+41,When the production of Basket of Flowers started?,true,Ok
+42,When the production of Battleship Texas started?,true,Ok
+43,When the production of Beach in Normandy started?,true,Ok
+44,When the production of Bear and Fish started?,true,Ok
+45,When the production of Bearded Kneeling Male Nude started?,true,Ok
+46,When the production of Belt with Jade Carving started?,true,Ok
+47,When the production of Betsy Goodridge started?,true,Ok
+48,When the production of Beulah Appleton started?,true,Ok
+49,When the production of Billy Goat started?,true,Ok
+50,When the production of Bird with Red Snake started?,true,Ok
+51,When the production of Black Dice started?,true,Ok
+52,When the production of Black Lotus started?,true,Ok
+53,When the production of Black and Grey Toaster started?,true,Ok
+54,When the production of Black and White Tipped Flower started?,true,Ok
+55,When the production of Blacksmith Shop Interior started?,true,Ok
+56,When the production of Blue Glow started?,true,Ok
+57,When the production of Boat Builders started?,true,Ok
+58,When the production of Bottle Form started?,true,Ok
+59,"When the production of Boudoir, Chateau de Chaalis started?",true,Ok
+60,"When the production of Bouillabaisse, Barcelona started?",true,Ok
+61,When the production of Boxed Totem started?,true,Ok
+62,When the production of Boy Sitting on Cot started?,true,Ok
+63,When the production of Boy in a Landscape started?,true,Ok
+64,When the production of Boy with Stuffed Rabbit started?,true,Ok
+65,When the production of Brittany Landscape started?,true,Ok
+66,When the production of Brook Trout Decoy started?,true,Ok
+67,When the production of Buick Housecar started?,true,Ok
+68,"When the production of Cadet Chapel, West Point started?",true,Ok
+69,When the production of Cagnes started?,true,Ok
+70,When the production of Can Fire in the Park started?,true,Ok
+71,"When the production of Canada, U.S.A., Mexico started?",true,Ok
+72,When the production of Canary Yellow started?,true,Ok
+73,When the production of Captain John Grant started?,true,Ok
+74,When the production of Captain Noah Rich started?,true,Ok
+75,When the production of Carnegie Corporation Ashtray started?,true,Ok
+76,When the production of Carolina started?,true,Ok
+77,When the production of Cast thy Anchor in Heaven started?,true,Ok
+78,When the production of Cathedral of the Redwoods started?,true,Ok
+79,When the production of Celadon Catfish Dish with Lid started?,true,Ok
+80,When the production of Cement Mixer started?,true,Ok
+81,When the production of Central Park and the Plaza started?,true,Ok
+82,When the production of Ceramic Bowl started?,true,Ok
+83,When the production of Charles White started?,true,Ok
+84,When the production of Checkers (ECW) started?,true,Ok
+85,"When the production of Chestnut Tree, West Virginia started?",true,Ok
+86,When the production of Chief Don Talayesva started?,true,Ok
+87,When the production of Child Reading started?,true,Ok
+88,When the production of Children's Tapes started?,true,Ok
+89,When the production of Christmas Greens started?,true,Ok
+90,When the production of Church on a Hill started?,true,Ok
+91,When the production of Circus Performer started?,true,Ok
+92,When the production of Circus Workers started?,true,Ok
+93,When the production of City Hall started?,true,Ok
+94,When the production of Classical Landscape started?,true,Ok
+95,When the production of Cloud Study started?,true,Ok
+96,When the production of Cloudy Moon started?,true,Ok
+97,When the production of Cold Day on Cherry Street started?,true,Ok
+98,When the production of Concept started?,true,Ok
+99,When the production of Confidences started?,true,Ok
+100,When the production of Cordella started?,true,Ok
+101,When the production of Corner of House--Malta started?,true,Ok
+102,When the production of Cotopaxi started?,true,Ok
+103,When the production of Country Pool started?,true,Ok
+104,"When the production of Cour du Dragon, Paris started?",true,Ok
+105,When the production of Cronus started?,true,Ok
+106,"When the production of Cross Reference, storyboards started?",true,Ok
+107,When the production of Crystal City started?,true,Ok
+108,When the production of Cubist Still Life started?,true,Ok
+109,When the production of Cupric Movement started?,true,Ok
+110,When the production of Dag Hammarskjold College started?,true,Ok
+111,When the production of Dancing Angel started?,true,Ok
+112,When the production of Dawn Boy started?,true,Ok
+113,When the production of Dawnscape started?,true,Ok
+114,When the production of Dayton's Poster started?,true,Ok
+115,When the production of Death of Clytaemnestra started?,true,Ok
+116,When the production of Decoration Medal started?,true,Ok
+117,When the production of Decorative Top started?,true,Ok
+118,When the production of Decoy Gang War Victim started?,true,Ok
+119,When the production of Desert Pass started?,true,Ok
+120,When the production of Devil Face Jug started?,true,Ok
+121,When the production of Devil's Lake started?,true,Ok
+122,When the production of Die Kaiserpalasre in Rom started?,true,Ok
+123,When the production of Dionysius started?,true,Ok
+124,When the production of Diviners started?,true,Ok
+125,When the production of Dogwood Blossoms started?,true,Ok
+126,When the production of Domed Building with Flags started?,true,Ok
+127,"When the production of Door, Arles, France started?",true,Ok
+128,When the production of Dox Trash started?,true,Ok
+129,When the production of Dr. Edward R. Baldwin started?,true,Ok
+130,When the production of Drake Mallard started?,true,Ok
+131,When the production of Dulce started?,true,Ok
+132,When the production of Early Spring in Bidwell Park started?,true,Ok
+133,When the production of Ebenezer Martin started?,true,Ok
+134,When the production of Eglise Saint Joseph started?,true,Ok
+135,When the production of El Fireboy y El Mingo started?,true,Ok
+136,When the production of Elihu Root started?,true,Ok
+137,When the production of Elizabeth Tuckerman Salisbury started?,true,Ok
+138,When the production of Elsie Clough Street started?,true,Ok
+139,When the production of Elysian Fields started?,true,Ok
+140,When the production of Encompassed in Purple started?,true,Ok
+141,When the production of Erased Lynchings started?,true,Ok
+142,When the production of Expanding Universe started?,true,Ok
+143,When the production of Faith started?,true,Ok
+144,When the production of Family and Friends started?,true,Ok
+145,When the production of Farm Interior started?,true,Ok
+146,When the production of Fat and Stylish started?,true,Ok
+147,When the production of Female Nude before Mirror started?,true,Ok
+148,When the production of Filly and Colt started?,true,Ok
+149,When the production of Fisherman's Lunch started?,true,Ok
+150,When the production of Fishermen at Sea started?,true,Ok
+151,When the production of Floating Back Rocker started?,true,Ok
+152,When the production of Flower Man started?,true,Ok
+153,"When the production of Foggy Morning, Brittany started?",true,Ok
+154,When the production of Footprint started?,true,Ok
+155,When the production of For the Pleasure of Fashion started?,true,Ok
+156,When the production of Forest (In the Forest) started?,true,Ok
+157,When the production of Fortitude started?,true,Ok
+158,When the production of Fountain Maquette started?,true,Ok
+159,When the production of Four Female Nudes started?,true,Ok
+160,When the production of Freda started?,true,Ok
+161,When the production of Freeway started?,true,Ok
+162,"When the production of Fremont Street, Las Vegas started?",true,Ok
+163,When the production of French Money started?,true,Ok
+164,When the production of Frisky Day started?,true,Ok
+165,"When the production of From the Palatine, Rome started?",true,Ok
+166,When the production of From the Pompidou started?,true,Ok
+167,When the production of From the Sea started?,true,Ok
+168,When the production of Fulton Fish Market started?,true,Ok
+169,When the production of Game Fish started?,true,Ok
+170,"When the production of Gas Mask, Lower East Side started?",true,Ok
+171,When the production of Gathering of black men started?,true,Ok
+172,When the production of General started?,true,Ok
+173,When the production of German Lady started?,true,Ok
+174,When the production of Gesture started?,true,Ok
+175,When the production of Girl Ironing started?,true,Ok
+176,When the production of Girl with Bird started?,true,Ok
+177,When the production of Going Home started?,true,Ok
+178,When the production of Going to School started?,true,Ok
+179,When the production of Grackle started?,true,Ok
+180,"When the production of Great Hero, a chief started?",true,Ok
+181,When the production of Great White Heron started?,true,Ok
+182,When the production of Greek Beaker started?,true,Ok
+183,When the production of Greetings started?,true,Ok
+184,When the production of Group of Deer started?,true,Ok
+185,When the production of Guignol started?,true,Ok
+186,When the production of Gunpowder Box started?,true,Ok
+187,When the production of Harold and His Mother started?,true,Ok
+188,When the production of Hats On started?,true,Ok
+189,When the production of Hats Vesuvius started?,true,Ok
+190,When the production of Head of Osage Indian started?,true,Ok
+191,When the production of Head of the Artist started?,true,Ok
+192,When the production of Hedges started?,true,Ok
+193,When the production of Heieracium gracile started?,true,Ok
+194,When the production of Hexatryst started?,true,Ok
+195,When the production of Hilly Landscape started?,true,Ok
+196,"When the production of Hitchhiker, Iowa started?",true,Ok
+197,"When the production of Homes and Garden, Kerteminde started?",true,Ok
+198,When the production of Hookah started?,true,Ok
+199,When the production of Hopi Woman Making Pottery started?,true,Ok
+200,"When the production of Horeb, Egypt started?",true,Ok
+201,When the production of Hot Dog Stand started?,true,Ok
+202,When the production of Humus started?,true,Ok
+203,When the production of Hunger under a Bridge started?,true,Ok
+204,When the production of Hypnotic: GOOD SWEET WOMAN started?,true,Ok
+205,"When the production of ISOLATION, Mingering Mike started?",true,Ok
+206,"When the production of In Winter, Kiowa started?",true,Ok
+207,When the production of In the Barber Shop started?,true,Ok
+208,When the production of In the Park started?,true,Ok
+209,When the production of In the Summer Sea started?,true,Ok
+210,When the production of Indian Boy and Pony started?,true,Ok
+211,When the production of Industrial Plant started?,true,Ok
+212,When the production of Innocent Age started?,true,Ok
+213,When the production of Inside Out started?,true,Ok
+214,When the production of Interior with Three Pears started?,true,Ok
+215,When the production of Into the Magic started?,true,Ok
+216,When the production of James Viscount Bryce started?,true,Ok
+217,When the production of Jardin du Luxembourg started?,true,Ok
+218,When the production of Jesus Christ Our Savior started?,true,Ok
+219,When the production of Jet Age started?,true,Ok
+220,When the production of Joan Miro started?,true,Ok
+221,When the production of John Quincy Adams Ward started?,true,Ok
+222,When the production of John Swanwick started?,true,Ok
+223,When the production of Karnak started?,true,Ok
+224,When the production of Kate Deering Ridgely started?,true,Ok
+225,When the production of La Maison started?,true,Ok
+226,When the production of Lady with Blue Hair Ribbon started?,true,Ok
+227,When the production of Lake Providence Grocery started?,true,Ok
+228,When the production of Land's End started?,true,Ok
+229,When the production of Landline Grey started?,true,Ok
+230,When the production of Landscape and Figures started?,true,Ok
+231,When the production of Landscape with Houses started?,true,Ok
+232,When the production of Largo (Sierra Nevada) started?,true,Ok
+233,When the production of Laura Shelling Butter Beans started?,true,Ok
+234,When the production of Le Piano started?,true,Ok
+235,When the production of Leda and the Necrophilic Swan started?,true,Ok
+236,When the production of Left Bank Arch started?,true,Ok
+237,"When the production of Left Bank Barbershop, Paris started?",true,Ok
+238,When the production of Legs of the Sea started?,true,Ok
+239,When the production of Light Green started?,true,Ok
+240,When the production of Lilac started?,true,Ok
+241,When the production of Little Town by Moonlight started?,true,Ok
+242,When the production of Long Lesson I started?,true,Ok
+243,When the production of Lotus started?,true,Ok
+244,When the production of Louisa Powers' Hand started?,true,Ok
+245,When the production of Louise Hellstrom started?,true,Ok
+246,When the production of Love (study for) started?,true,Ok
+247,When the production of Lucy Findley started?,true,Ok
+248,"When the production of Macas, Paraguay started?",true,Ok
+249,When the production of Major General Lee started?,true,Ok
+250,When the production of Male Nude on a Stool started?,true,Ok
+251,When the production of Malibu Landscape started?,true,Ok
+252,When the production of Man Astraddle started?,true,Ok
+253,When the production of Man Sketching started?,true,Ok
+254,"When the production of Man, Woman, Dog and Stag started?",true,Ok
+255,When the production of Marcel Griaule started?,true,Ok
+256,When the production of Margaret Ethel Wall started?,true,Ok
+257,When the production of Martigues started?,true,Ok
+258,When the production of Masochist (from Aberrations) started?,true,Ok
+259,When the production of Melancholia started?,true,Ok
+260,When the production of Micaceous Pot started?,true,Ok
+261,When the production of Miniature Chinese Kettle started?,true,Ok
+262,When the production of Model for Hodgkins Medal started?,true,Ok
+263,When the production of Models and Cat Mobile started?,true,Ok
+264,When the production of Monekana started?,true,Ok
+265,"When the production of Moske i Kairouan, Afrika started?",true,Ok
+266,When the production of Mosquito Lamp started?,true,Ok
+267,When the production of Moss Pink (Phlox subulate) started?,true,Ok
+268,When the production of Mother of Henry O. Tanner started?,true,Ok
+269,When the production of Mount Chocorua started?,true,Ok
+270,When the production of Mountain Lake started?,true,Ok
+271,When the production of Mr. Laughlin started?,true,Ok
+272,When the production of Mules started?,true,Ok
+273,When the production of My Body Sees You started?,true,Ok
+274,When the production of Nest of Fifteen started?,true,Ok
+275,When the production of Newman's House started?,true,Ok
+276,"When the production of Niagara in Summer, from Below started?",true,Ok
+277,When the production of Ninth Ave. Church started?,true,Ok
+278,When the production of No Heart (Nan-che-ning-ga) started?,true,Ok
+279,When the production of Nubien (Baouab) started?,true,Ok
+280,When the production of Nude and Iris started?,true,Ok
+281,When the production of Nude in Wood started?,true,Ok
+282,When the production of Nude on a Red Sofa started?,true,Ok
+283,When the production of Nude: Study of a Young Girl started?,true,Ok
+284,When the production of Numerals started?,true,Ok
+285,When the production of Nuptial Festival started?,true,Ok
+286,When the production of O'Hara Reading started?,true,Ok
+287,When the production of Off Shore started?,true,Ok
+288,"When the production of Off York Island, Maine started?",true,Ok
+289,When the production of Ointment Jar started?,true,Ok
+290,"When the production of Old Fort, New Fortresses started?",true,Ok
+291,When the production of Old Woman Seated started?,true,Ok
+292,When the production of One-punch Knockout started?,true,Ok
+293,When the production of One-star started?,true,Ok
+294,When the production of Open Action started?,true,Ok
+295,When the production of Open Construction-A started?,true,Ok
+296,"When the production of Orange Grove Avenue, Pasadena started?",true,Ok
+297,When the production of Origin in Colors started?,true,Ok
+298,When the production of Orion in December started?,true,Ok
+299,When the production of Ostend started?,true,Ok
+300,When the production of Our Roses started?,true,Ok
+301,When the production of Papago Indians started?,true,Ok
+302,When the production of Paper Bag Making Machine started?,true,Ok
+303,When the production of Parlor Cabinet started?,true,Ok
+304,When the production of Passion Flower started?,true,Ok
+305,When the production of Paul N. Radulich started?,true,Ok
+306,When the production of Paul's Housevan started?,true,Ok
+307,When the production of Peggy started?,true,Ok
+308,"When the production of Pete Exline, Spokane started?",true,Ok
+309,When the production of Peter (A Young English Girl) started?,true,Ok
+310,"When the production of Pig Market, Mexico started?",true,Ok
+311,When the production of Pink Begonias started?,true,Ok
+312,When the production of Pink Folded Paper started?,true,Ok
+313,"When the production of Pipe Dance, Assiniboine started?",true,Ok
+314,When the production of Pisa from North started?,true,Ok
+315,When the production of Plainsman's Dream started?,true,Ok
+316,When the production of Planks Pool started?,true,Ok
+317,When the production of Pleasure and Power started?,true,Ok
+318,When the production of Pont des Arts started?,true,Ok
+319,"When the production of Ponte Megio, Venice started?",true,Ok
+320,When the production of Ponte started?,true,Ok
+321,When the production of Pop's Tavern started?,true,Ok
+322,When the production of Portal Gates started?,true,Ok
+323,When the production of Portrait of Elizabeth Taylor started?,true,Ok
+324,When the production of Portrait of Isabel Bishop started?,true,Ok
+325,When the production of Portrait of Nathaniel Searle started?,true,Ok
+326,When the production of Portrait of Waldo Pierce started?,true,Ok
+327,When the production of Portrait of a Child started?,true,Ok
+328,When the production of Post Setter started?,true,Ok
+329,When the production of Prince Abu Zabi y Su Jardin started?,true,Ok
+330,When the production of Prisoner's Plea started?,true,Ok
+331,When the production of Profile and Hat started?,true,Ok
+332,When the production of Public Building started?,true,Ok
+333,When the production of Queen Elizabeth started?,true,Ok
+334,"When the production of Rabbi Newman, San Francisco started?",true,Ok
+335,When the production of Radio Broadcast started?,true,Ok
+336,"When the production of Ragpicker's Shop, Florence started?",true,Ok
+337,When the production of Railroad Sleeping started?,true,Ok
+338,When the production of Rain in the Mountains started?,true,Ok
+339,When the production of Rajasthan started?,true,Ok
+340,When the production of Red Cylinder started?,true,Ok
+341,"When the production of Rehearsal, Yiddish Theatre started?",true,Ok
+342,When the production of Rejects from the Bat Factory started?,true,Ok
+343,"When the production of Remains of Lock, Millville started?",true,Ok
+344,When the production of Renwick Gate started?,true,Ok
+345,When the production of Return of the Fleet started?,true,Ok
+346,"When the production of Riverside Church, New York started?",true,Ok
+347,When the production of Road through the Labyrinth started?,true,Ok
+348,When the production of Roadmaking started?,true,Ok
+349,When the production of Rock Garden I started?,true,Ok
+350,When the production of Rocking Pot started?,true,Ok
+351,When the production of Rocky Mesa started?,true,Ok
+352,When the production of Rodeo started?,true,Ok
+353,When the production of Romance Sentimentale started?,true,Ok
+354,When the production of Rosebud started?,true,Ok
+355,"When the production of Rosenwald Museum, Chicago started?",true,Ok
+356,When the production of Round the Mulberry Bush started?,true,Ok
+357,When the production of Royal Oak started?,true,Ok
+358,When the production of Russian Hill started?,true,Ok
+359,When the production of Sacred Heart of Healing started?,true,Ok
+360,When the production of Sacrifice of Isaac started?,true,Ok
+361,"When the production of Safad, in Galilee started?",true,Ok
+362,When the production of Salton Sea (Triangle) started?,true,Ok
+363,When the production of Samurai started?,true,Ok
+364,"When the production of Santa Elena Canyon, Big Bend started?",true,Ok
+365,When the production of Santa Maria della Salute started?,true,Ok
+366,When the production of Sawyers started?,true,Ok
+367,When the production of Scapa Evening started?,true,Ok
+368,When the production of Scarecrow started?,true,Ok
+369,When the production of Sculpture of a Bather started?,true,Ok
+370,When the production of Seated Animal Figure started?,true,Ok
+371,"When the production of Seated Woman, Profile started?",true,Ok
+372,When the production of Selena started?,true,Ok
+373,When the production of Self-Portrait with Hat started?,true,Ok
+374,When the production of Sentinels started?,true,Ok
+375,When the production of Setting a Beaver Trap started?,true,Ok
+376,When the production of Shaving My Head started?,true,Ok
+377,"When the production of Sheepyard, Moonlight started?",true,Ok
+378,When the production of Shifting States: Iraq started?,true,Ok
+379,When the production of Side Door started?,true,Ok
+380,When the production of Sir Guy Carelton started?,true,Ok
+381,When the production of Sister Ella started?,true,Ok
+382,When the production of Sitting Nude started?,true,Ok
+383,When the production of Sixth Stone I started?,true,Ok
+384,When the production of Sketch of Reclining Cats started?,true,Ok
+385,When the production of Sketch of Tasha Tudor started?,true,Ok
+386,When the production of Sky Totem started?,true,Ok
+387,When the production of Slate Quarry started?,true,Ok
+388,When the production of Small Girl started?,true,Ok
+389,"When the production of Small Town, Main Street started?",true,Ok
+390,When the production of Smithsonian Castle started?,true,Ok
+391,When the production of Smoke Rings started?,true,Ok
+392,When the production of Snow Clearance started?,true,Ok
+393,When the production of Snowballs started?,true,Ok
+394,When the production of Sophia started?,true,Ok
+395,When the production of Southern Farmland started?,true,Ok
+396,"When the production of Sphinx, Thames, London started?",true,Ok
+397,When the production of Spirit of Christmas started?,true,Ok
+398,When the production of St. Germain des Pres started?,true,Ok
+399,When the production of Stable at Cuenca started?,true,Ok
+400,When the production of Standing Artist started?,true,Ok
+401,When the production of Standing Orpheus with Pegasus started?,true,Ok
+402,When the production of Standing and Reclining Nymphs started?,true,Ok
+403,When the production of Still Life with Fan and Roses started?,true,Ok
+404,When the production of Still Life with Flowers started?,true,Ok
+405,When the production of Stories from the Bible started?,true,Ok
+406,When the production of Studio Bed started?,true,Ok
+407,When the production of Study for Conflict started?,true,Ok
+408,When the production of Study for Gargoyle in Flames started?,true,Ok
+409,When the production of Study for Relief started?,true,Ok
+410,When the production of Study in Auburn started?,true,Ok
+411,When the production of Sun Ra started?,true,Ok
+412,When the production of Sun and Desolation started?,true,Ok
+413,When the production of Sunday Dieterman started?,true,Ok
+414,When the production of Teawood Stand started?,true,Ok
+415,When the production of Tenement Fire started?,true,Ok
+416,When the production of Tepidarium started?,true,Ok
+417,When the production of Terminal Figure of Ceres started?,true,Ok
+418,When the production of Texas State Championship Game started?,true,Ok
+419,When the production of The Abandoned House started?,true,Ok
+420,When the production of The Brothers started?,true,Ok
+421,When the production of The Caress started?,true,Ok
+422,When the production of The Cathedral Door started?,true,Ok
+423,"When the production of The Church of Daphni, Greece started?",true,Ok
+424,When the production of The Court Room Scene started?,true,Ok
+425,When the production of The Craftsman Series: Shovels started?,true,Ok
+426,When the production of The Edge of the Forest started?,true,Ok
+427,When the production of The End of the Continent started?,true,Ok
+428,When the production of The Erlking started?,true,Ok
+429,When the production of The Forces of Evil started?,true,Ok
+430,When the production of The Gilded Age started?,true,Ok
+431,When the production of The Good Luck Branch started?,true,Ok
+432,When the production of The Hitchhiker started?,true,Ok
+433,When the production of The Indian Ghost Dancer started?,true,Ok
+434,When the production of The Isabelle started?,true,Ok
+435,When the production of The Joseph Henry Medal started?,true,Ok
+436,When the production of The Long Rows started?,true,Ok
+437,When the production of The Lorelei started?,true,Ok
+438,When the production of The Pack started?,true,Ok
+439,When the production of The Puppy-cat and the Baby started?,true,Ok
+440,When the production of The Runaways started?,true,Ok
+441,When the production of The Sculptor started?,true,Ok
+442,When the production of The Station started?,true,Ok
+443,"When the production of The Strange One, Times Square started?",true,Ok
+444,When the production of The Sun in Sung Time started?,true,Ok
+445,When the production of The Unbelievable City started?,true,Ok
+446,When the production of The Valley started?,true,Ok
+447,When the production of The Waiting Room started?,true,Ok
+448,When the production of The Wye near Ross started?,true,Ok
+449,When the production of There is no Buddha Out There started?,true,Ok
+450,When the production of This is the Enemy started?,true,Ok
+451,When the production of Three for the Price of a Dog started?,true,Ok
+452,When the production of Time Totem started?,true,Ok
+453,When the production of Tobacco Cutting Machine started?,true,Ok
+454,"When the production of Tower at Enkhuisen, Holland started?",true,Ok
+455,When the production of Town Wharf started?,true,Ok
+456,When the production of Trees Against the Night Sky started?,true,Ok
+457,When the production of Tremont House (Chicago) started?,true,Ok
+458,When the production of Trieste started?,true,Ok
+459,When the production of Turkey started?,true,Ok
+460,When the production of Twilight after the Rain started?,true,Ok
+461,When the production of Two Cedars started?,true,Ok
+462,When the production of Two Magnolias started?,true,Ok
+463,When the production of Undaunted (Torso) started?,true,Ok
+464,"When the production of Upper Level, Aquarium started?",true,Ok
+465,"When the production of Utah, Utah Lake started?",true,Ok
+466,"When the production of Vaatedal, Jolster, Norway started?",true,Ok
+467,When the production of Vagabonds started?,true,Ok
+468,When the production of Vermont Landscape started?,true,Ok
+469,When the production of Vertical Roll started?,true,Ok
+470,When the production of Veterans started?,true,Ok
+471,When the production of Victime started?,true,Ok
+472,When the production of Victorian Ruins started?,true,Ok
+473,When the production of Victory Wreath started?,true,Ok
+474,When the production of View of Artist's Home started?,true,Ok
+475,When the production of Viola palustris started?,true,Ok
+476,When the production of Wall of Light Blue started?,true,Ok
+477,When the production of Washing Machine started?,true,Ok
+478,When the production of Wealth started?,true,Ok
+479,When the production of Wedding Cake Basket started?,true,Ok
+480,When the production of Weighing In started?,true,Ok
+481,When the production of West Neck Beach (Two Figures) started?,true,Ok
+482,"When the production of Wharf Scene, Gloucester started?",true,Ok
+483,When the production of Wheat Bottle started?,true,Ok
+484,When the production of White Tanks started?,true,Ok
+485,"When the production of Windmill, Zwyndrecht started?",true,Ok
+486,When the production of Winter Skating in New Jersey started?,true,Ok
+487,When the production of Winter in Jackson Park started?,true,Ok
+488,When the production of Winterberries started?,true,Ok
+489,When the production of Within the Window started?,true,Ok
+490,When the production of Woman Phone Booth started?,true,Ok
+491,When the production of Woman in Striped Dress started?,true,Ok
+492,When the production of Woman on a Porch started?,true,Ok
+493,When the production of Women Bathing started?,true,Ok
+494,When the production of Women Gathering Yucca Plants started?,true,Ok
+495,When the production of Workers-Slotters Machine started?,true,Ok
+496,When the production of Wyatt Eaton started?,true,Ok
+497,When the production of Wyoming started?,true,Ok
+498,When the production of Yellow Moon started?,true,Ok
+499,When the production of Zoot Suit started?,true,Ok
+500,When the production of Zurich started?,true,Ok
