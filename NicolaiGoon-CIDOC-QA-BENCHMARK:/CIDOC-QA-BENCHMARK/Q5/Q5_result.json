@@ -1,0 +1,34 @@
+[
+    {
+        "question": "Which is the birth place of <Artist>?",
+        "partialDRSs": " X1-be-is-null,X2-which-Which-null,X4-<Artist>-<Artist>-null,X3-birth place-birth place-the, X1-subj-X2,X4-has_name-<Artist>,X3-of-X4,X1-obj-X3, X1-be-is-null,X2-which-Which-null,X3-birth place-birth place-the,X4-<Artist>-<Artist>-null, X1-subj-X2,X1-obj-X3,X4-has_name-<Artist>,X1-obl_of-X4,",
+        "solution": {
+            "dEntities": [
+                "X1, be, is, VERB, null, false, Query1, Query",
+                "X2, which, Which, PRON, null, false, Qualifier2, Qualifier",
+                "X4, <Artist>, <Artist>, PROPN, null, false, Artist3, Artist",
+                "X3, birth place, birth place, NOUN, the, false, BirthPlace4, BirthPlace"
+            ],
+            "dConditions": [
+                "X1, subj, X2, properties= [qQualifier] --- []",
+                "X4, has_name, <Artist>, properties= [] --- [has_name, has_text, who]",
+                "X3, of, X4, properties= [birthplace_of] --- []",
+                "X1, obj, X3, properties= [select] --- []",
+                "X1, has_text, be, properties= [] --- [has_name, has_text, who]",
+                "X2, has_text, which, properties= [] --- [has_name, has_text, who]",
+                "X4, has_text, <Artist>, properties= [] --- [has_name, has_text, who]",
+                "X3, has_text, birth place, properties= [] --- [has_name, has_text, who]",
+                "X2, has_name, null list, properties= [] --- [has_name, has_text, who]",
+                "X1, obj, X2, properties= [qQualifier] --- []"
+            ],
+            "score": {
+                "numIndividuals": 4,
+                "numEntitiesOk": 10,
+                "numPropsOk": 1,
+                "numEntitiesNOk": 0,
+                "numClassesOk": 3
+            }
+        },
+        "query": " PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameBirthPlace4 ?BirthPlace4 ?snameArtist3 ?Artist3 WHERE { ?Artist3 cidoc:P92i_was_brought_into_existence_by ?birth . ?birth  cidoc:P7_took_place_at ?BirthPlace4 . ?BirthPlace4 rdfs:label ?snameBirthPlace4 . ?Artist3 rdfs:label ?snameArtist3. {{?Artist3 cidoc:P131_is_identified_by ?nameArtist3 . ?nameArtist3 rdf:value ?snameArtist3 .}  UNION {?Artist3 rdfs:label ?snameArtist3 .}}  filter(regex(?snameArtist3,\"<Artist>\",\"i\")) . }"
+    }
+]
