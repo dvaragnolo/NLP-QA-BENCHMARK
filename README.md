@@ -339,7 +339,7 @@ A summary of the Question-Answering System performance evaluation results obtain
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               98.0%            |
 
-### Q6 - When the production of {Art Work} started??
+### Q6 - When the production of {Art Work} started?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
