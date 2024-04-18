@@ -107,11 +107,11 @@ The SAAMs-50q_results.json is organized as follows:
 
 | id | Question | Compare Results | Comment |
 | -- | -------- | ----------------- | ------- |
-| 1 | Who is Darryl Abraham? | True | ok |
-| 2 | What is Honeymoon Motel? | True | ok |
-| 3 | Which paintings did Leonard Ochtman create? | True | ok |
-| 4 | What was the birthdate of Leonard Ochtman? | True | ok |
-| 5 | What was the birthplace of Leonard Ochtman? | True | ok |
+| 1 | Who is Darryl Abraham? | True |  |
+| 2 | What is Honeymoon Motel? | True |  |
+| 3 | Which paintings did Leonard Ochtman create? | True |  |
+| 4 | What was the birthdate of Leonard Ochtman? | True |  |
+| 5 | What was the birthplace of Leonard Ochtman? | True |  |
 | 6 | What was the deathdate of Leonard Ochtman? | True | ok |
 | 7 | When did Leonard Ochtman die? | True | ok |
 | 8 | When died Leonard Ochtman? | True | ok |
