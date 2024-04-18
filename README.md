@@ -77,8 +77,8 @@ The 50 English questions are on artists and artefacts in the Smithsonian America
 | Where did Mary go in 1900? |
 
 ### SAAM's answers to the Natural Language Questions dataset
-The SAAM's answer to each Natural Language Question is saved in JSON format.
-For instance, for the question "Which paintings did Leonard Ochtman create?" the information is presented as follows. 
+The SAAM's manually obtained answer to each Natural Language Question is represented in JSON format.
+For instance, to the question "Which paintings did Leonard Ochtman create?" the complete information is presented as follows. 
 ```JSON
 {
     "question": "Which paintings did Leonard Ochtman create?",
@@ -98,7 +98,9 @@ For instance, for the question "Which paintings did Leonard Ochtman create?" the
     ]
   }
 ```
-### System Results Set
+### Evaluation of the automatic answer
+
+
 | id | Question | Compare Results | Comment |
 | -- | -------- | ----------------- | ------- |
 | 1 | Who is Darryl Abraham? | True | ok |
