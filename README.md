@@ -248,7 +248,39 @@ The evaluation results of 5000 questions, were grouped into 10 different types o
 
 ## Qi, i = 1..10
 
-
+```JSON
+{
+        "question": "Which is the art type of <Artwork>?",
+        "partialDRSs": " X1-be-is-null,X2-which-Which-null,X4-<Artwork>-<Artwork>-a,X3-art type-art type-the, X1-subj-X2,X4-has_name-<Artwork>,X3-of-X4,X1-obj-X3, X1-be-is-null,X2-which-Which-null,X3-art type-art type-the,X4-<Artwork>-<Artwork>-a, X1-subj-X2,X1-obj-X3,X4-has_name-<Artwork>,X1-obl_of-X4,",
+        "solution": {
+            "dEntities": [
+                "X1, be, is, VERB, null, false, Query1, Query",
+                "X2, which, Which, PRON, null, false, Qualifier2, Qualifier",
+                "X4, <Artwork>, <Artwork>, PROPN, a, false, Artefact3, Artefact",
+                "X3, art type, art type, NOUN, the, false, ConceptArtefact4, ConceptArtefact"
+            ],
+            "dConditions": [
+                "X1, subj, X2, properties= [qQualifier] --- []",
+                "X4, has_name, <Artwork>, properties= [] --- [has_name, has_text, who]",
+                "X3, of, X4, properties= [conc_of_Artefact] --- []",
+                "X1, obj, X3, properties= [select] --- []",
+                "X1, has_text, be, properties= [] --- [has_name, has_text, who]",
+                "X2, has_text, which, properties= [] --- [has_name, has_text, who]",
+                "X4, has_text, <Artwork>, properties= [] --- [has_name, has_text, who]",
+                "X3, has_text, art type, properties= [] --- [has_name, has_text, who]",
+                "X2, has_name, null list, properties= [] --- [has_name, has_text, who]",
+                "X1, obj, X2, properties= [qQualifier] --- []"
+            ],
+            "score": {
+                "numIndividuals": 4,
+                "numEntitiesOk": 10,
+                "numPropsOk": 1,
+                "numEntitiesNOk": 0,
+                "numClassesOk": 3
+            }
+        },
+        "query": " PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameConceptArtefact4 ?ConceptArtefact4 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,\"<Artwork>\",\"i\")) . ?Artefact3 cidoc:P2_has_type ?ConceptArtefact4. ?ConceptArtefact4 rdfs:label ?snameConceptArtefact4. }"
+    }
 
 In the CIDOC-QA-BENCHMARK repository, can be found the SPARQL template queries that sent to <https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum>. The placeholders {Art Work} and {Artist} are replaced with entities present in the KG. From original templates, we add the following filtrer on SPARQL Query to specify the label of Art Work or Artist).
 ### Named Entity Recognition
