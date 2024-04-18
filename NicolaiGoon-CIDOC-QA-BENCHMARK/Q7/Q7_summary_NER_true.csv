@@ -1,0 +1,501 @@
+Id,Question,Gen.contains(Man),Comment
+1,When the production of A Delightful Evening ended?,true,Ok
+2,When the production of A Homeless Victim of War ended?,true,Ok
+3,When the production of A Hunger Fantasy ended?,true,Ok
+4,When the production of A Mexican in Bernalillo ended?,true,Ok
+5,When the production of A New England Scene ended?,true,Ok
+6,When the production of A Note in Pattern ended?,true,Ok
+7,When the production of A Quiet Canal ended?,true,Ok
+8,When the production of A Shoshonee Indian Smoking ended?,true,Ok
+9,When the production of Abbott Lawrence ended?,true,Ok
+10,When the production of Adieu ended?,true,Ok
+11,When the production of Aerodynamics ended?,true,Ok
+12,When the production of After the Bath ended?,true,Ok
+13,When the production of Akbar's Accession ended?,true,Ok
+14,When the production of Al Dente ended?,true,Ok
+15,When the production of Albion ended?,true,Ok
+16,When the production of Along the Brandywine ended?,true,Ok
+17,When the production of Along the Cimarron ended?,true,Ok
+18,When the production of Alpine Fir (Abies lasiocarpa) ended?,true,Ok
+19,When the production of Amazon Region Series ended?,true,Ok
+20,When the production of Americana ended?,true,Ok
+21,When the production of Anagama ended?,true,Ok
+22,When the production of Andre Joseph Villard ended?,true,Ok
+23,When the production of Animal Music for the Spheres ended?,true,Ok
+24,When the production of Anne Hume Shippen ended?,true,Ok
+25,When the production of Annecy ended?,true,Ok
+26,When the production of Appian Wall ended?,true,Ok
+27,When the production of Arizona Landscape ended?,true,Ok
+28,When the production of Artist's Palette ended?,true,Ok
+29,When the production of Artists on WPA ended?,true,Ok
+30,When the production of Ashes in the Wind ended?,true,Ok
+31,When the production of At Market ended?,true,Ok
+32,When the production of Atheneum Clapboard ended?,true,Ok
+33,When the production of August Memories ended?,true,Ok
+34,When the production of Autumn Still Life ended?,true,Ok
+35,"When the production of Autumn, Staten Island ended?",true,Ok
+36,When the production of Aymara Girl ended?,true,Ok
+37,When the production of Baby in Pink with an Iron ended?,true,Ok
+38,When the production of Backs Fronts Windows ended?,true,Ok
+39,"When the production of Bali, Rice Market ended?",true,Ok
+40,When the production of Ball Play (La Crosse) ended?,true,Ok
+41,"When the production of Ball-play Dance, Choctaw ended?",true,Ok
+42,When the production of Ballerine ended?,true,Ok
+43,"When the production of Baltit, Hunza, Pakistan ended?",true,Ok
+44,"When the production of Bangor, Pennsylvania ended?",true,Ok
+45,"When the production of Baton Rouge, Louisiana ended?",true,Ok
+46,When the production of Battle Hymn of the Republic ended?,true,Ok
+47,When the production of Battleship Texas ended?,true,Ok
+48,When the production of Bear and Fish ended?,true,Ok
+49,When the production of Belt with Jade Carving ended?,true,Ok
+50,When the production of Benjamin A. Javits ended?,true,Ok
+51,When the production of Benjamin Rush Spencer ended?,true,Ok
+52,When the production of Between Poses ended?,true,Ok
+53,When the production of Black Fighter ended?,true,Ok
+54,When the production of Blackburn ended?,true,Ok
+55,When the production of Blood Grotto ended?,true,Ok
+56,When the production of Blue and Orange ended?,true,Ok
+57,When the production of Bottle Form ended?,true,Ok
+58,When the production of Bottlecap Lion ended?,true,Ok
+59,"When the production of Boudoir, Chateau de Chaalis ended?",true,Ok
+60,"When the production of Bouillabaisse, Barcelona ended?",true,Ok
+61,When the production of Bowl (gold) ended?,true,Ok
+62,When the production of Branch and Nude Study ended?,true,Ok
+63,"When the production of Bread Line, New York ended?",true,Ok
+64,When the production of Breaking Down the Wild Horse ended?,true,Ok
+65,When the production of Broad Street ended?,true,Ok
+66,When the production of Brown Florentine Bowl ended?,true,Ok
+67,When the production of Bruce's House ended?,true,Ok
+68,When the production of Buck and Master ended?,true,Ok
+69,When the production of Buffalo Hunter ended?,true,Ok
+70,When the production of Bull ended?,true,Ok
+71,When the production of Burlesque Show ended?,true,Ok
+72,When the production of C.W.A. Worker at Key Bridge ended?,true,Ok
+73,"When the production of Cadet Chapel, West Point ended?",true,Ok
+74,"When the production of Camper, Mendocino ended?",true,Ok
+75,"When the production of Canada, U.S.A., Mexico ended?",true,Ok
+76,When the production of Candelabra ended?,true,Ok
+77,When the production of Cape Point ended?,true,Ok
+78,When the production of Cardinal Grosbeak ended?,true,Ok
+79,"When the production of Carillon Tower, Chicago Fair ended?",true,Ok
+80,When the production of Carolina Low Country ended?,true,Ok
+81,When the production of Carolina ended?,true,Ok
+82,When the production of Cast of Characters ended?,true,Ok
+83,When the production of Cast thy Anchor in Heaven ended?,true,Ok
+84,"When the production of Castle Oberlahnstein, Rhine ended?",true,Ok
+85,"When the production of Castle at Corfu, Greece ended?",true,Ok
+86,When the production of Chalets by Jostedal Glacier ended?,true,Ok
+87,When the production of Charles De Coster ended?,true,Ok
+88,"When the production of Chatham House, Charlotte, NC ended?",true,Ok
+89,When the production of Christmas in Paris ended?,true,Ok
+90,When the production of Churn ended?,true,Ok
+91,When the production of City Hall ended?,true,Ok
+92,When the production of Classical Landscape ended?,true,Ok
+93,When the production of Cliffside Church ended?,true,Ok
+94,When the production of Collection of Curious Spoons ended?,true,Ok
+95,When the production of Come to the Moon ended?,true,Ok
+96,When the production of Commanche Warrior ended?,true,Ok
+97,When the production of Concept ended?,true,Ok
+98,When the production of Conde Duque d'Olivarez ended?,true,Ok
+99,When the production of Confidences ended?,true,Ok
+100,When the production of Conradina verticillata ended?,true,Ok
+101,When the production of Container Cover ended?,true,Ok
+102,When the production of Cosmic Colonies ended?,true,Ok
+103,When the production of Country Kitchen ended?,true,Ok
+104,"When the production of Couple Dancing, New York ended?",true,Ok
+105,When the production of Cubist Analysis ended?,true,Ok
+106,When the production of Cyclist ended?,true,Ok
+107,When the production of Damascus Costume ended?,true,Ok
+108,"When the production of Danube, an Old Mill ended?",true,Ok
+109,When the production of Decoration Medal ended?,true,Ok
+110,When the production of Defense de Stationner ended?,true,Ok
+111,When the production of Defiance ended?,true,Ok
+112,When the production of Dematerialization ended?,true,Ok
+113,When the production of Design for Carving ended?,true,Ok
+114,When the production of Design for Living ended?,true,Ok
+115,When the production of Dining Chair ended?,true,Ok
+116,When the production of Dockyard ended?,true,Ok
+117,When the production of Domed Building with Flags ended?,true,Ok
+118,When the production of Down to the Sea Again ended?,true,Ok
+119,When the production of Dr. Edward R. Baldwin ended?,true,Ok
+120,When the production of Drawing Houses ended?,true,Ok
+121,When the production of Driver's Seat ended?,true,Ok
+122,When the production of Dry Dock Men ended?,true,Ok
+123,"When the production of Ed. Hubbard, American South ended?",true,Ok
+124,When the production of Eddyville ended?,true,Ok
+125,When the production of Edge of Forest ended?,true,Ok
+126,When the production of El Fireboy y El Mingo ended?,true,Ok
+127,When the production of Elihu Root ended?,true,Ok
+128,When the production of Elizabeth Gibson Powers ended?,true,Ok
+129,When the production of Elizabeth Tuckerman Salisbury ended?,true,Ok
+130,When the production of Elk (Trucks) ended?,true,Ok
+131,When the production of Elsie Clough Street ended?,true,Ok
+132,When the production of Elysian Fields ended?,true,Ok
+133,When the production of Emperor of Norfolk ended?,true,Ok
+134,When the production of Estes Park ended?,true,Ok
+135,When the production of Faith ended?,true,Ok
+136,When the production of Family and Friends ended?,true,Ok
+137,When the production of Farewell ended?,true,Ok
+138,When the production of Farm Interior ended?,true,Ok
+139,When the production of Father and Son ended?,true,Ok
+140,When the production of Feast Day: San Juan Pueblo ended?,true,Ok
+141,When the production of Female Nude before Mirror ended?,true,Ok
+142,"When the production of Fenced Yard, Wellsville, Ohio ended?",true,Ok
+143,When the production of Field Falls ended?,true,Ok
+144,When the production of Field of Wheat Shock ended?,true,Ok
+145,When the production of Figure in the Flood ended?,true,Ok
+146,When the production of Figures and Rabbit in a Boat ended?,true,Ok
+147,When the production of Firelight ended?,true,Ok
+148,When the production of First Sight of Alexandria ended?,true,Ok
+149,When the production of Fish Peddler ended?,true,Ok
+150,When the production of Fisherman's Lunch ended?,true,Ok
+151,When the production of Flood Victims ended?,true,Ok
+152,When the production of Flower to Teacher ended?,true,Ok
+153,When the production of Fly Fishing Medal ended?,true,Ok
+154,When the production of Follow Me ended?,true,Ok
+155,When the production of Ford the Fiddler ended?,true,Ok
+156,When the production of Forest Interior with Stream ended?,true,Ok
+157,When the production of Found Fragment ended?,true,Ok
+158,When the production of Frances Perkins ended?,true,Ok
+159,"When the production of Fremont Street, Las Vegas ended?",true,Ok
+160,When the production of French Money ended?,true,Ok
+161,When the production of Fruit in a Bowl ended?,true,Ok
+162,When the production of Gardens of China I ended?,true,Ok
+163,When the production of Gathering of black men ended?,true,Ok
+164,When the production of George Cochran Lambdin ended?,true,Ok
+165,When the production of German Lady ended?,true,Ok
+166,When the production of Gesture ended?,true,Ok
+167,When the production of Gilia linanthus parviflorus ended?,true,Ok
+168,When the production of Girl in a Pink Dress ended?,true,Ok
+169,When the production of Girl with Bird ended?,true,Ok
+170,When the production of Girls in Conversation ended?,true,Ok
+171,"When the production of Glove and Shoe, New York ended?",true,Ok
+172,When the production of Glyph ended?,true,Ok
+173,When the production of Goat and Cottage ended?,true,Ok
+174,When the production of Good Friday Morning ended?,true,Ok
+175,When the production of Governor for Steam Engines ended?,true,Ok
+176,When the production of Granadias ended?,true,Ok
+177,When the production of Grandma Moran ended?,true,Ok
+178,When the production of Group Along the Road ended?,true,Ok
+179,When the production of Harvest Time ended?,true,Ok
+180,When the production of Head of Osage Indian ended?,true,Ok
+181,When the production of Head of a Woman in Jerusalem ended?,true,Ok
+182,"When the production of Heat Exhaustion, Ramsey Unit ended?",true,Ok
+183,When the production of Heating Stove ended?,true,Ok
+184,When the production of Hermit Crab ended?,true,Ok
+185,"When the production of High Cliff, Coast of Maine ended?",true,Ok
+186,When the production of High Cost of Living ended?,true,Ok
+187,When the production of Hilly Landscape ended?,true,Ok
+188,When the production of Hole in One ended?,true,Ok
+189,When the production of Honeymoon Motel ended?,true,Ok
+190,"When the production of Horeb, Egypt ended?",true,Ok
+191,When the production of Horse's Anatomy ended?,true,Ok
+192,When the production of Horses and Men ended?,true,Ok
+193,When the production of Hot Dog Stand ended?,true,Ok
+194,When the production of Hudson Bridge ended?,true,Ok
+195,When the production of Hypnotic: GOOD SWEET WOMAN ended?,true,Ok
+196,When the production of Ideas ended?,true,Ok
+197,When the production of Il Penseroso ended?,true,Ok
+198,When the production of Impressions ended?,true,Ok
+199,When the production of In Exile ended?,true,Ok
+200,When the production of In Flight ended?,true,Ok
+201,When the production of Interior with Three Pears ended?,true,Ok
+202,When the production of Interlocked Forms ended?,true,Ok
+203,When the production of Into the Light ended?,true,Ok
+204,When the production of Into the Valley ended?,true,Ok
+205,When the production of James Viscount Bryce ended?,true,Ok
+206,When the production of Jazz - the New Possession ended?,true,Ok
+207,When the production of Jeune Faune ended?,true,Ok
+208,When the production of John Henry's Funeral ended?,true,Ok
+209,When the production of Jonathan Jones Wheeler ended?,true,Ok
+210,When the production of Jupiter Olympus ended?,true,Ok
+211,When the production of Kimono Vases: Evening ended?,true,Ok
+212,When the production of L' Auberge a Rome ended?,true,Ok
+213,When the production of La Vierge ended?,true,Ok
+214,When the production of Ladies of the Evening ended?,true,Ok
+215,When the production of Lady with Blue Hair Ribbon ended?,true,Ok
+216,When the production of Landscape H ended?,true,Ok
+217,When the production of Landscape with Clouds ended?,true,Ok
+218,When the production of Larry Levan (snake) ended?,true,Ok
+219,When the production of Last Tree ended?,true,Ok
+220,When the production of Laura at Fifteen ended?,true,Ok
+221,When the production of Leda and the Necrophilic Swan ended?,true,Ok
+222,"When the production of Left Bank Barbershop, Paris ended?",true,Ok
+223,When the production of Legato ended?,true,Ok
+224,When the production of Les Poilus ended?,true,Ok
+225,When the production of Levee Farms ended?,true,Ok
+226,When the production of Life Go On ended?,true,Ok
+227,When the production of Lobelia Kalmii ended?,true,Ok
+228,When the production of Long Island ended?,true,Ok
+229,When the production of Long Lesson I ended?,true,Ok
+230,When the production of Long-Horn Steers ended?,true,Ok
+231,When the production of Lotus puberulus ended?,true,Ok
+232,When the production of Louis Siebert ended?,true,Ok
+233,When the production of Loulie's Hand ended?,true,Ok
+234,When the production of Love (study for) ended?,true,Ok
+235,When the production of Lucy Findley ended?,true,Ok
+236,When the production of Lying in Wait ended?,true,Ok
+237,When the production of Maine Pump ended?,true,Ok
+238,When the production of Man in a Blue Suit ended?,true,Ok
+239,When the production of Man on Bench in Town ended?,true,Ok
+240,When the production of Mandalas ended?,true,Ok
+241,When the production of Maquette for Chorale ended?,true,Ok
+242,When the production of Maquette for Nalia ended?,true,Ok
+243,When the production of Maquette for Southern Wall ended?,true,Ok
+244,When the production of Margaret Ethel Wall ended?,true,Ok
+245,When the production of Marianne Girard ended?,true,Ok
+246,When the production of Martigues ended?,true,Ok
+247,When the production of Mary Hopkinson ended?,true,Ok
+248,When the production of Massimo Plates ended?,true,Ok
+249,When the production of Member of the Yates Family ended?,true,Ok
+250,When the production of Memory Form ended?,true,Ok
+251,When the production of Mevagissey ended?,true,Ok
+252,When the production of Midsummer ended?,true,Ok
+253,When the production of Miniature Ship ended?,true,Ok
+254,When the production of Mold of a Woman's Hand ended?,true,Ok
+255,When the production of Morata ended?,true,Ok
+256,When the production of Mosaic glass ended?,true,Ok
+257,When the production of Mounette ended?,true,Ok
+258,When the production of Mount Orizaba ended?,true,Ok
+259,When the production of Mountain Climber ended?,true,Ok
+260,When the production of Mountain Pool ended?,true,Ok
+261,When the production of Mrs. James Greenleaf ended?,true,Ok
+262,When the production of Mt. Rushmore ended?,true,Ok
+263,When the production of Mules ended?,true,Ok
+264,When the production of My Body Sees You ended?,true,Ok
+265,"When the production of My Place, Kingston, Ohio ended?",true,Ok
+266,When the production of Myrtle Booth and Her Trees ended?,true,Ok
+267,When the production of Mystic Bird ended?,true,Ok
+268,When the production of Napeague ended?,true,Ok
+269,When the production of Napoleon as Emperor ended?,true,Ok
+270,When the production of Natalie Clifford Barney ended?,true,Ok
+271,When the production of Natalie at Seven ended?,true,Ok
+272,When the production of Natural Bridge ended?,true,Ok
+273,When the production of Newman's House ended?,true,Ok
+274,When the production of Nigger Quarters ended?,true,Ok
+275,When the production of Night Scene I ended?,true,Ok
+276,When the production of Night Waves ended?,true,Ok
+277,When the production of Night at Mattoon ended?,true,Ok
+278,When the production of Ninth Ave. Church ended?,true,Ok
+279,When the production of No Parking Here Any Time ended?,true,Ok
+280,When the production of Non Tucket Rib ended?,true,Ok
+281,When the production of Nora Holt ended?,true,Ok
+282,When the production of Novice Birdwatcher ended?,true,Ok
+283,When the production of Nude (Diana) ended?,true,Ok
+284,When the production of Nude and Iris ended?,true,Ok
+285,When the production of Nude on a Red Sofa ended?,true,Ok
+286,When the production of Nude with Dove and Flowers ended?,true,Ok
+287,"When the production of Nude, Dog, Clouds ended?",true,Ok
+288,When the production of Nude: Study of a Young Girl ended?,true,Ok
+289,When the production of Oak Tree ended?,true,Ok
+290,When the production of Ode to Today ended?,true,Ok
+291,When the production of Old Florence ended?,true,Ok
+292,When the production of Old Mesilla Plaza ended?,true,Ok
+293,When the production of On Fire ended?,true,Ok
+294,When the production of On the Soda Butte Creek ended?,true,Ok
+295,When the production of One Day in June ended?,true,Ok
+296,When the production of Open Ended Smoker ended?,true,Ok
+297,When the production of Open ended?,true,Ok
+298,When the production of Ostend ended?,true,Ok
+299,When the production of Ouray ended?,true,Ok
+300,"When the production of Over the Harbor, Centerport ended?",true,Ok
+301,"When the production of Pan de Asugar, Brasil ended?",true,Ok
+302,When the production of Parrot ended?,true,Ok
+303,When the production of Peaceful Valley ended?,true,Ok
+304,When the production of Pediocaetes Columbianus ended?,true,Ok
+305,When the production of Peter (A Young English Girl) ended?,true,Ok
+306,"When the production of Philippi, West Virginia ended?",true,Ok
+307,When the production of Pickle Eater of the Nile ended?,true,Ok
+308,"When the production of Pig Market, Mexico ended?",true,Ok
+309,When the production of Pioneers ended?,true,Ok
+310,"When the production of Pipe Dance, Assiniboine ended?",true,Ok
+311,When the production of Plodding Homeward ended?,true,Ok
+312,When the production of Plums ended?,true,Ok
+313,When the production of Pollywog Decoy ended?,true,Ok
+314,When the production of Polo Players ended?,true,Ok
+315,When the production of Portrait of Helen ended?,true,Ok
+316,When the production of Portrait of Miss Hoe ended?,true,Ok
+317,When the production of Portrait of Nathaniel Searle ended?,true,Ok
+318,When the production of Post Setter ended?,true,Ok
+319,When the production of Potato Planting ended?,true,Ok
+320,When the production of Prince Albert ended?,true,Ok
+321,When the production of Prizefighters ended?,true,Ok
+322,When the production of Proserpine (fragment) ended?,true,Ok
+323,When the production of Provincetown Bacchanalia ended?,true,Ok
+324,When the production of Pure Plantainum ended?,true,Ok
+325,When the production of Pursuit of Culture ended?,true,Ok
+326,When the production of Quadra ended?,true,Ok
+327,When the production of Radiante ended?,true,Ok
+328,When the production of Rain in the Mountains ended?,true,Ok
+329,When the production of Randy Bias ended?,true,Ok
+330,When the production of Raynolds Place ended?,true,Ok
+331,When the production of Reclining ended?,true,Ok
+332,When the production of Rectangular Plate ended?,true,Ok
+333,When the production of Red Fern ended?,true,Ok
+334,When the production of Red Flower ended?,true,Ok
+335,When the production of Reducing (Reducing Exercises) ended?,true,Ok
+336,When the production of Reflection with Rugs ended?,true,Ok
+337,"When the production of Rehearsal, Yiddish Theatre ended?",true,Ok
+338,When the production of Renwick Gate ended?,true,Ok
+339,When the production of Rev. Joseph Pilmore ended?,true,Ok
+340,When the production of Reverend Reid ended?,true,Ok
+341,When the production of Right to the Jaw ended?,true,Ok
+342,"When the production of Rio della Senza, Venice ended?",true,Ok
+343,When the production of Road through the Labyrinth ended?,true,Ok
+344,When the production of Robert Broome ended?,true,Ok
+345,When the production of Rock Garden I ended?,true,Ok
+346,When the production of Romare Bearden ended?,true,Ok
+347,When the production of Ronald Reagan Inaugural Medal ended?,true,Ok
+348,When the production of Room for One More ended?,true,Ok
+349,When the production of Rosanna ended?,true,Ok
+350,"When the production of Rosenwald Museum, Chicago ended?",true,Ok
+351,"When the production of Safad, in Galilee ended?",true,Ok
+352,When the production of Sailor ended?,true,Ok
+353,When the production of Salton Sea (Triangle) ended?,true,Ok
+354,When the production of Samuel Hall Gregory ended?,true,Ok
+355,When the production of Samurai ended?,true,Ok
+356,When the production of Sarah's Reach ended?,true,Ok
+357,"When the production of Saratoga Springs, New York ended?",true,Ok
+358,When the production of Sasha ended?,true,Ok
+359,When the production of Sea Wall ended?,true,Ok
+360,When the production of Season's End ended?,true,Ok
+361,When the production of Seated Woman in Pink Blouse ended?,true,Ok
+362,When the production of Second Opinion ended?,true,Ok
+363,When the production of Self-Portrait with Hat ended?,true,Ok
+364,When the production of Self-Portrait with Red Scarf ended?,true,Ok
+365,When the production of Sewing Scissors ended?,true,Ok
+366,When the production of Shadow Magic ended?,true,Ok
+367,"When the production of Sheepyard, Moonlight ended?",true,Ok
+368,"When the production of Shells, Buoys and Bottle ended?",true,Ok
+369,When the production of Side Door ended?,true,Ok
+370,When the production of Sister Ella ended?,true,Ok
+371,When the production of Sitting Nude ended?,true,Ok
+372,When the production of Six Copper Photo-Plates ended?,true,Ok
+373,When the production of Sky Totem ended?,true,Ok
+374,When the production of Small Gull Sleeping ended?,true,Ok
+375,"When the production of Small Town, Main Street ended?",true,Ok
+376,When the production of Smithsonian Castle ended?,true,Ok
+377,When the production of Snow Clearance ended?,true,Ok
+378,When the production of Snowballs ended?,true,Ok
+379,When the production of Sonar ended?,true,Ok
+380,When the production of Sophia ended?,true,Ok
+381,When the production of Sorrows of Departure ended?,true,Ok
+382,When the production of South of Lincoln Square ended?,true,Ok
+383,"When the production of Sphinx, Thames, London ended?",true,Ok
+384,When the production of Spice Tower ended?,true,Ok
+385,When the production of Split Encounter ended?,true,Ok
+386,When the production of Sprinter ended?,true,Ok
+387,When the production of St. Valery-Blow-Wild Thyme ended?,true,Ok
+388,When the production of Standing Articulated Figure ended?,true,Ok
+389,When the production of Standing Artist ended?,true,Ok
+390,When the production of Startled Mallard ended?,true,Ok
+391,When the production of Stepping into Shoes ended?,true,Ok
+392,When the production of Still Life with Fan and Roses ended?,true,Ok
+393,When the production of Still Life with Pineapple ended?,true,Ok
+394,"When the production of Street Crowds, Tunisia ended?",true,Ok
+395,When the production of Street in Joliet ended?,true,Ok
+396,When the production of Striped Bass ended?,true,Ok
+397,When the production of Strong Left Hand ended?,true,Ok
+398,When the production of Structure ended?,true,Ok
+399,When the production of Study for Baits ended?,true,Ok
+400,When the production of Study for the Disciple Peter ended?,true,Ok
+401,When the production of Study in Auburn ended?,true,Ok
+402,When the production of Summer Horizon ended?,true,Ok
+403,When the production of Sun Flowers ended?,true,Ok
+404,When the production of Sunlight ended?,true,Ok
+405,When the production of Sunny Slopes ended?,true,Ok
+406,When the production of Sunside Stock & Poultry Farm ended?,true,Ok
+407,When the production of Surrational Zeus ended?,true,Ok
+408,When the production of Suzanna ended?,true,Ok
+409,When the production of Swedish Lady ended?,true,Ok
+410,When the production of Synagogue ended?,true,Ok
+411,When the production of THE FREEDOM STOMPERS ended?,true,Ok
+412,When the production of Teacher Benares ended?,true,Ok
+413,When the production of Tetuan ended?,true,Ok
+414,When the production of Texas Cavalry Medal (obverse) ended?,true,Ok
+415,When the production of The Beauty Parlor ended?,true,Ok
+416,When the production of The Birdlover ended?,true,Ok
+417,When the production of The Black Hat ended?,true,Ok
+418,When the production of The Bottle ended?,true,Ok
+419,When the production of The Brothers ended?,true,Ok
+420,When the production of The Cat ended?,true,Ok
+421,When the production of The Committee ended?,true,Ok
+422,When the production of The Corner Butcher ended?,true,Ok
+423,When the production of The Enchanted Pool ended?,true,Ok
+424,When the production of The Fruit Wagon ended?,true,Ok
+425,When the production of The Gilded Age ended?,true,Ok
+426,When the production of The Good Luck Branch ended?,true,Ok
+427,When the production of The Grind-Stone ended?,true,Ok
+428,When the production of The Indian Ghost Dancer ended?,true,Ok
+429,When the production of The Isabelle ended?,true,Ok
+430,When the production of The Joseph Henry Medal ended?,true,Ok
+431,When the production of The Lobster Fisherman ended?,true,Ok
+432,"When the production of The Mangrove Coast, Florida ended?",true,Ok
+433,When the production of The Mink Trapper ended?,true,Ok
+434,When the production of The Phantom ended?,true,Ok
+435,When the production of The Presses ended?,true,Ok
+436,When the production of The Race ended?,true,Ok
+437,When the production of The Restaurant ended?,true,Ok
+438,When the production of The Rough Camp ended?,true,Ok
+439,When the production of The Shaded Walk ended?,true,Ok
+440,When the production of The Star Barber Shop ended?,true,Ok
+441,When the production of The Sun in Sung Time ended?,true,Ok
+442,When the production of The Things That Are Caesar's ended?,true,Ok
+443,When the production of The Three Chickens ended?,true,Ok
+444,When the production of The True Mother Goose ended?,true,Ok
+445,When the production of The Two-Step ended?,true,Ok
+446,When the production of The Young Sabot Maker ended?,true,Ok
+447,When the production of Third and Rhode Island ended?,true,Ok
+448,When the production of This is the Enemy ended?,true,Ok
+449,When the production of Thomas Hopkinson ended?,true,Ok
+450,When the production of Tibet ended?,true,Ok
+451,When the production of Tide Rip ended?,true,Ok
+452,When the production of Tongue River Cliffs (In Camp) ended?,true,Ok
+453,When the production of Totem ended?,true,Ok
+454,"When the production of Tower at Enkhuisen, Holland ended?",true,Ok
+455,When the production of Town Wharf ended?,true,Ok
+456,When the production of Toy Bicycle Rider ended?,true,Ok
+457,"When the production of Traders, Gallup, N.M. ended?",true,Ok
+458,When the production of Trapeze Girl ended?,true,Ok
+459,When the production of Trees Against the Night Sky ended?,true,Ok
+460,When the production of Triggered ended?,true,Ok
+461,When the production of Tropic Moon ended?,true,Ok
+462,When the production of Tur ended?,true,Ok
+463,When the production of Twilight after the Rain ended?,true,Ok
+464,When the production of Two Beds ended?,true,Ok
+465,When the production of Two Bottles ended?,true,Ok
+466,When the production of Two Cedars ended?,true,Ok
+467,When the production of Two Magnolias ended?,true,Ok
+468,When the production of Two Men Pushing Cart ended?,true,Ok
+469,When the production of Two Sisters with Doll ended?,true,Ok
+470,When the production of Undaunted (Torso) ended?,true,Ok
+471,When the production of Under Flowers ended?,true,Ok
+472,"When the production of Upper Falls, Yellowstone ended?",true,Ok
+473,When the production of Urban Self-Projection ended?,true,Ok
+474,When the production of Valley of the Swiftcurrent ended?,true,Ok
+475,When the production of Veronica wormskjoldii ended?,true,Ok
+476,When the production of Veronica's Veil ended?,true,Ok
+477,When the production of Vertical Bridge ended?,true,Ok
+478,When the production of Vertical Roll ended?,true,Ok
+479,When the production of Veterans ended?,true,Ok
+480,When the production of Victory Overseas ended?,true,Ok
+481,When the production of Victory Wreath ended?,true,Ok
+482,When the production of Virga ended?,true,Ok
+483,When the production of Vorahnung (Premonition) ended?,true,Ok
+484,When the production of Wall of Light Blue ended?,true,Ok
+485,When the production of Ward Heelers ended?,true,Ok
+486,When the production of Wayfarers ended?,true,Ok
+487,When the production of Wealth ended?,true,Ok
+488,When the production of West Neck Beach (Two Figures) ended?,true,Ok
+489,When the production of White Tanks ended?,true,Ok
+490,When the production of White man on wagon ended?,true,Ok
+491,When the production of Wild Flowers ended?,true,Ok
+492,When the production of William Thaw ended?,true,Ok
+493,"When the production of Wine Cart, Paris ended?",true,Ok
+494,When the production of Winter Bluebirds ended?,true,Ok
+495,When the production of Winter Skating in New Jersey ended?,true,Ok
+496,When the production of Woman Washing Clothes ended?,true,Ok
+497,When the production of Woman in a Yellow Vest ended?,true,Ok
+498,When the production of World Trade Center ended?,true,Ok
+499,When the production of Young Michelangelo ended?,true,Ok
+500,When the production of Zurich ended?,true,Ok

@@ -1,0 +1,501 @@
+Id,Question,Gen.contains(Man),Comment
+1,When the production of A Delightful Evening ended?,true,Ok
+2,When the production of A Homeless Victim of War ended?,null,Incorrect partial DRS
+3,When the production of A Hunger Fantasy ended?,true,Ok
+4,When the production of A Mexican in Bernalillo ended?,null,Incorrect partial DRS
+5,When the production of A New England Scene ended?,null,Incorrect Stanza Parsing
+6,When the production of A Note in Pattern ended?,null,Incorrect partial DRS
+7,When the production of A Quiet Canal ended?,true,Ok
+8,When the production of A Shoshonee Indian Smoking ended?,false,Incorrect Query Ontology Representation
+9,When the production of Abbott Lawrence ended?,true,Ok
+10,When the production of Adieu ended?,true,Ok
+11,When the production of Aerodynamics ended?,true,Ok
+12,When the production of After the Bath ended?,null,Incorrect Stanza Parsing
+13,When the production of Akbar's Accession ended?,null,Incorrect Stanza Parsing
+14,When the production of Al Dente ended?,true,Ok
+15,When the production of Albion ended?,true,Ok
+16,When the production of Along the Brandywine ended?,null,Incorrect Stanza Parsing
+17,When the production of Along the Cimarron ended?,null,Incorrect Stanza Parsing
+18,When the production of Alpine Fir (Abies lasiocarpa) ended?,null,Incorrect partial DRS
+19,When the production of Amazon Region Series ended?,null,Incorrect Stanza Parsing
+20,When the production of Americana ended?,true,Ok
+21,When the production of Anagama ended?,true,Ok
+22,When the production of Andre Joseph Villard ended?,true,Ok
+23,When the production of Animal Music for the Spheres ended?,null,Incorrect partial DRS
+24,When the production of Anne Hume Shippen ended?,true,Ok
+25,When the production of Annecy ended?,true,Ok
+26,When the production of Appian Wall ended?,true,Ok
+27,When the production of Arizona Landscape ended?,true,Ok
+28,When the production of Artist's Palette ended?,null,Incorrect Stanza Parsing
+29,When the production of Artists on WPA ended?,null,Incorrect partial DRS
+30,When the production of Ashes in the Wind ended?,null,Incorrect partial DRS
+31,When the production of At Market ended?,null,Incorrect Stanza Parsing
+32,When the production of Atheneum Clapboard ended?,true,Ok
+33,When the production of August Memories ended?,true,Ok
+34,When the production of Autumn Still Life ended?,null,Incorrect Stanza Parsing
+35,"When the production of Autumn, Staten Island ended?",null,Incorrect partial DRS
+36,When the production of Aymara Girl ended?,true,Ok
+37,When the production of Baby in Pink with an Iron ended?,null,Incorrect partial DRS
+38,When the production of Backs Fronts Windows ended?,null,Incorrect partial DRS
+39,"When the production of Bali, Rice Market ended?",null,Incorrect partial DRS
+40,When the production of Ball Play (La Crosse) ended?,true,Ok
+41,"When the production of Ball-play Dance, Choctaw ended?",null,Incorrect partial DRS
+42,When the production of Ballerine ended?,true,Ok
+43,"When the production of Baltit, Hunza, Pakistan ended?",null,Incorrect Stanza Parsing
+44,"When the production of Bangor, Pennsylvania ended?",null,Incorrect partial DRS
+45,"When the production of Baton Rouge, Louisiana ended?",null,Incorrect partial DRS
+46,When the production of Battle Hymn of the Republic ended?,null,Incorrect Stanza Parsing
+47,When the production of Battleship Texas ended?,true,Ok
+48,When the production of Bear and Fish ended?,null,Incorrect partial DRS
+49,When the production of Belt with Jade Carving ended?,null,Incorrect partial DRS
+50,When the production of Benjamin A. Javits ended?,true,Ok
+51,When the production of Benjamin Rush Spencer ended?,true,Ok
+52,When the production of Between Poses ended?,null,Incorrect Stanza Parsing
+53,When the production of Black Fighter ended?,true,Ok
+54,When the production of Blackburn ended?,true,Ok
+55,When the production of Blood Grotto ended?,true,Ok
+56,When the production of Blue and Orange ended?,null,Incorrect partial DRS
+57,When the production of Bottle Form ended?,true,Ok
+58,When the production of Bottlecap Lion ended?,true,Ok
+59,"When the production of Boudoir, Chateau de Chaalis ended?",null,Incorrect partial DRS
+60,"When the production of Bouillabaisse, Barcelona ended?",null,Incorrect partial DRS
+61,When the production of Bowl (gold) ended?,true,Ok
+62,When the production of Branch and Nude Study ended?,null,Incorrect partial DRS
+63,"When the production of Bread Line, New York ended?",null,Incorrect partial DRS
+64,When the production of Breaking Down the Wild Horse ended?,null,Incorrect Stanza Parsing
+65,When the production of Broad Street ended?,true,Ok
+66,When the production of Brown Florentine Bowl ended?,null,Incorrect Stanza Parsing
+67,When the production of Bruce's House ended?,null,Incorrect Stanza Parsing
+68,When the production of Buck and Master ended?,null,Incorrect partial DRS
+69,When the production of Buffalo Hunter ended?,true,Ok
+70,When the production of Bull ended?,true,Ok
+71,When the production of Burlesque Show ended?,true,Ok
+72,When the production of C.W.A. Worker at Key Bridge ended?,null,Incorrect partial DRS
+73,"When the production of Cadet Chapel, West Point ended?",null,Incorrect partial DRS
+74,"When the production of Camper, Mendocino ended?",null,Incorrect partial DRS
+75,"When the production of Canada, U.S.A., Mexico ended?",null,Incorrect partial DRS
+76,When the production of Candelabra ended?,true,Ok
+77,When the production of Cape Point ended?,true,Ok
+78,When the production of Cardinal Grosbeak ended?,true,Ok
+79,"When the production of Carillon Tower, Chicago Fair ended?",null,Incorrect partial DRS
+80,When the production of Carolina Low Country ended?,null,Incorrect partial DRS
+81,When the production of Carolina ended?,true,Ok
+82,When the production of Cast of Characters ended?,null,Incorrect partial DRS
+83,When the production of Cast thy Anchor in Heaven ended?,null,Incorrect partial DRS
+84,"When the production of Castle Oberlahnstein, Rhine ended?",null,Incorrect partial DRS
+85,"When the production of Castle at Corfu, Greece ended?",null,Incorrect partial DRS
+86,When the production of Chalets by Jostedal Glacier ended?,null,Incorrect partial DRS
+87,When the production of Charles De Coster ended?,true,Ok
+88,"When the production of Chatham House, Charlotte, NC ended?",null,Incorrect partial DRS
+89,When the production of Christmas in Paris ended?,null,Incorrect partial DRS
+90,When the production of Churn ended?,true,Ok
+91,When the production of City Hall ended?,true,Ok
+92,When the production of Classical Landscape ended?,true,Ok
+93,When the production of Cliffside Church ended?,true,Ok
+94,When the production of Collection of Curious Spoons ended?,null,Incorrect partial DRS
+95,When the production of Come to the Moon ended?,null,Incorrect partial DRS
+96,When the production of Commanche Warrior ended?,true,Ok
+97,When the production of Concept ended?,true,Ok
+98,When the production of Conde Duque d'Olivarez ended?,true,Ok
+99,When the production of Confidences ended?,true,Ok
+100,When the production of Conradina verticillata ended?,true,Ok
+101,When the production of Container Cover ended?,true,Ok
+102,When the production of Cosmic Colonies ended?,false,Incorrect Query Ontology Representation
+103,When the production of Country Kitchen ended?,true,Ok
+104,"When the production of Couple Dancing, New York ended?",null,Incorrect partial DRS
+105,When the production of Cubist Analysis ended?,true,Ok
+106,When the production of Cyclist ended?,true,Ok
+107,When the production of Damascus Costume ended?,true,Ok
+108,"When the production of Danube, an Old Mill ended?",null,Incorrect partial DRS
+109,When the production of Decoration Medal ended?,true,Ok
+110,When the production of Defense de Stationner ended?,true,Ok
+111,When the production of Defiance ended?,true,Ok
+112,When the production of Dematerialization ended?,true,Ok
+113,When the production of Design for Carving ended?,null,Incorrect partial DRS
+114,When the production of Design for Living ended?,null,Incorrect partial DRS
+115,When the production of Dining Chair ended?,true,Ok
+116,When the production of Dockyard ended?,true,Ok
+117,When the production of Domed Building with Flags ended?,null,Incorrect partial DRS
+118,When the production of Down to the Sea Again ended?,null,Incorrect Stanza Parsing
+119,When the production of Dr. Edward R. Baldwin ended?,true,Ok
+120,When the production of Drawing Houses ended?,true,Ok
+121,When the production of Driver's Seat ended?,null,Incorrect Stanza Parsing
+122,When the production of Dry Dock Men ended?,true,Ok
+123,"When the production of Ed. Hubbard, American South ended?",null,Incorrect partial DRS
+124,When the production of Eddyville ended?,true,Ok
+125,When the production of Edge of Forest ended?,null,Incorrect partial DRS
+126,When the production of El Fireboy y El Mingo ended?,null,Incorrect Stanza Parsing
+127,When the production of Elihu Root ended?,true,Ok
+128,When the production of Elizabeth Gibson Powers ended?,null,Incorrect partial DRS
+129,When the production of Elizabeth Tuckerman Salisbury ended?,true,Ok
+130,When the production of Elk (Trucks) ended?,true,Ok
+131,When the production of Elsie Clough Street ended?,true,Ok
+132,When the production of Elysian Fields ended?,true,Ok
+133,When the production of Emperor of Norfolk ended?,null,Incorrect partial DRS
+134,When the production of Estes Park ended?,true,Ok
+135,When the production of Faith ended?,true,Ok
+136,When the production of Family and Friends ended?,null,Incorrect partial DRS
+137,When the production of Farewell ended?,true,Ok
+138,When the production of Farm Interior ended?,true,Ok
+139,When the production of Father and Son ended?,null,Incorrect partial DRS
+140,When the production of Feast Day: San Juan Pueblo ended?,null,Incorrect partial DRS
+141,When the production of Female Nude before Mirror ended?,null,Incorrect Stanza Parsing
+142,"When the production of Fenced Yard, Wellsville, Ohio ended?",null,Incorrect partial DRS
+143,When the production of Field Falls ended?,true,Ok
+144,When the production of Field of Wheat Shock ended?,null,Incorrect partial DRS
+145,When the production of Figure in the Flood ended?,null,Incorrect partial DRS
+146,When the production of Figures and Rabbit in a Boat ended?,null,Incorrect partial DRS
+147,When the production of Firelight ended?,true,Ok
+148,When the production of First Sight of Alexandria ended?,null,Incorrect partial DRS
+149,When the production of Fish Peddler ended?,true,Ok
+150,When the production of Fisherman's Lunch ended?,null,Incorrect Stanza Parsing
+151,When the production of Flood Victims ended?,true,Ok
+152,When the production of Flower to Teacher ended?,null,Incorrect partial DRS
+153,When the production of Fly Fishing Medal ended?,null,Incorrect Stanza Parsing
+154,When the production of Follow Me ended?,false,Incorrect Query Ontology Representation
+155,When the production of Ford the Fiddler ended?,null,Incorrect partial DRS
+156,When the production of Forest Interior with Stream ended?,null,Incorrect partial DRS
+157,When the production of Found Fragment ended?,true,Ok
+158,When the production of Frances Perkins ended?,true,Ok
+159,"When the production of Fremont Street, Las Vegas ended?",null,Incorrect partial DRS
+160,When the production of French Money ended?,true,Ok
+161,When the production of Fruit in a Bowl ended?,null,Incorrect partial DRS
+162,When the production of Gardens of China I ended?,null,Incorrect partial DRS
+163,When the production of Gathering of black men ended?,null,Incorrect partial DRS
+164,When the production of George Cochran Lambdin ended?,true,Ok
+165,When the production of German Lady ended?,true,Ok
+166,When the production of Gesture ended?,true,Ok
+167,When the production of Gilia linanthus parviflorus ended?,null,Incorrect Stanza Parsing
+168,When the production of Girl in a Pink Dress ended?,null,Incorrect partial DRS
+169,When the production of Girl with Bird ended?,null,Incorrect partial DRS
+170,When the production of Girls in Conversation ended?,null,Incorrect partial DRS
+171,"When the production of Glove and Shoe, New York ended?",null,Incorrect partial DRS
+172,When the production of Glyph ended?,true,Ok
+173,When the production of Goat and Cottage ended?,null,Incorrect partial DRS
+174,When the production of Good Friday Morning ended?,true,Ok
+175,When the production of Governor for Steam Engines ended?,null,Incorrect partial DRS
+176,When the production of Granadias ended?,true,Ok
+177,When the production of Grandma Moran ended?,true,Ok
+178,When the production of Group Along the Road ended?,null,Incorrect partial DRS
+179,When the production of Harvest Time ended?,true,Ok
+180,When the production of Head of Osage Indian ended?,null,Incorrect partial DRS
+181,When the production of Head of a Woman in Jerusalem ended?,null,Incorrect partial DRS
+182,"When the production of Heat Exhaustion, Ramsey Unit ended?",null,Incorrect partial DRS
+183,When the production of Heating Stove ended?,true,Ok
+184,When the production of Hermit Crab ended?,true,Ok
+185,"When the production of High Cliff, Coast of Maine ended?",null,Incorrect partial DRS
+186,When the production of High Cost of Living ended?,null,Incorrect partial DRS
+187,When the production of Hilly Landscape ended?,true,Ok
+188,When the production of Hole in One ended?,null,Incorrect partial DRS
+189,When the production of Honeymoon Motel ended?,true,Ok
+190,"When the production of Horeb, Egypt ended?",null,Incorrect partial DRS
+191,When the production of Horse's Anatomy ended?,null,Incorrect Stanza Parsing
+192,When the production of Horses and Men ended?,null,Incorrect partial DRS
+193,When the production of Hot Dog Stand ended?,true,Ok
+194,When the production of Hudson Bridge ended?,true,Ok
+195,When the production of Hypnotic: GOOD SWEET WOMAN ended?,null,Incorrect partial DRS
+196,When the production of Ideas ended?,true,Ok
+197,When the production of Il Penseroso ended?,true,Ok
+198,When the production of Impressions ended?,true,Ok
+199,When the production of In Exile ended?,null,Incorrect Stanza Parsing
+200,When the production of In Flight ended?,null,Incorrect Stanza Parsing
+201,When the production of Interior with Three Pears ended?,null,Incorrect partial DRS
+202,When the production of Interlocked Forms ended?,true,Ok
+203,When the production of Into the Light ended?,null,Incorrect Stanza Parsing
+204,When the production of Into the Valley ended?,null,Incorrect Stanza Parsing
+205,When the production of James Viscount Bryce ended?,true,Ok
+206,When the production of Jazz - the New Possession ended?,null,Incorrect Stanza Parsing
+207,When the production of Jeune Faune ended?,true,Ok
+208,When the production of John Henry's Funeral ended?,null,Incorrect Stanza Parsing
+209,When the production of Jonathan Jones Wheeler ended?,true,Ok
+210,When the production of Jupiter Olympus ended?,true,Ok
+211,When the production of Kimono Vases: Evening ended?,null,Incorrect partial DRS
+212,When the production of L' Auberge a Rome ended?,null,Incorrect partial DRS
+213,When the production of La Vierge ended?,true,Ok
+214,When the production of Ladies of the Evening ended?,null,Incorrect partial DRS
+215,When the production of Lady with Blue Hair Ribbon ended?,null,Incorrect partial DRS
+216,When the production of Landscape H ended?,null,Incorrect partial DRS
+217,When the production of Landscape with Clouds ended?,null,Incorrect partial DRS
+218,When the production of Larry Levan (snake) ended?,true,Ok
+219,When the production of Last Tree ended?,true,Ok
+220,When the production of Laura at Fifteen ended?,null,Incorrect partial DRS
+221,When the production of Leda and the Necrophilic Swan ended?,null,Incorrect partial DRS
+222,"When the production of Left Bank Barbershop, Paris ended?",null,Incorrect Stanza Parsing
+223,When the production of Legato ended?,true,Ok
+224,When the production of Les Poilus ended?,true,Ok
+225,When the production of Levee Farms ended?,true,Ok
+226,When the production of Life Go On ended?,null,Incorrect partial DRS
+227,When the production of Lobelia Kalmii ended?,true,Ok
+228,When the production of Long Island ended?,true,Ok
+229,When the production of Long Lesson I ended?,null,Incorrect partial DRS
+230,When the production of Long-Horn Steers ended?,false,Incorrect Query Ontology Representation
+231,When the production of Lotus puberulus ended?,true,Ok
+232,When the production of Louis Siebert ended?,true,Ok
+233,When the production of Loulie's Hand ended?,null,Incorrect Stanza Parsing
+234,When the production of Love (study for) ended?,null,Incorrect partial DRS
+235,When the production of Lucy Findley ended?,true,Ok
+236,When the production of Lying in Wait ended?,null,Incorrect partial DRS
+237,When the production of Maine Pump ended?,true,Ok
+238,When the production of Man in a Blue Suit ended?,null,Incorrect partial DRS
+239,When the production of Man on Bench in Town ended?,null,Incorrect partial DRS
+240,When the production of Mandalas ended?,true,Ok
+241,When the production of Maquette for Chorale ended?,null,Incorrect partial DRS
+242,When the production of Maquette for Nalia ended?,null,Incorrect partial DRS
+243,When the production of Maquette for Southern Wall ended?,null,Incorrect partial DRS
+244,When the production of Margaret Ethel Wall ended?,true,Ok
+245,When the production of Marianne Girard ended?,true,Ok
+246,When the production of Martigues ended?,true,Ok
+247,When the production of Mary Hopkinson ended?,true,Ok
+248,When the production of Massimo Plates ended?,true,Ok
+249,When the production of Member of the Yates Family ended?,null,Incorrect partial DRS
+250,When the production of Memory Form ended?,true,Ok
+251,When the production of Mevagissey ended?,true,Ok
+252,When the production of Midsummer ended?,true,Ok
+253,When the production of Miniature Ship ended?,true,Ok
+254,When the production of Mold of a Woman's Hand ended?,null,Incorrect partial DRS
+255,When the production of Morata ended?,true,Ok
+256,When the production of Mosaic glass ended?,true,Ok
+257,When the production of Mounette ended?,true,Ok
+258,When the production of Mount Orizaba ended?,true,Ok
+259,When the production of Mountain Climber ended?,true,Ok
+260,When the production of Mountain Pool ended?,true,Ok
+261,When the production of Mrs. James Greenleaf ended?,true,Ok
+262,When the production of Mt. Rushmore ended?,true,Ok
+263,When the production of Mules ended?,true,Ok
+264,When the production of My Body Sees You ended?,null,Incorrect Stanza Parsing
+265,"When the production of My Place, Kingston, Ohio ended?",null,Incorrect partial DRS
+266,When the production of Myrtle Booth and Her Trees ended?,null,Incorrect partial DRS
+267,When the production of Mystic Bird ended?,true,Ok
+268,When the production of Napeague ended?,true,Ok
+269,When the production of Napoleon as Emperor ended?,null,Incorrect partial DRS
+270,When the production of Natalie Clifford Barney ended?,true,Ok
+271,When the production of Natalie at Seven ended?,null,Incorrect partial DRS
+272,When the production of Natural Bridge ended?,true,Ok
+273,When the production of Newman's House ended?,null,Incorrect Stanza Parsing
+274,When the production of Nigger Quarters ended?,true,Ok
+275,When the production of Night Scene I ended?,null,Incorrect partial DRS
+276,When the production of Night Waves ended?,true,Ok
+277,When the production of Night at Mattoon ended?,null,Incorrect partial DRS
+278,When the production of Ninth Ave. Church ended?,null,Incorrect Stanza Parsing
+279,When the production of No Parking Here Any Time ended?,null,Incorrect Stanza Parsing
+280,When the production of Non Tucket Rib ended?,null,Incorrect Stanza Parsing
+281,When the production of Nora Holt ended?,true,Ok
+282,When the production of Novice Birdwatcher ended?,true,Ok
+283,When the production of Nude (Diana) ended?,true,Ok
+284,When the production of Nude and Iris ended?,null,Incorrect partial DRS
+285,When the production of Nude on a Red Sofa ended?,null,Incorrect partial DRS
+286,When the production of Nude with Dove and Flowers ended?,null,Incorrect partial DRS
+287,"When the production of Nude, Dog, Clouds ended?",null,Incorrect partial DRS
+288,When the production of Nude: Study of a Young Girl ended?,null,Incorrect partial DRS
+289,When the production of Oak Tree ended?,true,Ok
+290,When the production of Ode to Today ended?,null,Incorrect partial DRS
+291,When the production of Old Florence ended?,true,Ok
+292,When the production of Old Mesilla Plaza ended?,true,Ok
+293,When the production of On Fire ended?,null,Incorrect Stanza Parsing
+294,When the production of On the Soda Butte Creek ended?,null,Incorrect Stanza Parsing
+295,When the production of One Day in June ended?,null,Incorrect partial DRS
+296,When the production of Open Ended Smoker ended?,true,Ok
+297,When the production of Open ended?,true,Ok
+298,When the production of Ostend ended?,true,Ok
+299,When the production of Ouray ended?,true,Ok
+300,"When the production of Over the Harbor, Centerport ended?",null,Incorrect Stanza Parsing
+301,"When the production of Pan de Asugar, Brasil ended?",null,Incorrect partial DRS
+302,When the production of Parrot ended?,true,Ok
+303,When the production of Peaceful Valley ended?,true,Ok
+304,When the production of Pediocaetes Columbianus ended?,true,Ok
+305,When the production of Peter (A Young English Girl) ended?,null,Incorrect partial DRS
+306,"When the production of Philippi, West Virginia ended?",null,Incorrect partial DRS
+307,When the production of Pickle Eater of the Nile ended?,null,Incorrect partial DRS
+308,"When the production of Pig Market, Mexico ended?",null,Incorrect partial DRS
+309,When the production of Pioneers ended?,true,Ok
+310,"When the production of Pipe Dance, Assiniboine ended?",null,Incorrect partial DRS
+311,When the production of Plodding Homeward ended?,true,Ok
+312,When the production of Plums ended?,true,Ok
+313,When the production of Pollywog Decoy ended?,true,Ok
+314,When the production of Polo Players ended?,true,Ok
+315,When the production of Portrait of Helen ended?,null,Incorrect partial DRS
+316,When the production of Portrait of Miss Hoe ended?,null,Incorrect partial DRS
+317,When the production of Portrait of Nathaniel Searle ended?,null,Incorrect partial DRS
+318,When the production of Post Setter ended?,true,Ok
+319,When the production of Potato Planting ended?,true,Ok
+320,When the production of Prince Albert ended?,true,Ok
+321,When the production of Prizefighters ended?,true,Ok
+322,When the production of Proserpine (fragment) ended?,true,Ok
+323,When the production of Provincetown Bacchanalia ended?,true,Ok
+324,When the production of Pure Plantainum ended?,true,Ok
+325,When the production of Pursuit of Culture ended?,null,Incorrect partial DRS
+326,When the production of Quadra ended?,true,Ok
+327,When the production of Radiante ended?,true,Ok
+328,When the production of Rain in the Mountains ended?,null,Incorrect partial DRS
+329,When the production of Randy Bias ended?,true,Ok
+330,When the production of Raynolds Place ended?,false,Incorrect Query Ontology Representation
+331,When the production of Reclining ended?,true,Ok
+332,When the production of Rectangular Plate ended?,true,Ok
+333,When the production of Red Fern ended?,true,Ok
+334,When the production of Red Flower ended?,true,Ok
+335,When the production of Reducing (Reducing Exercises) ended?,null,Incorrect partial DRS
+336,When the production of Reflection with Rugs ended?,null,Incorrect partial DRS
+337,"When the production of Rehearsal, Yiddish Theatre ended?",null,Incorrect partial DRS
+338,When the production of Renwick Gate ended?,true,Ok
+339,When the production of Rev. Joseph Pilmore ended?,true,Ok
+340,When the production of Reverend Reid ended?,true,Ok
+341,When the production of Right to the Jaw ended?,null,Incorrect partial DRS
+342,"When the production of Rio della Senza, Venice ended?",null,Incorrect Stanza Parsing
+343,When the production of Road through the Labyrinth ended?,null,Incorrect partial DRS
+344,When the production of Robert Broome ended?,true,Ok
+345,When the production of Rock Garden I ended?,null,Incorrect partial DRS
+346,When the production of Romare Bearden ended?,true,Ok
+347,When the production of Ronald Reagan Inaugural Medal ended?,null,Incorrect Stanza Parsing
+348,When the production of Room for One More ended?,null,Incorrect Stanza Parsing
+349,When the production of Rosanna ended?,true,Ok
+350,"When the production of Rosenwald Museum, Chicago ended?",null,Incorrect partial DRS
+351,"When the production of Safad, in Galilee ended?",null,Incorrect partial DRS
+352,When the production of Sailor ended?,true,Ok
+353,When the production of Salton Sea (Triangle) ended?,true,Ok
+354,When the production of Samuel Hall Gregory ended?,true,Ok
+355,When the production of Samurai ended?,true,Ok
+356,When the production of Sarah's Reach ended?,null,Incorrect Stanza Parsing
+357,"When the production of Saratoga Springs, New York ended?",null,Incorrect partial DRS
+358,When the production of Sasha ended?,true,Ok
+359,When the production of Sea Wall ended?,true,Ok
+360,When the production of Season's End ended?,null,Incorrect Stanza Parsing
+361,When the production of Seated Woman in Pink Blouse ended?,null,Incorrect partial DRS
+362,When the production of Second Opinion ended?,true,Ok
+363,When the production of Self-Portrait with Hat ended?,null,Incorrect Stanza Parsing
+364,When the production of Self-Portrait with Red Scarf ended?,null,Incorrect Stanza Parsing
+365,When the production of Sewing Scissors ended?,true,Ok
+366,When the production of Shadow Magic ended?,true,Ok
+367,"When the production of Sheepyard, Moonlight ended?",null,Incorrect partial DRS
+368,"When the production of Shells, Buoys and Bottle ended?",null,Incorrect partial DRS
+369,When the production of Side Door ended?,true,Ok
+370,When the production of Sister Ella ended?,true,Ok
+371,When the production of Sitting Nude ended?,true,Ok
+372,When the production of Six Copper Photo-Plates ended?,null,Incorrect Stanza Parsing
+373,When the production of Sky Totem ended?,true,Ok
+374,When the production of Small Gull Sleeping ended?,true,Ok
+375,"When the production of Small Town, Main Street ended?",null,Incorrect partial DRS
+376,When the production of Smithsonian Castle ended?,true,Ok
+377,When the production of Snow Clearance ended?,true,Ok
+378,When the production of Snowballs ended?,true,Ok
+379,When the production of Sonar ended?,true,Ok
+380,When the production of Sophia ended?,true,Ok
+381,When the production of Sorrows of Departure ended?,null,Incorrect partial DRS
+382,When the production of South of Lincoln Square ended?,null,Incorrect partial DRS
+383,"When the production of Sphinx, Thames, London ended?",null,Incorrect partial DRS
+384,When the production of Spice Tower ended?,true,Ok
+385,When the production of Split Encounter ended?,true,Ok
+386,When the production of Sprinter ended?,true,Ok
+387,When the production of St. Valery-Blow-Wild Thyme ended?,null,Incorrect Stanza Parsing
+388,When the production of Standing Articulated Figure ended?,true,Ok
+389,When the production of Standing Artist ended?,true,Ok
+390,When the production of Startled Mallard ended?,true,Ok
+391,When the production of Stepping into Shoes ended?,null,Incorrect partial DRS
+392,When the production of Still Life with Fan and Roses ended?,null,Incorrect partial DRS
+393,When the production of Still Life with Pineapple ended?,null,Incorrect partial DRS
+394,"When the production of Street Crowds, Tunisia ended?",null,Incorrect partial DRS
+395,When the production of Street in Joliet ended?,null,Incorrect partial DRS
+396,When the production of Striped Bass ended?,true,Ok
+397,When the production of Strong Left Hand ended?,true,Ok
+398,When the production of Structure ended?,true,Ok
+399,When the production of Study for Baits ended?,null,Incorrect partial DRS
+400,When the production of Study for the Disciple Peter ended?,null,Incorrect partial DRS
+401,When the production of Study in Auburn ended?,null,Incorrect partial DRS
+402,When the production of Summer Horizon ended?,true,Ok
+403,When the production of Sun Flowers ended?,true,Ok
+404,When the production of Sunlight ended?,true,Ok
+405,When the production of Sunny Slopes ended?,true,Ok
+406,When the production of Sunside Stock & Poultry Farm ended?,null,Incorrect Stanza Parsing
+407,When the production of Surrational Zeus ended?,true,Ok
+408,When the production of Suzanna ended?,true,Ok
+409,When the production of Swedish Lady ended?,true,Ok
+410,When the production of Synagogue ended?,true,Ok
+411,When the production of THE FREEDOM STOMPERS ended?,true,Ok
+412,When the production of Teacher Benares ended?,true,Ok
+413,When the production of Tetuan ended?,true,Ok
+414,When the production of Texas Cavalry Medal (obverse) ended?,null,Incorrect Stanza Parsing
+415,When the production of The Beauty Parlor ended?,true,Ok
+416,When the production of The Birdlover ended?,true,Ok
+417,When the production of The Black Hat ended?,true,Ok
+418,When the production of The Bottle ended?,true,Ok
+419,When the production of The Brothers ended?,true,Ok
+420,When the production of The Cat ended?,true,Ok
+421,When the production of The Committee ended?,true,Ok
+422,When the production of The Corner Butcher ended?,true,Ok
+423,When the production of The Enchanted Pool ended?,true,Ok
+424,When the production of The Fruit Wagon ended?,true,Ok
+425,When the production of The Gilded Age ended?,true,Ok
+426,When the production of The Good Luck Branch ended?,true,Ok
+427,When the production of The Grind-Stone ended?,null,Incorrect Stanza Parsing
+428,When the production of The Indian Ghost Dancer ended?,true,Ok
+429,When the production of The Isabelle ended?,true,Ok
+430,When the production of The Joseph Henry Medal ended?,true,Ok
+431,When the production of The Lobster Fisherman ended?,true,Ok
+432,"When the production of The Mangrove Coast, Florida ended?",null,Incorrect partial DRS
+433,When the production of The Mink Trapper ended?,true,Ok
+434,When the production of The Phantom ended?,true,Ok
+435,When the production of The Presses ended?,true,Ok
+436,When the production of The Race ended?,true,Ok
+437,When the production of The Restaurant ended?,true,Ok
+438,When the production of The Rough Camp ended?,true,Ok
+439,When the production of The Shaded Walk ended?,true,Ok
+440,When the production of The Star Barber Shop ended?,null,Incorrect Stanza Parsing
+441,When the production of The Sun in Sung Time ended?,null,Incorrect partial DRS
+442,When the production of The Things That Are Caesar's ended?,null,Incorrect Stanza Parsing
+443,When the production of The Three Chickens ended?,true,Ok
+444,When the production of The True Mother Goose ended?,true,Ok
+445,When the production of The Two-Step ended?,null,Incorrect Stanza Parsing
+446,When the production of The Young Sabot Maker ended?,true,Ok
+447,When the production of Third and Rhode Island ended?,null,Incorrect partial DRS
+448,When the production of This is the Enemy ended?,null,Incorrect Stanza Parsing
+449,When the production of Thomas Hopkinson ended?,true,Ok
+450,When the production of Tibet ended?,true,Ok
+451,When the production of Tide Rip ended?,true,Ok
+452,When the production of Tongue River Cliffs (In Camp) ended?,null,Incorrect partial DRS
+453,When the production of Totem ended?,true,Ok
+454,"When the production of Tower at Enkhuisen, Holland ended?",null,Incorrect Stanza Parsing
+455,When the production of Town Wharf ended?,true,Ok
+456,When the production of Toy Bicycle Rider ended?,null,Incorrect Stanza Parsing
+457,"When the production of Traders, Gallup, N.M. ended?",null,Incorrect partial DRS
+458,When the production of Trapeze Girl ended?,true,Ok
+459,When the production of Trees Against the Night Sky ended?,null,Incorrect partial DRS
+460,When the production of Triggered ended?,null,Incorrect partial DRS
+461,When the production of Tropic Moon ended?,true,Ok
+462,When the production of Tur ended?,true,Ok
+463,When the production of Twilight after the Rain ended?,null,Incorrect Stanza Parsing
+464,When the production of Two Beds ended?,true,Ok
+465,When the production of Two Bottles ended?,true,Ok
+466,When the production of Two Cedars ended?,true,Ok
+467,When the production of Two Magnolias ended?,true,Ok
+468,When the production of Two Men Pushing Cart ended?,null,Incorrect partial DRS
+469,When the production of Two Sisters with Doll ended?,null,Incorrect partial DRS
+470,When the production of Undaunted (Torso) ended?,true,Ok
+471,When the production of Under Flowers ended?,null,Incorrect Stanza Parsing
+472,"When the production of Upper Falls, Yellowstone ended?",null,Incorrect partial DRS
+473,When the production of Urban Self-Projection ended?,null,Incorrect Stanza Parsing
+474,When the production of Valley of the Swiftcurrent ended?,null,Incorrect partial DRS
+475,When the production of Veronica wormskjoldii ended?,true,Ok
+476,When the production of Veronica's Veil ended?,null,Incorrect Stanza Parsing
+477,When the production of Vertical Bridge ended?,true,Ok
+478,When the production of Vertical Roll ended?,true,Ok
+479,When the production of Veterans ended?,true,Ok
+480,When the production of Victory Overseas ended?,true,Ok
+481,When the production of Victory Wreath ended?,true,Ok
+482,When the production of Virga ended?,true,Ok
+483,When the production of Vorahnung (Premonition) ended?,true,Ok
+484,When the production of Wall of Light Blue ended?,null,Incorrect partial DRS
+485,When the production of Ward Heelers ended?,true,Ok
+486,When the production of Wayfarers ended?,true,Ok
+487,When the production of Wealth ended?,true,Ok
+488,When the production of West Neck Beach (Two Figures) ended?,null,Incorrect Stanza Parsing
+489,When the production of White Tanks ended?,true,Ok
+490,When the production of White man on wagon ended?,null,Incorrect partial DRS
+491,When the production of Wild Flowers ended?,true,Ok
+492,When the production of William Thaw ended?,true,Ok
+493,"When the production of Wine Cart, Paris ended?",null,Incorrect partial DRS
+494,When the production of Winter Bluebirds ended?,true,Ok
+495,When the production of Winter Skating in New Jersey ended?,null,Incorrect partial DRS
+496,When the production of Woman Washing Clothes ended?,null,Incorrect Stanza Parsing
+497,When the production of Woman in a Yellow Vest ended?,null,Incorrect partial DRS
+498,When the production of World Trade Center ended?,null,Incorrect Stanza Parsing
+499,When the production of Young Michelangelo ended?,true,Ok
+500,When the production of Zurich ended?,true,Ok

@@ -1,0 +1,40 @@
+[
+    {
+        "question": "Which gave <Artwork> to the museum?",
+        "partialDRSs": " X1-give-gave-null,X2-which-Which-null,X3-<Artwork>-<Artwork>-a,X4-museum-museum-the, X1-subj-X2,X3-delightful-true,X3-has_name-<Artwork>,X1-obj-X3,X1-obl_to-X4, X1-give-gave-null,X2-which-Which-null,X3-<Artwork>-<Artwork>-a,X4-museum-museum-the, X1-subj-X2,X3-has_name-Delightful,X3-has_name-<Artwork>,X1-obj-X3,X1-obl_to-X4,",
+        "solution": {
+            "dEntities": [
+                "X1, give, gave, VERB, null, false, Give1, Give",
+                "X2, which, Which, PRON, null, false, GenericEntity2, GenericEntity",
+                "X3, <Artwork>, <Artwork>, PROPN, a, false, Artefact3, Artefact",
+                "X4, museum, museum, NOUN, the, false, GenericEntity4, GenericEntity",
+                "X5, null, null, null, null, false, Query5, Query",
+                "X6, null, null, null, null, false, Qualifier6, Qualifier"
+            ],
+            "dConditions": [
+                "X1, subj, X2, properties= [who_give] --- []",
+                "X3, delightful, true, properties= [] --- [has_name, has_text, who]",
+                "X3, has_name, <Artwork>, properties= [] --- [has_name, has_text, who]",
+                "X1, obj, X3, properties= [give_art] --- []",
+                "X1, obl_to, X4, properties= [give_to] --- []",
+                "X1, has_text, give, properties= [] --- [has_name, has_text, who]",
+                "X2, has_text, which, properties= [] --- [has_name, has_text, who]",
+                "X3, has_text, <Artwork>, properties= [] --- [has_name, has_text, who]",
+                "X4, has_text, museum, properties= [] --- [has_name, has_text, who]",
+                "X5, has_text, Query, properties= [] --- [has_name, has_text, who]",
+                "X6, has_text, Qualifier, properties= [] --- [has_name, has_text, who]",
+                "X6, has_name, null list, properties= [] --- [has_name, has_text, who]",
+                "X5, obj, X2, properties= [select] --- []",
+                "X5, subj, X6, properties= [qQualifier] --- []"
+            ],
+            "score": {
+                "numIndividuals": 6,
+                "numEntitiesOk": 0,
+                "numPropsOk": 20,
+                "numEntitiesNOk": 0,
+                "numClassesOk": 2
+            }
+        },
+        "query": " PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameGenericEntity2 ?GenericEntity2 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,\"<Artwork>\",\"i\")) . ?Give1 cidoc:P67i_is_referred_to_by ?GenericEntity2. ?GenericEntity2 cidoc:P2_has_type <http://vocab.getty.edu/aat/300026687>  . ?GenericEntity2 rdf:value ?snameGenericEntity2 . FILTER ( ?Give1 = ?Artefact3 ) }"
+    }
+]
