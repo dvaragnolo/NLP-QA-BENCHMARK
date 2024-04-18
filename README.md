@@ -1,5 +1,4 @@
 # NLP-QA-BENCHMARK
-This page contains the evaluation results for Question Answering system presented in _"An Ontology-Based Question-Answering, from Natural Language to SPARQL Query"_ Varagnolo D., Melo D., Rodrigues I. P. (2023).
 
 The architecture of the system includes a pipeline with three modules: 
 * Partial Semantic Representation, composed by two steps : the dependency parser of Stanza, and transformation into a set of partial Discourse Representation Structures (DRSs).
