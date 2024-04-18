@@ -20,6 +20,9 @@ The repository is organized as follows:
 * NicolaiGoon-CIDOC-QA-BENCHMARK - The evaluation results of 5000 questions, grouped into 10 different types of questions (each group with 500 questions). The system performance is evaluated both with NER and without NER to recognize SAAM's entity names. This question dataset was originally built by Nikos Gounakis, Michalis Mountantonakis, and Yannis Tzitzikas (2023) "Evaluating a Radius-based Pipeline for Question Answering over
 Cultural (CIDOC-CRM based) Knowledge Graphs" (in Proceedings of the 34th ACM Conference on Hypertext and Social Media, Rome, Italy, HT ’23, Association for Computing Machinery, New York, NY, USA, Article 24, https://doi.org/10.1145/3603163.3609067), and made available from https://github.com/NicolaiGoon/CIDOC-QA-BENCHMARK/.
 
+## Named Entity Recognition
+Before the Syntactic Analysis performed by the parser Stanza, a module of Named Entity Recognition is applied. The NER is performed by a Gazetter's technique, which implies a pattern matching of a gazetteer containing all the art works' label and artists' name. The pattern matching is made by longest match. The entity recognized is substituted by a placeholder, recognized as proper name (PROPN) by Stanza. The placeholder is replaced by the original term on the final SPARQL Query generated. In the directory and in the summary below, the results are presented with the use NER module (NER_true) and without it (NER_false).
+
 # SAAMs-50NLQuestions
 The 50 English questions are on artists and artefacts in the Smithsonian American Art Museum (SAAM) Knowledge Base.
 
@@ -167,7 +170,7 @@ The SAAMs-50q_results.json is organized as follows:
 * query = the generated SPARQL query of the question
 * GenQueryResponse = the system SAAM's SPARQL endpoint answer to the query
 * ManQueryResponse = the manual answer to the question
-* Gen.contains(Man) = (Boolean Value) True when the system's answer equals the manual answer.
+* Gen.contains(Man) = (Boolean Value) True when the system's answer equals the manual answer
   
 For instance, to the question "Which paintings did Leonard Ochtman create?" the complete information is presented as follows. 
 
@@ -296,77 +299,71 @@ Below is an example of the question's type Q1, "Which is the art type of <Artwor
 
 ### Qi_summary_NER_true.csv and Qi_summary_NER_false.csv, i=1..10
 
+The files are organized as follows:
+* Question = natural language question
+* Gen.contains(Man) = (Boolean Value) True when the system's answer equals the manual answer
+* Comment = In case of failure, information on the system module with an incorrect result
 
-In the CIDOC-QA-BENCHMARK repository, can be found the SPARQL template queries that sent to <https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum>. The placeholders {Art Work} and {Artist} are replaced with entities present in the KG. From original templates, we add the following filtrer on SPARQL Query to specify the label of Art Work or Artist).
 
+## Summary of the Evaluation Results
+A summary of the Question-Answering System performance evaluation results obtained in each dataset Qi, i=1..10, is presented below.
 
-### Named Entity Recognition
-Before the Syntactic Analysis performed by the parser Stanza, a module of Named Entity Recognition is applied. The NER is performed by a Gazetter's technique, which implies a pattern matching of a gazetteer containing all the art works' label and artists' name. The pattern matching is made by longest match. The entity recognized is substituted by a placeholder, recognized as proper name (PROPN) by Stanza. The placeholder is replaced by the original term on the final SPARQL Query generated. In the directory and in the summary below, the results are presented with the use NER module (NER_true) and without it (NER_false).
-
-### Results
-The results can be found on the directory CIDOC-QA-BENCHMARK. Each file is csv formatted. Files named "summary" show the results as the table previously presented in "System Result Set". Files named "results" show the results as the files from the evaluation set, without the columns "Gen Query Response" and "Man Data Response".
-
-#### Q1 - Which is the art type of {Art Work}?
+### Q1 - Which is the art type of {Art Work}?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               44.0%            |
 
-#### Q2 - What was the material used in the {Art Work}?
+### Q2 - What was the material used in the {Art Work}?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               44.8%            |
 
-#### Q3 - Who gave the {Art Work} to the museum?
+### Q3 - Who gave the {Art Work} to the museum?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               50.4%            |
 
-#### Q4 - Who is the creator of {Art Work}?
+### Q4 - Who is the creator of {Art Work}?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               55.6%            |
 
-#### Q5 - Which is the birth place of {Artist}?
+### Q5 - Which is the birth place of {Artist}?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               98.0%            |
 
-#### Q6 - When the production of {Art Work} started??
+### Q6 - When the production of {Art Work} started??
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               49.4%            |
 
-#### Q7 - When the production of {Art Work} ended?
+### Q7 - When the production of {Art Work} ended?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               53.8%            |
 
-#### Q8 - Which is the nationality of the creator of {Art Work}?
+### Q8 - Which is the nationality of the creator of {Art Work}?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               46.4%            |
 
-#### Q9 - Which is the birth place of the creator of {Art Work}?
+### Q9 - Which is the birth place of the creator of {Art Work}?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               44.8%            |
 
-#### Q10 - Which year died the creator of {Art Work}?
+### Q10 - Which year died the creator of {Art Work}?
 
 | N. Questions | % Correct Response with NER | % Correct Response without NER |
 |--------------|-----------------------------|--------------------------------|
 |      500     |             100.0%          |               56.0%            |
-
-
-
-
-
