@@ -98,8 +98,12 @@ For instance, to the question "Which paintings did Leonard Ochtman create?" the 
     ]
   }
 ```
-### Evaluation of the automatic answer
+### Evaluation of the Question-Answering System answer
 
+The SAAMs-50q_results.json is organized as follows:
+* Question = natural language question
+* Compare Results = (Boolean Value) True when the system's answer equals the manual answer.
+* Comment = In case of failure, information on the system module with an incorrect result
 
 | id | Question | Compare Results | Comment |
 | -- | -------- | ----------------- | ------- |
