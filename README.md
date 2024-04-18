@@ -76,8 +76,9 @@ The 50 English questions are on artists and artefacts in the Smithsonian America
 | What artefacts were made after 2000? |
 | Where did Mary go in 1900? |
 
-### Manual Validation Set 
-For each question, the manual validation set is a JSON file which includes the NL question and the SPARQL response of the manually created SPARQL query that answers the natural language question, i.e. for the question "Which paintings did Leonard Ochtman create?" the corresponding JSON object is the following: 
+### SAAM's answers to the Natural Language Questions dataset
+The SAAM's answer to each Natural Language Question is saved in JSON format.
+For instance, for the question "Which paintings did Leonard Ochtman create?" the information is presented as following 
 ```JSON
 {
     "question": "Which paintings did Leonard Ochtman create?",
