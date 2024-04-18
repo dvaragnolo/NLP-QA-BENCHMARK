@@ -6,7 +6,7 @@ Dora Melo (_dmelo@iscac.pt_), Coimbra Business School | ISCAC, Polytechnic Insti
 
 Irene Pimenta Rodrigues (_ipr@uevora.pt_), Department of Informatics, University of Évora, Portugal and NOVA Laboratory for Computer Science and Informatics, NOVA LINCS, Portugal
 
-# NLP-QA-BENCHMARK
+# Introduction
 
 This page presents a performance evaluation of a Question-Answering System that automatically translates Natural Language Questions into SPARQL queries, over the Smithsonian American Art Museum’s CIDOC-CRM representation. 
 
