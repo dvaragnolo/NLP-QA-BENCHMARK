@@ -20,8 +20,9 @@ The repository is organized as follows:
 * NicolaiGoon-CIDOC-QA-BENCHMARK - The evaluation results of 5000 questions, grouped into 10 different types of questions (each group with 500 questions). The system performance is evaluated both with NER and without NER to recognize SAAM's entity names. This question dataset was originally built by Nikos Gounakis, Michalis Mountantonakis, and Yannis Tzitzikas (2023) "Evaluating a Radius-based Pipeline for Question Answering over
 Cultural (CIDOC-CRM based) Knowledge Graphs" (in Proceedings of the 34th ACM Conference on Hypertext and Social Media, Rome, Italy, HT ’23, Association for Computing Machinery, New York, NY, USA, Article 24, https://doi.org/10.1145/3603163.3609067), and made available from https://github.com/NicolaiGoon/CIDOC-QA-BENCHMARK/.
 
-## Named Entity Recognition
-Before the Syntactic Analysis performed by the parser Stanza, a module of Named Entity Recognition is applied. The NER is performed by a Gazetter's technique, which implies a pattern matching of a gazetteer containing all the art works' label and artists' name. The pattern matching is made by longest match. The entity recognized is substituted by a placeholder, recognized as proper name (PROPN) by Stanza. The placeholder is replaced by the original term on the final SPARQL Query generated. In the directory and in the summary below, the results are presented with the use NER module (NER_true) and without it (NER_false).
+## Named Entity Recognition (NER)
+A Named Entity Recognition (NER) module is applied to recognize and tag the Artists and Artefacts within SAAM's knowledge base. 
+The NER module uses a Gazetter containing all the artwork and artist names.
 
 # SAAMs-50NLQuestions
 The 50 English questions are on artists and artefacts in the Smithsonian American Art Museum (SAAM) Knowledge Base.
