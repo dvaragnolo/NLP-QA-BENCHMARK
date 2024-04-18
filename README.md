@@ -78,7 +78,7 @@ The 50 English questions are on artists and artefacts in the Smithsonian America
 
 ### SAAM's answers to the Natural Language Questions dataset
 The SAAM's answer to each Natural Language Question is saved in JSON format.
-For instance, for the question "Which paintings did Leonard Ochtman create?" the information is presented as following 
+For instance, for the question "Which paintings did Leonard Ochtman create?" the information is presented as follows. 
 ```JSON
 {
     "question": "Which paintings did Leonard Ochtman create?",
