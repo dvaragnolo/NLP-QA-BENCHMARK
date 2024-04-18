@@ -1,6 +1,6 @@
 # Authors
 
-Davide Varagnolo (_,d.varagnolo@studenti.unipi.i_), Department of Informatics, University of Évora, Portugal and NOVA Laboratory for Computer Science and Informatics, NOVA LINCS, Portugal
+Davide Varagnolo (_d.varagnolo@studenti.unipi.i_), Department of Informatics, University of Évora, Portugal and NOVA Laboratory for Computer Science and Informatics, NOVA LINCS, Portugal
 
 Dora Melo (_dmelo@iscac.pt_), Coimbra Business School | ISCAC, Polytechnic Institute of Coimbra, Portugal, CEOS.PP Coimbra, Polytechnic Institute of Coimbra, Portugal, and NOVA Laboratory for Computer Science and Informatics, NOVA LINCS, Portugal
 
