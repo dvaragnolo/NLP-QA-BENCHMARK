@@ -23,7 +23,6 @@ Cultural (CIDOC-CRM based) Knowledge Graphs" (in Proceedings of the 34th ACM Con
 ## SAAMs-50NLQuestions
 The 50 English questions are on artists and artefacts in the Smithsonian American Art Museum (SAAM) Knowledge Base.
 
-### Questions Set - 50 NL Questions
 | Question |
 | ------- |
 | Who is Darryl Abraham? |
