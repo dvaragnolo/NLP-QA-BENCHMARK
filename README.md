@@ -156,7 +156,7 @@ The SAAMs-50q_results.json is organized as follows:
 | 47 | Who was born before 1950? | True |  |
 | 48 | Who was born in 1950 or in 1970? | False | Partial Query Ontology Representation |
 | 49 | What artefacts were made after 2000? | True |  |
-| 50 | Where did Mary go in 1900? | True | Incorrect Query Ontology Representation |
+| 50 | Where did Mary go in 1900? | False | Incorrect Query Ontology Representation |
 
 The file presents the results of all the sub-modules of the system: the Partial Semantic Representation, the Query Ontology Representation and the Genererated SPARQL Query. Moreover, are presented the SPARQL Response of the generated query, the SPARQL Response of the manual validation set and the comparation result between thw two responses. The comparation is boolean and it gives true if the SPARQL Response of the generated query contains the the SPARQL Response of the manual validation set.
 Below, the result of the question "Which paintings did Leonard Ochtman create?":
