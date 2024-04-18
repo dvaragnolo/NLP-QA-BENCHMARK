@@ -247,7 +247,8 @@ Additionally, the Question-Answering System performance is evaluated using a dat
 The evaluation results of 5000 questions, were grouped into 10 different types of questions (each group with 500 questions). The system performance is evaluated both with NER and without NER to recognize SAAM's entity names. This question dataset was originally built by Nikos Gounakis, Michalis Mountantonakis, and Yannis Tzitzikas (2023) "Evaluating a Radius-based Pipeline for Question Answering over Cultural (CIDOC-CRM based) Knowledge Graphs" (in Proceedings of the 34th ACM Conference on Hypertext and Social Media, Rome, Italy, HT ’23, Association for Computing Machinery, New York, NY, USA, Article 24, https://doi.org/10.1145/3603163.3609067), and made available from https://github.com/NicolaiGoon/CIDOC-QA-BENCHMARK/.
 
 ## Qi, i = 1..10
-Each Qi, i=1..10, contains a type of question that is represented in the file Qi_results.json, 
+Each Qi, i=1..10, contains a type of question that is represented in the file Qi_results.json, and the system performance evaluation results with the use of a NER and without a NER, respective files  Qi_summary_NER_true.csv and Qi_summary_NER_false.csv, over 500 questions for each Qi.
+
 
 ### Qi_result.json, i=1..10
 
@@ -257,7 +258,7 @@ Each Qi_result.json is organized as follows:
 * solution = the question Query-Ontology representation
 * query = the generated SPARQL query of the question
 
-Below is an example of the question type Q1, "Which is the art type of <Artwork>?".
+Below is an example of the question's type Q1, "Which is the art type of <Artwork>?".
 ```JSON
 {
         "question": "Which is the art type of <Artwork>?",
