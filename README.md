@@ -291,6 +291,7 @@ Below is an example of the question type Q1, "Which is the art type of <Artwork>
         },
         "query": " PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/> SELECT  DISTINCT  ?snameConceptArtefact4 ?ConceptArtefact4 ?snameArtefact3 ?Artefact3 WHERE { {{?Artefact3 cidoc:P131_is_identified_by ?nameArtefact3 . ?nameArtefact3 rdf:value ?snameArtefact3 .}  UNION {?Artefact3 rdfs:label ?snameArtefact3 .}}  filter(regex(?snameArtefact3,\"<Artwork>\",\"i\")) . ?Artefact3 cidoc:P2_has_type ?ConceptArtefact4. ?ConceptArtefact4 rdfs:label ?snameConceptArtefact4. }"
     }
+```
 
 In the CIDOC-QA-BENCHMARK repository, can be found the SPARQL template queries that sent to <https://triplydb.com/smithsonian/american-art-museum/sparql/american-art-museum>. The placeholders {Art Work} and {Artist} are replaced with entities present in the KG. From original templates, we add the following filtrer on SPARQL Query to specify the label of Art Work or Artist).
 ### Named Entity Recognition
