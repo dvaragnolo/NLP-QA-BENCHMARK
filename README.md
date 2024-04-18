@@ -17,7 +17,7 @@ The architecture of the system includes a pipeline with three modules:
 
 The repository is organized as follows: 
 * SAAMs-50NLQuestions - A 50 natural language questions dataset manually defined and the corresponding SAAM's answers obtained from the SPARQL endpoint (https://triplydb.com/smithsonian/american-art-museum/sparql). Additionally, it includes, for each question, an evaluation of the automatic answer, the partial discourse representation, the solution DRS, and the generated SPARQL query.
-* NicolaiGoon-CIDOC-QA-BENCHMARK - The evaluation results of 5000 questions, grouped into 10 different types of questions (each group with 500 questions). This dataset was originally built by N. GOUNAKIS, M. MOUNTANTONAKIS, and Y. TZITZIKAS "Evaluating a Radius-based Pipeline for Question Answering over Cultural
+* NicolaiGoon-CIDOC-QA-BENCHMARK - The evaluation results of 5000 questions, grouped into 10 different types of questions (each group with 500 questions). The system performance is evaluated both with NER and without NER to recognize SAAM's entity names. This question dataset was originally built by N. GOUNAKIS, M. MOUNTANTONAKIS, and Y. TZITZIKAS "Evaluating a Radius-based Pipeline for Question Answering over Cultural
 (CIDOC-CRM based) Knowledge Graphs" (2023)" and made available from https://github.com/NicolaiGoon/CIDOC-QA-BENCHMARK/.
 
 ## SAAMs-50NLQuestions
