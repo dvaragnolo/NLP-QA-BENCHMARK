@@ -1,0 +1,501 @@
+Id,Question,Gen.contains(Man),Comment
+1,What was the material used in the A Delightful Evening?,false,Incorrect Query Ontology Representation
+2,What was the material used in the A Hunger Fantasy?,null,Incorrect Stanza Parsing
+3,What was the material used in the A Moon?,true,Ok
+4,What was the material used in the A Night Out with Friends?,null,Incorrect Stanza Parsing
+5,What was the material used in the A. Laurason?,true,Ok
+6,What was the material used in the AUDIO ANDRE TUXEDO STYLED?,null,Incorrect Stanza Parsing
+7,What was the material used in the Accident?,false,Incorrect Query Ontology Representation
+8,What was the material used in the Adieu?,true,Ok
+9,What was the material used in the African Head Carving?,false,Incorrect Query Ontology Representation
+10,What was the material used in the After Titian?,null,Incorrect Stanza Parsing
+11,What was the material used in the Afterglow?,true,Ok
+12,What was the material used in the Almost There?,null,Incorrect Stanza Parsing
+13,What was the material used in the Along the Brandywine?,null,Incorrect Stanza Parsing
+14,What was the material used in the America/Abundance?,null,Incorrect Stanza Parsing
+15,What was the material used in the Amish Family?,true,Ok
+16,What was the material used in the Amor Omnia Vincit?,null,Incorrect Stanza Parsing
+17,What was the material used in the Anagama?,true,Ok
+18,What was the material used in the Andre Joseph Villard?,true,Ok
+19,What was the material used in the Animal Studies?,false,Incorrect Query Ontology Representation
+20,What was the material used in the Approaching Night?,false,Incorrect Query Ontology Representation
+21,What was the material used in the Araucanian Man?,false,Incorrect Query Ontology Representation
+22,"What was the material used in the Aries, from the Zodiac Series?",null,Incorrect partial DRS
+23,What was the material used in the Arranging the Tulips?,null,Incorrect Stanza Parsing
+24,"What was the material used in the At the Battery, New York?",null,Incorrect partial DRS
+25,What was the material used in the Atheneum Clapboard?,true,Ok
+26,What was the material used in the Autumn Still Life?,false,Incorrect Query Ontology Representation
+27,What was the material used in the Autumn Vase?,true,Ok
+28,What was the material used in the Aymara Boy?,true,Ok
+29,What was the material used in the Aymara Girl?,true,Ok
+30,What was the material used in the BLACKBALLED?,false,Incorrect Query Ontology Representation
+31,"What was the material used in the Ball-play Dance, Choctaw?",null,Incorrect Stanza Parsing
+32,What was the material used in the Banjo Chair?,true,Ok
+33,What was the material used in the Bartholomeo Bongo?,true,Ok
+34,What was the material used in the Beale Street Blues?,null,Incorrect Stanza Parsing
+35,What was the material used in the Bearded Kneeling Male Nude?,null,Incorrect Stanza Parsing
+36,What was the material used in the Bee Mine?,false,Incorrect Query Ontology Representation
+37,What was the material used in the Before Adam and Eve?,null,Incorrect Stanza Parsing
+38,What was the material used in the Belt with Jade Carving?,null,Incorrect partial DRS
+39,What was the material used in the Between Poses?,null,Incorrect Stanza Parsing
+40,What was the material used in the Beulah Appleton?,true,Ok
+41,What was the material used in the Black and Grey Toaster?,null,Incorrect Stanza Parsing
+42,What was the material used in the Blackburn?,true,Ok
+43,What was the material used in the Blooming Vessel?,true,Ok
+44,What was the material used in the Blue L Jungle?,null,Incorrect Stanza Parsing
+45,What was the material used in the Blue-winged Warbler?,null,Incorrect Stanza Parsing
+46,What was the material used in the Boar Hunt?,true,Ok
+47,What was the material used in the Boatright Ranch?,true,Ok
+48,What was the material used in the Bookkeeper?,false,Incorrect Query Ontology Representation
+49,What was the material used in the Borghese Gardens?,true,Ok
+50,What was the material used in the Braceros?,true,Ok
+51,What was the material used in the Brick Kiln?,true,Ok
+52,What was the material used in the Brown Moons?,true,Ok
+53,What was the material used in the Bruce's House?,null,Incorrect partial DRS
+54,What was the material used in the Bull?,true,Ok
+55,What was the material used in the Burlesque Show?,true,Ok
+56,What was the material used in the Byrdcliffe Oak Chiffonier?,null,Incorrect Stanza Parsing
+57,What was the material used in the California Farm?,true,Ok
+58,What was the material used in the Candle in a Vortex of Water?,null,Incorrect partial DRS
+59,What was the material used in the Captain Noah Rich?,true,Ok
+60,"What was the material used in the Carillon Tower, Chicago Fair?",null,Incorrect partial DRS
+61,What was the material used in the Carpet Pink (Silene acaulis)?,true,Ok
+62,What was the material used in the Cascade of Souls to Earth?,null,Incorrect partial DRS
+63,What was the material used in the Cast of Characters?,null,Incorrect partial DRS
+64,"What was the material used in the Castle Oberlahnstein, Rhine?",true,Ok
+65,"What was the material used in the Castle Rock, Marblehead?",true,Ok
+66,What was the material used in the Castle of Corfu?,null,Incorrect partial DRS
+67,What was the material used in the Caught in the Act?,null,Incorrect partial DRS
+68,What was the material used in the Celadon Catfish Dish with Lid?,null,Incorrect Stanza Parsing
+69,What was the material used in the Cement Mixer?,false,Incorrect Query Ontology Representation
+70,What was the material used in the Cherry Blossoms?,true,Ok
+71,What was the material used in the Chief Black-Coyote?,null,Incorrect Stanza Parsing
+72,What was the material used in the Child on Sofa?,null,Incorrect partial DRS
+73,What was the material used in the Christ at Emmaus?,null,Incorrect partial DRS
+74,What was the material used in the Christmas Greens?,true,Ok
+75,What was the material used in the Circus Performer?,true,Ok
+76,What was the material used in the Cleavage?,true,Ok
+77,What was the material used in the Cliffside Church?,true,Ok
+78,"What was the material used in the Coast at Monterey, California?",null,Incorrect partial DRS
+79,What was the material used in the Cockatoo: Keepsake Parakeet?,null,Incorrect partial DRS
+80,"What was the material used in the Cockfight, Santo Domingo?",null,Incorrect Stanza Parsing
+81,What was the material used in the Collecting with Rudi?,null,Incorrect partial DRS
+82,What was the material used in the Colonel Sanders?,true,Ok
+83,What was the material used in the Come to the Moon?,null,Incorrect partial DRS
+84,What was the material used in the Concetta Scaravaglione?,true,Ok
+85,What was the material used in the Construction in White?,null,Incorrect partial DRS
+86,What was the material used in the Coon Alley?,true,Ok
+87,What was the material used in the Corner of House--Malta?,null,Incorrect Stanza Parsing
+88,What was the material used in the Cosmic Colonies?,false,Incorrect Query Ontology Representation
+89,What was the material used in the Country Pool?,true,Ok
+90,"What was the material used in the Cour du Dragon, Paris?",null,Incorrect Stanza Parsing
+91,What was the material used in the Cowboy Smoking?,false,Incorrect Query Ontology Representation
+92,What was the material used in the Crane Chair?,true,Ok
+93,What was the material used in the Cronus?,true,Ok
+94,"What was the material used in the Cross Reference, storyboards?",true,Ok
+95,What was the material used in the Crystal City?,true,Ok
+96,What was the material used in the Cubist Still Life?,false,Incorrect Query Ontology Representation
+97,"What was the material used in the DC Waterfront, Maine Avenue?",null,Incorrect partial DRS
+98,"What was the material used in the Dalles Dam, Evening?",true,Ok
+99,What was the material used in the Dark Still Life?,true,Ok
+100,"What was the material used in the Deadwood, South Dakota?",null,Incorrect partial DRS
+101,What was the material used in the Death of Clytaemnestra?,null,Incorrect partial DRS
+102,What was the material used in the December Trees?,false,Incorrect Query Ontology Representation
+103,What was the material used in the Decision: CHANNELS OF A DREAM?,null,Incorrect Stanza Parsing
+104,What was the material used in the Defiance?,true,Ok
+105,What was the material used in the Dejaneon and Nassus?,null,Incorrect partial DRS
+106,What was the material used in the Dematerialization?,false,Incorrect Query Ontology Representation
+107,What was the material used in the Design for Carving?,null,Incorrect partial DRS
+108,What was the material used in the Die vier Jahreszeiten?,true,Ok
+109,What was the material used in the Dockyard?,true,Ok
+110,What was the material used in the Dome?,true,Ok
+111,"What was the material used in the Door, Arles, France?",null,Incorrect partial DRS
+112,What was the material used in the Dox Trash?,false,Incorrect Query Ontology Representation
+113,What was the material used in the Drawing Houses?,false,Incorrect Query Ontology Representation
+114,What was the material used in the Dresser Drawer?,true,Ok
+115,What was the material used in the Dye drop?,false,Incorrect Query Ontology Representation
+116,What was the material used in the El Fireboy y El Mingo?,null,Incorrect Stanza Parsing
+117,What was the material used in the Elihu Root?,true,Ok
+118,What was the material used in the Elizabeth Robinson Manship?,true,Ok
+119,What was the material used in the Elizabeth Tuckerman Salisbury?,true,Ok
+120,What was the material used in the Elsie Clough Street?,true,Ok
+121,What was the material used in the Emperor of Norfolk?,null,Incorrect partial DRS
+122,What was the material used in the Encompassed in Purple?,null,Incorrect partial DRS
+123,What was the material used in the Entre La Puta y la Muerte?,true,Ok
+124,What was the material used in the Erratic and Snow?,null,Incorrect partial DRS
+125,What was the material used in the Estes Park?,true,Ok
+126,What was the material used in the Esther?,true,Ok
+127,What was the material used in the Eureka?,true,Ok
+128,What was the material used in the Every Knee Must Bend?,null,Incorrect Stanza Parsing
+129,"What was the material used in the Experience Meeting, Massydony?",true,Ok
+130,What was the material used in the Extension Ladder?,true,Ok
+131,What was the material used in the Faced Faces?,false,Incorrect Query Ontology Representation
+132,What was the material used in the Faith?,true,Ok
+133,What was the material used in the Family Picnic?,false,Incorrect Query Ontology Representation
+134,What was the material used in the Family and Friends?,null,Incorrect partial DRS
+135,What was the material used in the Farm Couple at Work?,null,Incorrect partial DRS
+136,What was the material used in the Feast Day: San Juan Pueblo?,null,Incorrect partial DRS
+137,What was the material used in the Fence Fabricating Machine?,null,Incorrect Stanza Parsing
+138,"What was the material used in the Fenced Yard, Wellsville, Ohio?",null,Incorrect partial DRS
+139,What was the material used in the Fiat Vita?,true,Ok
+140,What was the material used in the Field of Wheat Shock?,null,Incorrect Stanza Parsing
+141,What was the material used in the Firelight?,true,Ok
+142,What was the material used in the First Gold Box?,false,Incorrect Query Ontology Representation
+143,"What was the material used in the Fjord Sketch, Norway?",true,Ok
+144,What was the material used in the Floating Rim Bowl?,true,Ok
+145,What was the material used in the Flood Victims?,false,Incorrect Query Ontology Representation
+146,What was the material used in the Fly Fishing Medal?,null,Incorrect Stanza Parsing
+147,"What was the material used in the Foggy Morning, Brittany?",true,Ok
+148,"What was the material used in the Foke-luste-hajo, a Seminole?",null,Incorrect Stanza Parsing
+149,What was the material used in the Follow Me?,false,Incorrect Query Ontology Representation
+150,What was the material used in the Footbridge?,true,Ok
+151,What was the material used in the Footprint?,false,Incorrect Query Ontology Representation
+152,What was the material used in the For the Children?,null,Incorrect partial DRS
+153,What was the material used in the Fox and Goose?,null,Incorrect partial DRS
+154,What was the material used in the Freda?,true,Ok
+155,"What was the material used in the Fremont Street, Las Vegas?",true,Ok
+156,What was the material used in the French Money?,false,Incorrect Query Ontology Representation
+157,"What was the material used in the Friendly Corner, Albi?",true,Ok
+158,What was the material used in the Frisky Day?,true,Ok
+159,What was the material used in the From a Window?,null,Incorrect Stanza Parsing
+160,What was the material used in the Fruit in a Bowl?,null,Incorrect partial DRS
+161,"What was the material used in the Fuli, China?",true,Ok
+162,What was the material used in the Furnished Room?,false,Incorrect Query Ontology Representation
+163,What was the material used in the Gen. John Gibbon?,true,Ok
+164,What was the material used in the Gentleman in Masonic Collar?,null,Incorrect partial DRS
+165,What was the material used in the George Cochran Lambdin?,true,Ok
+166,What was the material used in the George Partridge Richardson?,true,Ok
+167,What was the material used in the German Lady?,false,Incorrect Query Ontology Representation
+168,What was the material used in the Gertrude Fairfield?,true,Ok
+169,What was the material used in the Gesture?,false,Incorrect Query Ontology Representation
+170,What was the material used in the Gilia linanthus parviflorus?,null,Incorrect Stanza Parsing
+171,What was the material used in the Girders and Lights?,null,Incorrect partial DRS
+172,What was the material used in the Girl with Long Hair?,null,Incorrect partial DRS
+173,What was the material used in the Girl with Tambourine?,null,Incorrect partial DRS
+174,What was the material used in the Girls in Conversation?,null,Incorrect partial DRS
+175,"What was the material used in the Glove and Shoe, New York?",null,Incorrect partial DRS
+176,What was the material used in the Going to School?,null,Incorrect partial DRS
+177,What was the material used in the Good Friday Morning?,true,Ok
+178,"What was the material used in the Gram in Black, New Hampshire?",null,Incorrect partial DRS
+179,What was the material used in the Greetings?,true,Ok
+180,What was the material used in the Grey Night Phenomenon?,null,Incorrect Stanza Parsing
+181,What was the material used in the Grey?,true,Ok
+182,What was the material used in the Grizzly Madonna?,true,Ok
+183,What was the material used in the Guild Cup?,true,Ok
+184,What was the material used in the Gunpowder Box?,false,Incorrect Query Ontology Representation
+185,"What was the material used in the Harbor Scene, Norway?",true,Ok
+186,What was the material used in the Harlem Nightclub Dancers?,null,Incorrect Stanza Parsing
+187,What was the material used in the Harold and His Mother?,null,Incorrect Stanza Parsing
+188,What was the material used in the Head of a Woman in Jerusalem?,null,Incorrect partial DRS
+189,"What was the material used in the Heat Exhaustion, Ramsey Unit?",null,Incorrect partial DRS
+190,What was the material used in the Hi-Boy Donut Shop?,null,Incorrect Stanza Parsing
+191,"What was the material used in the High Cliff, Coast of Maine?",null,Incorrect Stanza Parsing
+192,"What was the material used in the Hitchhiker, Iowa?",true,Ok
+193,What was the material used in the Home Front?,true,Ok
+194,What was the material used in the Hopi Weaver?,true,Ok
+195,What was the material used in the Horse Study and Rabbits?,null,Incorrect partial DRS
+196,What was the material used in the House in Nantes?,null,Incorrect partial DRS
+197,"What was the material used in the ISOLATION, Mingering Mike?",null,Incorrect partial DRS
+198,What was the material used in the Ideas?,false,Incorrect Query Ontology Representation
+199,What was the material used in the Impressions?,false,Incorrect Query Ontology Representation
+200,What was the material used in the In Church?,null,Incorrect Stanza Parsing
+201,What was the material used in the In These Troubled Times?,null,Incorrect Stanza Parsing
+202,What was the material used in the In the Meadows at Windsor?,null,Incorrect Stanza Parsing
+203,What was the material used in the In the Park?,null,Incorrect partial DRS
+204,What was the material used in the In the Summer Sea?,null,Incorrect partial DRS
+205,What was the material used in the Indian Hunting Buffalo?,true,Ok
+206,What was the material used in the Irish Gentleman?,true,Ok
+207,What was the material used in the Isaac Praul?,true,Ok
+208,What was the material used in the Ishtar?,true,Ok
+209,What was the material used in the Jack-in-the-Pulpits?,null,Incorrect Stanza Parsing
+210,What was the material used in the Jane Stone?,true,Ok
+211,What was the material used in the Jet Age?,true,Ok
+212,What was the material used in the John Elder?,true,Ok
+213,What was the material used in the Jonathan Jones Wheeler?,true,Ok
+214,What was the material used in the Kate Deering Ridgely?,true,Ok
+215,What was the material used in the Kermit?,true,Ok
+216,What was the material used in the L' Auberge a Rome?,null,Incorrect partial DRS
+217,What was the material used in the L' Etang?,true,Ok
+218,What was the material used in the LYAM 3D?,false,Incorrect Query Ontology Representation
+219,What was the material used in the La Gouvernante Fidele?,true,Ok
+220,What was the material used in the La Natividad?,true,Ok
+221,What was the material used in the Ladies of the Evening?,null,Incorrect partial DRS
+222,What was the material used in the Lafayette Street?,true,Ok
+223,What was the material used in the Lake Providence Grocery?,null,Incorrect Stanza Parsing
+224,What was the material used in the Laokoon (Contrasting Rhythms)?,null,Incorrect partial DRS
+225,What was the material used in the Lauhala?,true,Ok
+226,What was the material used in the Laura at Fifteen?,null,Incorrect partial DRS
+227,What was the material used in the Lawrence Barrett As Cassius?,null,Incorrect partial DRS
+228,What was the material used in the Leda and the Necrophilic Swan?,null,Incorrect partial DRS
+229,"What was the material used in the Les Moulins Stucky, Venice?",true,Ok
+230,What was the material used in the Let's Make a Record?,null,Incorrect Stanza Parsing
+231,What was the material used in the Levee Farms?,true,Ok
+232,What was the material used in the Light Blue Nursery?,false,Incorrect Query Ontology Representation
+233,What was the material used in the Little Peasant Girl?,null,Incorrect Stanza Parsing
+234,What was the material used in the Living Inside?,null,Incorrect Stanza Parsing
+235,What was the material used in the Lobelia Kalmii?,true,Ok
+236,What was the material used in the Local Calm?,false,Incorrect Query Ontology Representation
+237,What was the material used in the Long Light?,true,Ok
+238,What was the material used in the Loulie's Hand?,null,Incorrect partial DRS
+239,What was the material used in the Lounge Chair?,true,Ok
+240,What was the material used in the Love Poem?,false,Incorrect Query Ontology Representation
+241,What was the material used in the Maine Pump?,true,Ok
+242,What was the material used in the Male Nude on a Stool?,null,Incorrect partial DRS
+243,What was the material used in the Man Astraddle?,true,Ok
+244,What was the material used in the Man Sketching?,false,Incorrect Query Ontology Representation
+245,What was the material used in the Man on Bench in Town?,null,Incorrect partial DRS
+246,What was the material used in the Man with Wheelbarrow?,null,Incorrect partial DRS
+247,"What was the material used in the Man, Woman, Dog and Stag?",null,Incorrect partial DRS
+248,What was the material used in the Manhattan Nocturne?,true,Ok
+249,What was the material used in the Maquette for Chorale?,null,Incorrect partial DRS
+250,What was the material used in the Maquette for Southern Wall?,null,Incorrect partial DRS
+251,What was the material used in the Maquette for White Tornado?,null,Incorrect partial DRS
+252,What was the material used in the Margaret Ethel Wall?,true,Ok
+253,What was the material used in the Massimo Plates?,true,Ok
+254,What was the material used in the Medic Medic?,true,Ok
+255,"What was the material used in the Medicine Wheel, Wyoming?",true,Ok
+256,What was the material used in the Melancholia?,true,Ok
+257,What was the material used in the Member of the Schuyler Family?,null,Incorrect Stanza Parsing
+258,What was the material used in the Milwaukee (Wisconsin)?,true,Ok
+259,What was the material used in the Modern Steel Carving?,false,Incorrect Query Ontology Representation
+260,What was the material used in the Mold of a Woman's Hand?,null,Incorrect partial DRS
+261,What was the material used in the Money?,false,Incorrect Query Ontology Representation
+262,What was the material used in the Month of Nights?,null,Incorrect partial DRS
+263,What was the material used in the Moods?,true,Ok
+264,What was the material used in the Mora Howard?,true,Ok
+265,What was the material used in the Moss Pink (Phlox subulate)?,null,Incorrect partial DRS
+266,What was the material used in the Mounette?,true,Ok
+267,What was the material used in the Mount Orizaba?,true,Ok
+268,What was the material used in the Mountain Pool?,true,Ok
+269,What was the material used in the Mr. Cass Gilbert?,true,Ok
+270,What was the material used in the Mr. Kafka?,true,Ok
+271,What was the material used in the Mrs. Lloyd?,true,Ok
+272,What was the material used in the Mt. of Temptation?,null,Incorrect partial DRS
+273,What was the material used in the Musketeer?,true,Ok
+274,What was the material used in the My Heavens!?,null,Incorrect partial DRS
+275,What was the material used in the Nam June Paik Archive?,null,Incorrect Stanza Parsing
+276,What was the material used in the Narcissa?,true,Ok
+277,What was the material used in the Natalie at Seven?,null,Incorrect partial DRS
+278,What was the material used in the Natural Bridge?,true,Ok
+279,What was the material used in the Nest of Fifteen?,null,Incorrect partial DRS
+280,What was the material used in the New World Odder?,true,Ok
+281,What was the material used in the Newspaper Boy?,true,Ok
+282,"What was the material used in the Niagara in Summer, from Below?",null,Incorrect partial DRS
+283,What was the material used in the Night Waves?,true,Ok
+284,What was the material used in the Nightbloom?,true,Ok
+285,What was the material used in the Ninth Ave. Church?,true,Ok
+286,What was the material used in the Nocturnal (Horizon Line)?,true,Ok
+287,"What was the material used in the Nude Studies, Bell?",false,Incorrect Query Ontology Representation
+288,What was the material used in the Nude and Iris?,null,Incorrect partial DRS
+289,What was the material used in the Nude in Wood?,null,Incorrect partial DRS
+290,What was the material used in the Nutcrackers?,true,Ok
+291,What was the material used in the O-mata-ah-luta (Red Plume)?,null,Incorrect Stanza Parsing
+292,What was the material used in the Obiter Dictum?,true,Ok
+293,What was the material used in the Ochre and Black?,null,Incorrect partial DRS
+294,"What was the material used in the Off York Island, Maine?",null,Incorrect Stanza Parsing
+295,What was the material used in the Old Florence?,true,Ok
+296,"What was the material used in the Old Houses, Lausanne?",true,Ok
+297,What was the material used in the Old Woman in Turban?,null,Incorrect partial DRS
+298,What was the material used in the On the Soda Butte Creek?,null,Incorrect Stanza Parsing
+299,What was the material used in the One Horse Farm?,true,Ok
+300,"What was the material used in the Orange Grove Avenue, Pasadena?",null,Incorrect Stanza Parsing
+301,What was the material used in the Osage Scalp Dance?,null,Incorrect Stanza Parsing
+302,What was the material used in the Out the Side Window?,null,Incorrect Stanza Parsing
+303,What was the material used in the Papago Indians?,true,Ok
+304,What was the material used in the Paper Bag Making Machine?,null,Incorrect Stanza Parsing
+305,What was the material used in the Parking Lot?,false,Incorrect Query Ontology Representation
+306,"What was the material used in the Parkville, Main Street?",null,Incorrect partial DRS
+307,What was the material used in the Parlor Cabinet?,true,Ok
+308,What was the material used in the Paul N. Radulich?,true,Ok
+309,What was the material used in the Pegasus Departing?,false,Incorrect Query Ontology Representation
+310,What was the material used in the Pioneer Family (Dressed)?,null,Incorrect partial DRS
+311,What was the material used in the Pioneer Family (model for)?,null,Incorrect partial DRS
+312,"What was the material used in the Pipe Dance, Assiniboine?",true,Ok
+313,What was the material used in the Piro Girl?,true,Ok
+314,What was the material used in the Plaza?,true,Ok
+315,What was the material used in the Pollywog Decoy?,true,Ok
+316,What was the material used in the Polo Players?,true,Ok
+317,What was the material used in the Pont des Arts?,null,Incorrect Stanza Parsing
+318,What was the material used in the Portal Gates?,true,Ok
+319,What was the material used in the Portrait of Helen?,null,Incorrect partial DRS
+320,What was the material used in the Portrait of Jack Greenbaum?,null,Incorrect partial DRS
+321,What was the material used in the Portrait of Marguerite Zorach?,null,Incorrect partial DRS
+322,What was the material used in the Portrait of Waldo Pierce?,null,Incorrect partial DRS
+323,What was the material used in the Post Setter?,true,Ok
+324,What was the material used in the Prairie Chicken?,true,Ok
+325,What was the material used in the Princeton University?,true,Ok
+326,What was the material used in the Prizefighters?,true,Ok
+327,What was the material used in the Proserpine (fragment)?,true,Ok
+328,What was the material used in the Provincetown Bacchanalia?,true,Ok
+329,"What was the material used in the Provincetown, Mass.?",true,Ok
+330,What was the material used in the Queen Elizabeth?,true,Ok
+331,What was the material used in the Rain on the Square?,null,Incorrect partial DRS
+332,What was the material used in the Reclining?,false,Incorrect Query Ontology Representation
+333,What was the material used in the Red Fern?,true,Ok
+334,What was the material used in the Red House?,true,Ok
+335,What was the material used in the Rejects from the Bat Factory?,null,Incorrect partial DRS
+336,"What was the material used in the Remains of Lock, Millville?",null,Incorrect partial DRS
+337,What was the material used in the Rendezvous?,true,Ok
+338,What was the material used in the Revolutionary Days?,true,Ok
+339,"What was the material used in the Rikki and Carrie, Dining Room?",null,Incorrect Stanza Parsing
+340,What was the material used in the Rising?,false,Incorrect Query Ontology Representation
+341,What was the material used in the Rites of Spring?,null,Incorrect partial DRS
+342,What was the material used in the Roadmaking?,true,Ok
+343,What was the material used in the Roadster?,true,Ok
+344,What was the material used in the Robert Broome?,true,Ok
+345,What was the material used in the Robert Oliphant?,true,Ok
+346,What was the material used in the Rodeo?,true,Ok
+347,What was the material used in the Roger?,true,Ok
+348,What was the material used in the Rolled-Edge Bowl?,null,Incorrect Stanza Parsing
+349,What was the material used in the Romance Sentimentale?,true,Ok
+350,What was the material used in the Romare Bearden?,true,Ok
+351,What was the material used in the Rosanna?,true,Ok
+352,What was the material used in the Rosebud?,true,Ok
+353,"What was the material used in the Rosenwald Museum, Chicago?",true,Ok
+354,What was the material used in the Round Bottom?,true,Ok
+355,What was the material used in the Running Man?,true,Ok
+356,What was the material used in the Russian Hill?,true,Ok
+357,What was the material used in the Sage and Cactus?,null,Incorrect partial DRS
+358,What was the material used in the Sailor?,true,Ok
+359,What was the material used in the Samurai?,true,Ok
+360,"What was the material used in the Santa Elena Canyon, Big Bend?",null,Incorrect Stanza Parsing
+361,"What was the material used in the Saratoga Springs, New York?",null,Incorrect partial DRS
+362,What was the material used in the Sasha?,true,Ok
+363,What was the material used in the Sea Wall?,true,Ok
+364,"What was the material used in the Seated Woman, Profile?",true,Ok
+365,What was the material used in the Sentinels?,true,Ok
+366,What was the material used in the Sewing Machine?,true,Ok
+367,What was the material used in the Shearing Sheep?,true,Ok
+368,What was the material used in the Shifting States: Iraq?,null,Incorrect Stanza Parsing
+369,What was the material used in the Ship Steering Apparatus?,true,Ok
+370,What was the material used in the Sir Guy Carelton?,true,Ok
+371,What was the material used in the Sister Ella?,true,Ok
+372,What was the material used in the Sitting Nude?,false,Incorrect Query Ontology Representation
+373,What was the material used in the Sketch of a Dog Sleeping?,null,Incorrect partial DRS
+374,What was the material used in the Slant: Chip?,true,Ok
+375,What was the material used in the Slate Quarry?,true,Ok
+376,What was the material used in the Small Talk?,true,Ok
+377,"What was the material used in the Small Town, Main Street?",null,Incorrect partial DRS
+378,What was the material used in the Smoke Rings?,true,Ok
+379,What was the material used in the Soap Bubble Set?,null,Incorrect Stanza Parsing
+380,What was the material used in the South of Lincoln Square?,null,Incorrect partial DRS
+381,What was the material used in the Southern Monument on Column?,null,Incorrect partial DRS
+382,What was the material used in the Spanish Senorita?,true,Ok
+383,"What was the material used in the Spider Lake, Wisconsin?",true,Ok
+384,What was the material used in the Split Encounter?,false,Incorrect Query Ontology Representation
+385,What was the material used in the Squatter?,true,Ok
+386,What was the material used in the Squatting Polar Bear?,false,Incorrect Query Ontology Representation
+387,What was the material used in the St. Germain des Pres?,null,Incorrect Stanza Parsing
+388,"What was the material used in the St. Luke's Place, New York?",null,Incorrect partial DRS
+389,What was the material used in the Staircase Glacier?,true,Ok
+390,What was the material used in the Standing Articulated Figure?,false,Incorrect Query Ontology Representation
+391,What was the material used in the Standing Orpheus with Pegasus?,null,Incorrect partial DRS
+392,What was the material used in the Stanislaus?,true,Ok
+393,What was the material used in the Startled Mallard?,true,Ok
+394,What was the material used in the Stepping into Shoes?,null,Incorrect partial DRS
+395,What was the material used in the Still Life with Dogwood?,null,Incorrect partial DRS
+396,What was the material used in the Still Life with Menu?,null,Incorrect partial DRS
+397,What was the material used in the Still Life with Pineapple?,null,Incorrect partial DRS
+398,"What was the material used in the Street Crowds, Tunisia?",true,Ok
+399,What was the material used in the Street Fight?,false,Incorrect Query Ontology Representation
+400,What was the material used in the Street in Joliet?,null,Incorrect partial DRS
+401,What was the material used in the String Trio?,true,Ok
+402,What was the material used in the Striped Bass?,true,Ok
+403,"What was the material used in the Student Leaders, Crystal City?",null,Incorrect partial DRS
+404,What was the material used in the Study for Gargoyle in Flames?,null,Incorrect partial DRS
+405,What was the material used in the Study for Self-Portrait?,null,Incorrect partial DRS
+406,What was the material used in the Study for the Disciple Peter?,null,Incorrect partial DRS
+407,What was the material used in the Subway Bootblack?,true,Ok
+408,What was the material used in the Subway?,true,Ok
+409,What was the material used in the Summer Horizon?,true,Ok
+410,What was the material used in the Sun and Desolation?,null,Incorrect partial DRS
+411,What was the material used in the Sunflower?,true,Ok
+412,What was the material used in the Supplies for Suburbia?,null,Incorrect partial DRS
+413,What was the material used in the Taking Off?,null,Incorrect Stanza Parsing
+414,What was the material used in the Tarflower (Befaria racemosa)?,null,Incorrect partial DRS
+415,What was the material used in the Tea Bowl?,true,Ok
+416,What was the material used in the Temple of Nike Apteros?,null,Incorrect partial DRS
+417,What was the material used in the Ten Doors?,true,Ok
+418,What was the material used in the Tension?,true,Ok
+419,What was the material used in the Tents?,true,Ok
+420,What was the material used in the Tepidarium?,true,Ok
+421,What was the material used in the Terminal Figure of Ceres?,null,Incorrect partial DRS
+422,What was the material used in the Tetuan?,true,Ok
+423,What was the material used in the Texas State Championship Game?,null,Incorrect Stanza Parsing
+424,What was the material used in the The American Monument?,null,Incorrect Stanza Parsing
+425,What was the material used in the The Bent Tree?,null,Incorrect Stanza Parsing
+426,What was the material used in the The Birdlover?,null,Incorrect Stanza Parsing
+427,What was the material used in the The Black Cloud?,null,Incorrect Stanza Parsing
+428,What was the material used in the The Black Flag?,null,Incorrect Stanza Parsing
+429,What was the material used in the The Black Hat?,null,Incorrect Stanza Parsing
+430,What was the material used in the The Caress?,null,Incorrect Stanza Parsing
+431,"What was the material used in the The Certosa, Florence?",null,Incorrect Stanza Parsing
+432,What was the material used in the The Cornfield?,null,Incorrect Stanza Parsing
+433,What was the material used in the The Craftsman Series: Shovels?,null,Incorrect Stanza Parsing
+434,What was the material used in the The Excavators?,null,Incorrect Stanza Parsing
+435,What was the material used in the The Hitchhiker?,null,Incorrect Stanza Parsing
+436,What was the material used in the The Hunt (Punch Bowl)?,null,Incorrect Stanza Parsing
+437,What was the material used in the The Indian Ghost Dancer?,null,Incorrect Stanza Parsing
+438,What was the material used in the The Kitchen?,null,Incorrect Stanza Parsing
+439,"What was the material used in the The Lake of Bolsena, Italy?",null,Incorrect Stanza Parsing
+440,What was the material used in the The Lily Pool?,null,Incorrect Stanza Parsing
+441,What was the material used in the The Lorelei?,null,Incorrect Stanza Parsing
+442,What was the material used in the The Mink Trapper?,null,Incorrect Stanza Parsing
+443,What was the material used in the The Phantom?,null,Incorrect Stanza Parsing
+444,What was the material used in the The Purple Dress?,null,Incorrect Stanza Parsing
+445,What was the material used in the The Sauce-Pan Shop?,null,Incorrect Stanza Parsing
+446,What was the material used in the The Shaded Walk?,null,Incorrect Stanza Parsing
+447,What was the material used in the The Top of the World?,null,Incorrect Stanza Parsing
+448,What was the material used in the The Voices of the Dunes?,null,Incorrect Stanza Parsing
+449,What was the material used in the The Waltz?,null,Incorrect Stanza Parsing
+450,What was the material used in the Tide Rip?,false,Incorrect Query Ontology Representation
+451,What was the material used in the Tongue River Cliffs (In Camp)?,null,Incorrect partial DRS
+452,What was the material used in the Towards the Light?,null,Incorrect partial DRS
+453,"What was the material used in the Town Creek, Clinton, Missouri?",null,Incorrect partial DRS
+454,What was the material used in the Train Peddler?,true,Ok
+455,What was the material used in the Trampas Penitentes?,true,Ok
+456,What was the material used in the Tree in the Wind?,null,Incorrect partial DRS
+457,What was the material used in the Tricycle (Memphis)?,true,Ok
+458,What was the material used in the Triple Double?,true,Ok
+459,What was the material used in the Troy?,true,Ok
+460,What was the material used in the Tur?,true,Ok
+461,What was the material used in the Turks and Arabs?,null,Incorrect partial DRS
+462,What was the material used in the Twilight after the Rain?,null,Incorrect partial DRS
+463,What was the material used in the Two Bottles?,false,Incorrect Query Ontology Representation
+464,What was the material used in the Two Cedars?,true,Ok
+465,What was the material used in the Two Forty-Seven P. M.?,null,Incorrect Stanza Parsing
+466,What was the material used in the Two Magnolias?,true,Ok
+467,What was the material used in the Undaunted (Torso)?,true,Ok
+468,What was the material used in the Up with the Sun?,null,Incorrect partial DRS
+469,What was the material used in the Utah Landscape?,true,Ok
+470,"What was the material used in the Vaatedal, Jolster, Norway?",null,Incorrect Stanza Parsing
+471,What was the material used in the Valley of the Swiftcurrent?,null,Incorrect partial DRS
+472,What was the material used in the Velvet Petals?,true,Ok
+473,What was the material used in the Vermont in November?,null,Incorrect partial DRS
+474,What was the material used in the Vertical Roll?,true,Ok
+475,What was the material used in the Victime?,false,Incorrect Query Ontology Representation
+476,What was the material used in the View Toward South?,null,Incorrect partial DRS
+477,What was the material used in the Village Square?,true,Ok
+478,What was the material used in the Watching?,false,Incorrect Query Ontology Representation
+479,What was the material used in the Weighing In?,null,Incorrect partial DRS
+480,What was the material used in the What Price Watermellon??,null,Incorrect Stanza Parsing
+481,What was the material used in the White Daisies Rhapsody?,null,Incorrect Stanza Parsing
+482,What was the material used in the White Tanks?,true,Ok
+483,What was the material used in the Will o' the Wisp?,null,Incorrect partial DRS
+484,What was the material used in the William Thaw?,true,Ok
+485,What was the material used in the Winter Bluebirds?,true,Ok
+486,What was the material used in the Winter Brook?,true,Ok
+487,What was the material used in the Within the Window?,null,Incorrect partial DRS
+488,What was the material used in the Woman in Calico?,null,Incorrect partial DRS
+489,What was the material used in the Woman in Striped Dress?,null,Incorrect partial DRS
+490,What was the material used in the Woman of Canaan?,null,Incorrect partial DRS
+491,What was the material used in the Women Bathing?,false,Incorrect Query Ontology Representation
+492,What was the material used in the Women Gathering Yucca Plants?,null,Incorrect Stanza Parsing
+493,What was the material used in the Wonderland?,true,Ok
+494,What was the material used in the Workers-Slotters Machine?,null,Incorrect Stanza Parsing
+495,What was the material used in the World Trade Center?,null,Incorrect Stanza Parsing
+496,What was the material used in the World Unity or Oblivion?,null,Incorrect partial DRS
+497,What was the material used in the Wyatt Eaton?,true,Ok
+498,What was the material used in the Wyoming?,true,Ok
+499,What was the material used in the Young Man in Red Sweater?,null,Incorrect partial DRS
+500,What was the material used in the Yucca (Yucca baileyi)?,null,Incorrect partial DRS
