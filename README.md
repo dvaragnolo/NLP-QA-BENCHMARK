@@ -20,7 +20,7 @@ The repository is organized as follows:
 * NicolaiGoon-CIDOC-QA-BENCHMARK - The evaluation results of 5000 questions, grouped into 10 different types of questions (each group with 500 questions). The system performance is evaluated both with NER and without NER to recognize SAAM's entity names. This question dataset was originally built by Nikos Gounakis, Michalis Mountantonakis, and Yannis Tzitzikas (2023) "Evaluating a Radius-based Pipeline for Question Answering over
 Cultural (CIDOC-CRM based) Knowledge Graphs" (in Proceedings of the 34th ACM Conference on Hypertext and Social Media, Rome, Italy, HT ’23, Association for Computing Machinery, New York, NY, USA, Article 24, https://doi.org/10.1145/3603163.3609067), and made available from https://github.com/NicolaiGoon/CIDOC-QA-BENCHMARK/.
 
-## SAAMs-50NLQuestions
+# SAAMs-50NLQuestions
 The 50 English questions are on artists and artefacts in the Smithsonian American Art Museum (SAAM) Knowledge Base.
 
 | nlp-qa50_questions.csv |
@@ -76,7 +76,7 @@ The 50 English questions are on artists and artefacts in the Smithsonian America
 | What artefacts were made after 2000? |
 | Where did Mary go in 1900? |
 
-### SAAM's answers to the Natural Language Questions dataset
+## SAAM's answers to the Natural Language Questions dataset
 The SAAM's manually obtained answer to each Natural Language Question is represented in JSON format.
 For instance, to the question "Which paintings did Leonard Ochtman create?" the complete information is presented as follows. 
 ```JSON
@@ -98,11 +98,11 @@ For instance, to the question "Which paintings did Leonard Ochtman create?" the 
     ]
   }
 ```
-### Evaluation of the Question-Answering System answer
+## Evaluation of the Question-Answering System answer
 
-The SAAMs-50q_results.json is organized as follows:
+The nlp-qa50_validation.json is organized as follows:
 * Question = natural language question
-* Compare Results = (Boolean Value) True when the system's answer equals the manual answer.
+* Compare Results = (Boolean Value) True when the system's answer equals the manual answer
 * Comment = In case of failure, information on the system module with an incorrect result
 
 | id | Question | Compare Results | Comment |
@@ -158,8 +158,18 @@ The SAAMs-50q_results.json is organized as follows:
 | 49 | What artefacts were made after 2000? | True |  |
 | 50 | Where did Mary go in 1900? | False | Incorrect Query Ontology Representation |
 
-The file presents the results of all the sub-modules of the system: the Partial Semantic Representation, the Query Ontology Representation and the Genererated SPARQL Query. Moreover, are presented the SPARQL Response of the generated query, the SPARQL Response of the manual validation set and the comparation result between thw two responses. The comparation is boolean and it gives true if the SPARQL Response of the generated query contains the the SPARQL Response of the manual validation set.
-Below, the result of the question "Which paintings did Leonard Ochtman create?":
+
+
+The SAAMs-50q_results.json is organized as follows:
+* question = natural language question
+* partialDRSs = the question Partial Semantic Representation
+* solution = the question Query-Ontology representation
+* query = the generated SPARQL query of the question
+* GenQueryResponse = the system SAAM's SPARQL endpoint answer to the query
+* ManQueryResponse = the manual answer to the question
+* Gen.contains(Man) = (Boolean Value) True when the system's answer equals the manual answer.
+  
+For instance, to the question "Which paintings did Leonard Ochtman create?" the complete information is presented as follows. 
 
 ```JSON
 {
