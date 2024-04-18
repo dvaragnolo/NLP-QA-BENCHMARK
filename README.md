@@ -60,7 +60,7 @@ The 50 English questions are on artists and artefacts in the Smithsonian America
 | Which painters have died in Amsterdam? |
 | What things are made by the guy Leonard Ochtman? |
 | What artefacts are made of lead? |
-| What arefacts are made by the artist Leonard Ochtman? |
+| What artefacts are made by the artist Leonard Ochtman? |
 | When did the production of Morning Haze end? |
 | What authors died in Madrid in 1660? |
 | When did the creation of Morning Haze start? |
@@ -112,50 +112,50 @@ The SAAMs-50q_results.json is organized as follows:
 | 3 | Which paintings did Leonard Ochtman create? | True |  |
 | 4 | What was the birthdate of Leonard Ochtman? | True |  |
 | 5 | What was the birthplace of Leonard Ochtman? | True |  |
-| 6 | What was the deathdate of Leonard Ochtman? | True | ok |
-| 7 | When did Leonard Ochtman die? | True | ok |
-| 8 | When died Leonard Ochtman? | True | ok |
-| 9 | Where was the deathplace of Leonard Ochtman? | True | ok |
-| 10 | What was the nationality of Leonard Ochtman? | True | ok |
-| 11 | Who painted the Morning Haze? | True | ok |
-| 12 | Who donated the Morning Haze? | True | ok |
-| 13 | Who gave the Morning Haze? | True | ok |
-| 14 | When was the production of Morning Haze completed? | True | ok |
-| 15 | When was the Morning Haze completed? | True | ok |
-| 16 | When did the production of Morning Haze start? | True | ok |
-| 17 | When did Morning Haze start? | True | ok |
-| 18 | Who is the author of Morning Haze? | True | ok |
-| 19 | When was the Morning Haze created? | True | ok |
-| 20 | What was the birthplace of the creator of the Morning Haze? | True | ok |
-| 21 | What is the size of the Morning Haze? | True | ok |
-| 22 | Who gave the Honeymoon Motel to the museum? | True | ok |
-| 23 | What are the sculptures that are made of lead? | True | ok |
-| 24 | Who was born in 1854? | True | ok |
-| 25 | Who was born in Zonnemaire? | True | ok |
-| 26 | Who are the authors of the Morning Haze? | True | ok |
-| 27 | Which are the authors of Morning Haze? | True | ok |
-| 28 | What is the place where Leonard Ochtman was born? | True | ok |
-| 29 | What sculptures are made of lead? | True | ok |
+| 6 | What was the deathdate of Leonard Ochtman? | True |  |
+| 7 | When did Leonard Ochtman die? | True |  |
+| 8 | When died Leonard Ochtman? | True |  |
+| 9 | Where was the deathplace of Leonard Ochtman? | True |  |
+| 10 | What was the nationality of Leonard Ochtman? | True |  |
+| 11 | Who painted the Morning Haze? | True |  |
+| 12 | Who donated the Morning Haze? | True |  |
+| 13 | Who gave the Morning Haze? | True |  |
+| 14 | When was the production of Morning Haze completed? | True |  |
+| 15 | When was the Morning Haze completed? | True |  |
+| 16 | When did the production of Morning Haze start? | True |  |
+| 17 | When did Morning Haze start? | True |  |
+| 18 | Who is the author of Morning Haze? | True |  |
+| 19 | When was the Morning Haze created? | True |  |
+| 20 | What was the birthplace of the creator of the Morning Haze? | True |  |
+| 21 | What is the size of the Morning Haze? | True |  |
+| 22 | Who gave the Honeymoon Motel to the museum? | True | 
+| 23 | What are the sculptures that are made of lead? | True |  |
+| 24 | Who was born in 1854? | True |  |
+| 25 | Who was born in Zonnemaire? | True |  |
+| 26 | Who are the authors of the Morning Haze? | True |  |
+| 27 | Which are the authors of Morning Haze? | True |  |
+| 28 | What is the place where Leonard Ochtman was born? | True |  |
+| 29 | What sculptures are made of lead? | True |  |
 | 30 | What sculptures are made of lead material? | False | Incorrect Query Ontology Representation |
-| 31 | Who made artworks with lead and wood? | True | ok |
+| 31 | Who made artworks with lead and wood? | True |  |
 | 32 | Who made Morning Haze and Summer Morning? | False | Partial Query Ontology Representation |
-| 33 | Which painters have died in Amsterdam? | True | ok |
-| 34 | What things are made by the guy Leonard Ochtman? | True | ok |
-| 35 | What artefacts are made of lead? | True | ok |
-| 36 | What arefacts are made by the artist Leonard Ochtman? | True | ok |
+| 33 | Which painters have died in Amsterdam? | True |  |
+| 34 | What things are made by the guy Leonard Ochtman? | True |  |
+| 35 | What artefacts are made of lead? | True |  |
+| 36 | What artefacts are made by the artist Leonard Ochtman? | True |  |
 | 37 | When did the production of Morning Haze end? | False | Incorrect Stanza interpretation |
-| 38 | What authors died in Madrid in 1660? | True | ok |
-| 39 | When did the creation of Morning Haze start? | True | ok |
-| 40 | When was the production of Morning Haze ended? | True | ok |
-| 41 | When did Leonard Ochtman paint Morning Haze? | True | ok |
-| 42 | Where did the painter of Morning Haze born? | True | ok |
-| 43 | Which painter died at the birthplace of Leonard Ochtman? | True | ok |
-| 44 | Who gave sculptures made by Leonard Ochtman? | True | ok |
+| 38 | What authors died in Madrid in 1660? | True |  |
+| 39 | When did the creation of Morning Haze start? | True |  |
+| 40 | When was the production of Morning Haze ended? | True |  |
+| 41 | When did Leonard Ochtman paint Morning Haze? | True |  |
+| 42 | Where did the painter of Morning Haze born? | True |  |
+| 43 | Which painter died at the birthplace of Leonard Ochtman? | True |  |
+| 44 | Who gave sculptures made by Leonard Ochtman? | True |  |
 | 45 | What are the artefacts produced at the deathdate of Leonard Ochtman? | False | Incorrect Query Ontology Representation |
-| 46 | Who was born between 1950 and 1970? | True | ok |
-| 47 | Who was born before 1950? | True | ok |
+| 46 | Who was born between 1950 and 1970? | True |  |
+| 47 | Who was born before 1950? | True |  |
 | 48 | Who was born in 1950 or in 1970? | False | Partial Query Ontology Representation |
-| 49 | What artefacts were made after 2000? | True | ok |
+| 49 | What artefacts were made after 2000? | True |  |
 | 50 | Where did Mary go in 1900? | True | Incorrect Query Ontology Representation |
 
 The file presents the results of all the sub-modules of the system: the Partial Semantic Representation, the Query Ontology Representation and the Genererated SPARQL Query. Moreover, are presented the SPARQL Response of the generated query, the SPARQL Response of the manual validation set and the comparation result between thw two responses. The comparation is boolean and it gives true if the SPARQL Response of the generated query contains the the SPARQL Response of the manual validation set.
